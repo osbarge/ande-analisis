@@ -1,0 +1,171 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BCP2,14/10/2020 13:46,14/10/2020 15:03,Accidental,Adverso,Transformador averiado. Aguirre y Peña.,"Bella Vista, Santo Domingo, Manorá."
+BCP2,26/10/2020 02:27,26/10/2020 03:23,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bella Vista, Santo Domingo, Manorá."
+BCP2,26/10/2020 03:27,26/10/2020 09:31,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bella Vista, Santo Domingo, Manorá."
+BMO1,26/10/2020 01:45,26/10/2020 04:35,Accidental,Adverso,Condiciones Climáticas Adversas.,"Itay, San Jorge."
+BMO1,27/10/2020 11:45,27/10/2020 12:30,Accidental,Normal,No establecido.,"Itay, San Jorge."
+BMO1,29/10/2020 15:28,Recierre,Accidental,Normal,No establecido.,"Itay, San Jorge."
+BMO1,29/10/2020 15:55,29/10/2020 15:57,Accidental,Normal,Seccionador N° 54121 averiado.,"Itay, San Jorge."
+BPA10,26/10/2020 01:37,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA10,26/10/2020 02:26,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,"Abierto Interruptor. Para efectuar reparación de SFT.Guido Spano y Denis Roa.","Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA12,24/10/2020 04:03,Recierre,Accidental,Normal,No establecido.,"Salvador del Mundo, San Cristobal,San Jorge."
+BPA2,26/10/2020 01:44,26/10/2020 03:23,Accidental,Adverso,Condiciones Climáticas Adversas.,"Manorá, Ykua Sati."
+BPA4,14/10/2020 01:44,14/10/2020 02:29,Accidental,Normal,Tramo subterráneo averiado. Primer tramo averiado.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA6,26/10/2020 01:38,26/10/2020 10:20,Accidental,Adverso,Condiciones Climáticas Adversas.,"Itay, Ykua Sati, San Jorge."
+BPA8,24/10/2020 01:57,24/10/2020 03:12,Accidental,Normal,Fusible Operado. Del Maestro y Rivarola.,Villa Morra.
+BPA8,26/10/2020 01:56,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Morra.
+CEN6,17/10/2020 09:03,17/10/2020 09:56,Accidental,Normal,"Línea subterránea averiada. 14 de Mayo e/ Palma yEstrella.","La Encarnación, La Catedral."
+FDM2,14/10/2020 15:02,Recierre,Accidental,Adverso,Vientos fuertes.,San Pablo.
+FDM2,14/10/2020 19:22,14/10/2020 20:06,Accidental,Adverso,Vientos fuertes.,San Pablo.
+FDM2,14/10/2020 20:29,14/10/2020 20:31,Accidental,Adverso,Cruceta MT rota. Maskoi y Chamacoco.,San Pablo.
+FDM3,26/10/2020 02:12,26/10/2020 03:20,Accidental,Adverso,Condiciones Climáticas Adversas.,San Pablo.
+GDI1,16/10/2020 09:35,16/10/2020 10:06,Accidental,Normal,Pájaro sobre Línea MT. EEUU y 2da.,"Gral. J. E Diaz, Obrero."
+GDI2,18/10/2020 12:55,18/10/2020 13:46,Accidental,Normal,Tramo subterráneo averiado. SM217-SM274.,"Gral. J. E Diaz, Obrero."
+GDI2,26/10/2020 01:46,26/10/2020 05:08,Accidental,Adverso,Condiciones Climáticas Adversas.,"Gral. J. E Diaz, Obrero."
+GDI2,26/10/2020 07:15,26/10/2020 07:33,Accidental,Adverso,Condiciones Climáticas Adversas.,"Gral. J. E Diaz, Obrero."
+GDI2,26/10/2020 12:15,26/10/2020 12:50,Accidental,Adverso,"Tramo subterráneo averiado. PD PS160 (50730 al50732).","Gral. J. E Diaz, Obrero."
+GDI3,26/10/2020 01:46,26/10/2020 03:17,Accidental,Adverso,Condiciones Climáticas Adversas.,Gral. J. E Diaz.
+GDI3,26/10/2020 21:07,26/10/2020 21:25,Accidental,Normal,"Abierto interruptor para normalizar derivación.Colón yBerlín.",Gral. J. E Diaz.
+GDI4,14/10/2020 19:36,14/10/2020 20:58,Accidental,Adverso,Vientos fuertes.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,"Abierto Interruptor. SF averiado. Tacuary y 32Proyectadas.","Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+LAM15,10/10/2020 10:46,10/10/2020 11:35,Accidental,Normal,"Brazo de AP en contacto con línea MT. Corpus Cristiy Natividad.",Itá Enramada.
+LAM22,1/10/2020 10:58,1/10/2020 12:32,Accidental,Adverso,Condiciones Climáticas Adversas.,"Hipódromo, Terminal."
+LAM22,11/10/2020 16:12,11/10/2020 16:41,Accidental,Normal,"Choque por sostén MT. Avda. Fernando de la Mora yParaíso.","Hipódromo, Terminal."
+LAM22,14/10/2020 09:04,14/10/2020 09:43,Accidental,Normal,"Transformador averiado, SF averiado. CristobalColón c/ Rca. Argentina.","Hipódromo, Terminal."
+LAM22,20/10/2020 12:34,20/10/2020 13:04,Accidental,Normal,No establecido.,"Hipódromo, Terminal."
+LAM22,20/10/2020 13:08,20/10/2020 13:49,Accidental,Normal,No establecido.,"Hipódromo, Terminal."
+LAM23,15/10/2020 00:15,15/10/2020 00:42,Accidental,Adverso,Vientos fuertes.,Mburicao.
+LAM23,23/10/2020 06:08,23/10/2020 06:58,Accidental,Normal,No establecido.,Mburicao.
+LAM23,23/10/2020 23:07,23/10/2020 23:50,Accidental,Normal,"Cruceta MT rota, SF averiado. PD EXCLUSIVO.Pariri y Avda. Fernando de la Mora.",Mburicao.
+LAM23,26/10/2020 01:41,26/10/2020 03:41,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburicao.
+LAM28,1/10/2020 11:36,1/10/2020 12:45,Accidental,Adverso,Condiciones Climáticas Adversas.,"Vista Alegre, Nazareth."
+LAM3,15/10/2020 01:10,15/10/2020 02:26,Accidental,Adverso,Vientos fuertes.,Vista Alegre.
+LAM3,26/10/2020 01:42,26/10/2020 03:42,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre.
+LAM30,6/10/2020 05:42,6/10/2020 06:32,Accidental,Normal,Ave en contacto con línea MT. Altos y Fuerte Olimpo.,Itá Enramada.
+LAM30,26/10/2020 01:36,26/10/2020 03:39,Accidental,Adverso,Condiciones Climáticas Adversas.,Itá Enramada.
+LAM5,4/10/2020 09:45,4/10/2020 10:13,Accidental,Normal,Fusible operado. Lado Cerro Guy.,"Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano, Pirizal."
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto en la RTU 51641. Felicidad eItaipu.","Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano, Pirizal."
+LAM5,26/10/2020 01:41,26/10/2020 03:42,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano, Pirizal."
+LAM7,21/10/2020 03:02,21/10/2020 03:42,Accidental,Normal,No establecido.,"Vista Alegre, Pinoza."
+LAM7,26/10/2020 01:33,26/10/2020 03:39,Accidental,Adverso,Condiciones Climáticas Adversas.,"Vista Alegre, Pinoza."
+MBU1,13/10/2020 10:49,13/10/2020 11:41,Accidental,Normal,Desperfecto Interno. Tregnatti y Campo Cervera.,"Las Carmelitas, Madame Lynch,Manorá."
+MBU2,1/10/2020 11:45,1/10/2020 13:14,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,13/10/2020 10:49,Recierre,Accidental,Normal,Desperfecto Interno. Tregnatti y Campo Cervera.,"Madame Lych, Mburucuyá."
+MBU3,13/10/2020 10:49,Recierre,Accidental,Normal,Desperfecto Interno. Tregnatti y Campo Cervera.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,1/10/2020 11:45,1/10/2020 13:15,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,"Línea MT en contacto con sostén intermedio. EnJuez Pino entre Escobar y Avda. Ñi Guazu.Condiciones climáticas adversas.","Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,14/10/2020 13:24,14/10/2020 13:55,Accidental,Adverso,Vientos fuertes.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,14/10/2020 13:59,14/10/2020 15:15,Accidental,Adverso,Vientos Fuertes.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,14/10/2020 19:31,14/10/2020 20:16,Accidental,Adverso,Vientos fuertes.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,26/10/2020 02:28,26/10/2020 03:22,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,26/10/2020 03:31,26/10/2020 05:26,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MRA1,1/10/2020 11:22,1/10/2020 14:10,Accidental,Adverso,Condiciones Climáticas Adversas.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,8/10/2020 18:06,8/10/2020 18:48,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,12/10/2020 17:27,12/10/2020 18:12,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,26/10/2020 01:43,26/10/2020 11:52,Accidental,Adverso,Condiciones Climáticas Adversas.,"Loma Pyta, Zeballos Cué, San Blas."
+PBO1,1/10/2020 10:52,1/10/2020 12:40,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué, Bañado"
+PBO1,1/10/2020 12:48,1/10/2020 14:24,Accidental,Adverso,Seccionador N° 53597 averiado F1.,"Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué, Bañado"
+PBO10,1/10/2020 11:53,1/10/2020 13:51,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,23/10/2020 23:03,24/10/2020 00:47,Accidental,Normal,No establecido.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,24/10/2020 02:48,24/10/2020 02:59,Accidental,Normal,Al efectuar maniobras.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,25/10/2020 12:16,25/10/2020 12:36,Accidental,Normal,No establecido.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,25/10/2020 14:12,25/10/2020 15:10,Accidental,Normal,No establecido.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,"Línea MT Suelta y Cruceta MT rota. PrimerPresidente e/ Viuda de las llanas y 8 de Junio.","Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,26/10/2020 01:50,26/10/2020 03:47,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Cará Cará, Botánico, SantaRosa."
+PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,"Abierto interruptor para efectuar maniobras.Seccionador N° 1 (54551) averiado.","Bañado Cará Cará, Botánico, SantaRosa."
+PBO14,29/10/2020 05:44,29/10/2020 06:50,Accidental,Normal,No establecido.,Zeballos Cué.
+PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,"Condiciones Climáticas Adversas. Condicionesclimáticas adversas.","Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO17,2/10/2020 08:04,2/10/2020 08:11,Accidental,Adverso,Al efectuar maniobra en el Seccionador N° 52432.,"Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO17,26/10/2020 01:50,26/10/2020 03:45,Accidental,Adverso,Condiciones Climáticas Adversas.,"Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO20,1/10/2020 11:20,1/10/2020 13:49,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico.
+PBO20,26/10/2020 02:17,26/10/2020 11:56,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico.
+PBO20,26/10/2020 12:31,26/10/2020 12:33,Accidental,Adverso,"Puente MT Suelto en la RTU N° 50262. Línea MTdesprendida frente a Viñas Cue.",Botánico.
+PBO20,26/10/2020 17:25,26/10/2020 17:38,Accidental,Normal,"Abierto interruptor para efectuar reparación de líneaMT desprendida del aislador y cambio de cruceta MTrota.",Botánico.
+PBO21,23/10/2020 23:02,24/10/2020 01:24,Accidental,Normal,Línea MT Suelta y aislador averiado.,Zeballos Cué.
+PBO6,25/10/2020 07:12,25/10/2020 07:37,Programado,Normal,CORTE DO/ACO/1547/2020.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO6,26/10/2020 09:33,26/10/2020 10:11,Accidental,Adverso,SF averiado. Genaro Romero y Escobar.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PCA1,4/10/2020 07:31,4/10/2020 08:11,Programado,Normal,MEMO DD/DCC1/265/2020.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PCA1,4/10/2020 14:05,4/10/2020 14:07,Programado,Normal,MEMO DD/DCC1/265/2020.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PCA1,9/10/2020 15:17,9/10/2020 15:50,Accidental,Normal,Línea MT suelta. Azara y Curupaity.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PCA1,13/10/2020 12:57,13/10/2020 13:13,Accidental,Normal,"Línea Subterránea averiada tramo SM191-SM247.Antequera y Rca. Colombia por terceros. Sin estadode precaución.","San Roque, La Catedral."
+PCA1,26/10/2020 02:07,26/10/2020 03:29,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Roque, La Catedral."
+PCA11,19/10/2020 23:18,19/10/2020 23:48,Accidental,Normal,No establecido.,"Ricardo Brugada, San Felipe."
+PCA11,24/10/2020 00:07,24/10/2020 02:08,Accidental,Normal,No establecido.,"Ricardo Brugada, San Felipe."
+PCA5,4/10/2020 07:31,4/10/2020 08:11,Programado,Normal,MEMO DD/DCC1/265/2020.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PCA5,4/10/2020 14:05,4/10/2020 14:07,Programado,Normal,MEMO DD/DCC1/265/2020.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PCA5,26/10/2020 05:27,26/10/2020 06:53,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PCA6,4/10/2020 07:31,4/10/2020 08:11,Programado,Normal,MEMO DD/DCC1/265/2020.,La Catedral.
+PCA6,4/10/2020 14:05,4/10/2020 14:07,Programado,Normal,MEMO DD/DCC1/265/2020.,La Catedral.
+PCA8,14/10/2020 19:15,14/10/2020 20:58,Accidental,Adverso,Fusible operado. India y San Miguel.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,26/10/2020 01:46,26/10/2020 03:30,Accidental,Adverso,Condiciones Climáticas Adversas.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,26/10/2020 15:52,26/10/2020 17:37,Accidental,Adverso,Condiciones Climáticas Adversas.,"Banco San Miguel, Tablada Nueva,Jara."
+PSA11,1/10/2020 11:40,1/10/2020 14:43,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Tacumbu, Sajonia."
+PSA11,11/10/2020 19:43,11/10/2020 19:52,Accidental,Normal,"Abierto interruptor para aislar avería. Línea MT sueltaF1, Urcisino Velazco y Martín Fierro.","Bañado Tacumbu, Sajonia."
+PSA11,11/10/2020 21:35,11/10/2020 21:38,Accidental,Normal,Al efectuar maniobras en el Seccionador 50698.,"Bañado Tacumbu, Sajonia."
+PSA11,13/10/2020 08:20,13/10/2020 08:37,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,13/10/2020 17:36,13/10/2020 17:48,Accidental,Normal,Aislador averiado. Cnel. Lirio y Bozzano.,"Bañado Tacumbu, Sajonia."
+PSA11,14/10/2020 16:08,14/10/2020 16:28,Accidental,Adverso,Vientos fuertes.,"Bañado Tacumbu, Sajonia."
+PSA11,21/10/2020 08:06,21/10/2020 19:02,Programado,Normal,PEDIDO DE CORTE DO/ACO/1502/2020.,"Bañado Tacumbu, Sajonia."
+PSA11,25/10/2020 07:11,25/10/2020 07:34,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,26/10/2020 01:29,26/10/2020 04:21,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Tacumbu, Sajonia."
+PSA11,26/10/2020 22:17,26/10/2020 22:20,Accidental,Adverso,"Línea MT en contacto con brazo de AP.Transformador averiado Velazco y Martín Fierro.","Bañado Tacumbu, Sajonia."
+PSA11,26/10/2020 22:50,26/10/2020 22:52,Accidental,Adverso,Al efectuar maniobras.,"Bañado Tacumbu, Sajonia."
+PSA12,26/10/2020 01:31,26/10/2020 02:58,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López.
+PSA12,26/10/2020 23:41,26/10/2020 23:55,Accidental,Adverso,"Abierto Interruptor. Puente MT Suelto F1. Cap.Gwynn y Melo de Portugal.",Carlos A. López.
+PSA12,27/10/2020 19:22,27/10/2020 19:48,Accidental,Normal,"Abierto Interruptor. Puente MT Suelto. Cap. Gwynn yMelo de Portugal.",Carlos A. López.
+PSA3,23/10/2020 12:05,23/10/2020 12:13,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de SFaveriado. Cnel. Martínez y Alejo Garcia.","San Antonio, Dr. Gaspar R. de Francia."
+PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Antonio, Dr. Gaspar R. de Francia."
+PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Antonio, Dr. Gaspar R. de Francia."
+PSA4,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,"Al reponer seccionador fusible. PE Hospital delQuemado (Ex Clínicas).","San Antonio, Dr. Gaspar R. de Francia."
+PSA4,14/10/2020 19:39,14/10/2020 20:21,Accidental,Adverso,Vientos fuertes.,"San Antonio, Dr. Gaspar R. de Francia."
+PSA4,14/10/2020 19:39,14/10/2020 20:37,Accidental,Adverso,Vientos fuertes.,"Ita Pyta Punta,."
+PSA4,26/10/2020 01:31,26/10/2020 02:57,Accidental,Adverso,Condiciones Climáticas Adversas.,"Ita Pyta Punta,."
+PSA4,26/10/2020 03:08,26/10/2020 10:32,Accidental,Adverso,Condiciones Climáticas Adversas.,"Ita Pyta Punta,."
+PSA4,26/10/2020 11:54,26/10/2020 11:56,Accidental,Adverso,"Tramo averiado CE-54 a PE CAJA MUNICIPAL.Desperfecto interno PE VENDOME. GALERIAGUARANI.","Ita Pyta Punta,."
+PSA5,26/10/2020 01:36,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,"Abierto Interruptor. Puente MT Suelto F1. SalidaSubterránea. Trasferencia sobre PSA8.","La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,"Al reponer seccionador fusible. PE Hospital delQuemado (Ex Clínicas).","San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA7,12/10/2020 18:05,12/10/2020 18:42,Accidental,Normal,"Ramas sobre línea MT, en Carlos Gomez y Tte.Colmán.","Bañado Tacumbu, Carlos. A. López."
+PSA7,17/10/2020 15:22,17/10/2020 16:27,Accidental,Normal,No establecido.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,17/10/2020 20:08,17/10/2020 20:12,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.","Bañado Tacumbu, Carlos. A. López."
+PSA7,28/10/2020 23:37,28/10/2020 23:40,Accidental,Normal,"Al efectuar maniobras. Puente MT Suelto. Vda. delas Llanas. Desperfecto interno Estadio Defensoresdel Chaco.","Bañado Tacumbu, Carlos. A. López."
+PSA7,30/10/2020 09:17,30/10/2020 09:21,Accidental,Normal,Cruceta MT rota. Decoud y Lerida.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,30/10/2020 09:54,30/10/2020 10:07,Accidental,Normal,"Abierto Interruptor. Para efectuar reparación. SFaveriado.","Bañado Tacumbu, Carlos. A. López."
+PSA8,26/10/2020 01:47,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio.
+PSA9,26/10/2020 01:43,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López.
+PSA9,28/10/2020 14:10,28/10/2020 14:48,Accidental,Normal,Puente MT Suelto en el Seccionador N° 52689.,Carlos A. López.
+PSA9,28/10/2020 15:46,28/10/2020 15:51,Accidental,Normal,Abierto Interruptor. Puente MT Suelto.,Carlos A. López.
+REP1,14/10/2020 21:33,14/10/2020 21:35,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. SFaveriado. Japón y 37 Proyectadas.",Dr. Roberto L. Petit.
+REP2,14/10/2020 14:30,14/10/2020 16:06,Accidental,Adverso,Vientos fuertes.,"Republicano, Santa Librada."
+REP2,26/10/2020 01:31,26/10/2020 08:52,Accidental,Adverso,"Cruceta MT rota. Ciudad de Chivas y Pizarro. FusibleOperado. Fariña Sánchez y Villalón.","Republicano, Santa Librada."
+REP3,1/10/2020 11:08,1/10/2020 17:33,Accidental,Adverso,Condiciones climáticas adversas.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,1/10/2020 18:03,1/10/2020 18:06,Accidental,Adverso,Al efectuar maniobra. Seccionador N° 53044.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,1/10/2020 18:51,1/10/2020 18:54,Accidental,Adverso,Al efectuar maniobra.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,14/10/2020 15:23,Recierre,Accidental,Adverso,Vientos fuertes.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. LíneaMT Suelta, cruceta rota, Puente MT Suelto.","San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,17/10/2020 12:22,17/10/2020 13:11,Accidental,Normal,SF operado. Complejo Aranjuez.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,25/10/2020 14:33,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,26/10/2020 01:34,26/10/2020 03:08,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,29/10/2020 16:18,29/10/2020 17:05,Accidental,Normal,SF averiado. 18 de Julio y Felix Bogado.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP4,26/10/2020 02:18,26/10/2020 03:07,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo.
+REP4,26/10/2020 03:10,26/10/2020 03:53,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo.
+REP4,26/10/2020 05:38,26/10/2020 06:30,Accidental,Adverso,"Condiciones Climáticas Adversas. Transferenciaparcial sobre VAU5.",Hipódromo.
+REP4,26/10/2020 09:17,26/10/2020 09:30,Accidental,Adverso,Tramo subterráneo averiado. Primer tramo.,Hipódromo.
+REP5,1/10/2020 11:33,1/10/2020 15:18,Accidental,Adverso,Condiciones Climáticas Adversas.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP6,14/10/2020 15:35,Recierre,Accidental,Adverso,Vientos fuertes.,"San Vicente, Pinoza, Pirizal."
+REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. PuenteMT Suelto. Magallanes y Zorrilla de San Martín.","San Vicente, Pinoza, Pirizal."
+REP6,26/10/2020 01:33,26/10/2020 03:06,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Vicente, Pinoza, Pirizal."
+REP6,26/10/2020 03:10,26/10/2020 11:26,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Vicente, Pinoza, Pirizal."
+SMI10,24/10/2020 00:00,24/10/2020 00:18,Accidental,Normal,No establecido.,"Las Mercedes, Mburicao, Gral.Bernardino Caballero."
+SMI11,10/10/2020 07:19,10/10/2020 07:55,Accidental,Normal,No establecido.,"Virgen de la Asunción, Virgen delHuerto, Bella Vista, Mcal. Francisco.S.López, Jara."
+SMI5,14/10/2020 13:29,14/10/2020 14:50,Accidental,Adverso,Vientos fuertes.,"Las Mercedes, Ciudad Nueva."
+VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,"Abierto Interruptor. Puente MT Suelto F1.Aislador delSeccionador N° 52981 desprendido. S.R. Gónzalez yJosé Marti.","Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU10,2/10/2020 12:00,2/10/2020 12:04,Accidental,Normal,"Abierto interruptor para efectuar reparación depuente MT suelto. Salida del VAU 10.","Mcal. Estigarribia, Recoleta,"
+VAU14,21/10/2020 00:23,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU14,26/10/2020 02:32,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU3,23/10/2020 23:55,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, San Pablo."
+VAU3,25/10/2020 12:16,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, San Pablo."
+VAU3,26/10/2020 01:35,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Villa Aurelia, San Pablo."
+VAU3,29/10/2020 15:07,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, San Pablo."
+VAU4,24/10/2020 00:03,24/10/2020 00:59,Accidental,Normal,Cruceta MT rota. Médicos del Chaco y Carios.,"Los Laureles, Nazaret, Recoleta,Tembetary."

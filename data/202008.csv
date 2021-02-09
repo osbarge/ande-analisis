@@ -1,0 +1,90 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.","Bella Vista, Santo Domingo, Manorá."
+BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.","Las Carmelitas, Villa Morra, Manorá."
+BMO2,25/08/2020 22:08,Recierre,Accidental,Normal,No establecido.,Itay.
+BPA4,7/08/2020 12:21,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, SanCristobal, Santa María."
+BPA8,19/08/2020 21:31,Recierre,Accidental,Normal,No establecido.,Villa Morra.
+FDM2,11/08/2020 15:13,Recierre,Accidental,Normal,No establecido.,San Pablo.
+FDM2,14/08/2020 23:10,14/08/2020 23:11,Programado,Normal,"MEMO DD/DCC1/206/2020. Transferencias sobreLAM18.",San Pablo.
+FDM2,19/08/2020 20:10,Recierre,Accidental,Normal,No establecido.,San Pablo.
+FDM2,23/08/2020 11:53,23/08/2020 13:06,Accidental,Normal,"Choque por sostén MT y cruceta MT rota.Defensores del Chaco y Progreso.",San Pablo.
+FDM3,14/08/2020 23:36,14/08/2020 23:37,Programado,Normal,"MEMO DD/DCC1/206/2020. Transferencia sobreVAU5.",San Pablo.
+GDI2,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,"Gral. J. E Diaz, Obrero."
+GDI3,7/08/2020 14:53,7/08/2020 15:29,Accidental,Normal,Brazo de AP en contacto con MT. Montevideo y 9na.,Gral. J. E Diaz.
+GDI3,11/08/2020 08:17,11/08/2020 09:11,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI3,20/08/2020 09:51,20/08/2020 10:08,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI3,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Gral. J. E Diaz.
+GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+LAM10,7/08/2020 14:44,7/08/2020 15:20,Accidental,Normal,"Desperfecto interno, Fernando de la Mora e Yvapovo.",Terminal.
+LAM22,8/08/2020 00:20,8/08/2020 01:16,Accidental,Normal,"Choque por columna y Línea desprendida. Rca.Argentina y Tobati.","Hipódromo, Terminal."
+LAM22,23/08/2020 23:16,23/08/2020 23:48,Accidental,Normal,"Rama sobre línea MT. Ecuador y RepúblicaArgentina.","Hipódromo, Terminal."
+LAM23,4/08/2020 14:42,4/08/2020 15:22,Accidental,Normal,"Paloma en contacto con cruceta y F2. Eliseo Peraltay Guaraníes.",Mburicao.
+LAM23,5/08/2020 21:03,5/08/2020 21:30,Programado,Normal,No establecido.,Mburicao.
+LAM23,5/08/2020 23:25,5/08/2020 23:56,Accidental,Normal,"Abierto interruptor para reparación de Puente MTsuelto y fusible averiado.",Mburicao.
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.","Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano,Pirizal."
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.","Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano,Pirizal."
+LAM7,12/08/2020 03:07,12/08/2020 03:44,Accidental,Adverso,Condiciones Climáticas Adversas.,"Vista Alegre, Pinoza."
+LAM7,20/08/2020 01:34,20/08/2020 03:14,Accidental,Normal,No establecido.,"Vista Alegre, Pinoza."
+MBU2,20/08/2020 01:11,20/08/2020 01:51,Accidental,Normal,Cruceta MT rota. Tte. Esquivel y Sgto. Pisciota.,"Madame Lych, Mburucuyá."
+MBU2,25/08/2020 07:25,25/08/2020 08:29,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,25/08/2020 08:40,25/08/2020 08:53,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,29/08/2020 15:24,29/08/2020 17:09,Accidental,Normal,"Línea MT en contacto por sostén intermedio. Calle 8y Rufino Cañete.","Madame Lych, Mburucuyá."
+MBU2,30/08/2020 08:27,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU3,10/08/2020 16:43,Recierre,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,"Ramas sobre Línea MT en J. Pinho y La Piedad.Poste Intermedio en contacto con Línea MT en J.Pinho y Tte. Insfrán.","Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,"Línea MT Suelta. Diagonal La Piedad y PinhoGonzalez.","Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU7,13/08/2020 10:26,Recierre,Accidental,Normal,No establecido.,"Virgen de la Asunción, CañadaYbyray."
+MBU7,13/08/2020 11:40,13/08/2020 11:52,Accidental,Normal,"Abierto Interruptor, Línea MT Suelta en Molas Lópezy Veteranos del 70.","Virgen de la Asunción, CañadaYbyray."
+MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,"Desperfecto interno Supermercando KINGO. SanRoque y Eligio Ayala.","Loma Pyta, Zeballos Cué, San Blas."
+MRA11,19/08/2020 18:30,Recierre,Accidental,Normal,No establecido.,Loma Pyta.
+MRA11,19/08/2020 18:49,19/08/2020 20:43,Accidental,Normal,No establecido.,Loma Pyta.
+MRA11,19/08/2020 20:44,19/08/2020 21:11,Accidental,Normal,"Línea MT en contacto con F2 por poste intermedio.Línea MT Suelta F3 en Tatare y Quintana.",Loma Pyta.
+PBO14,8/08/2020 05:12,8/08/2020 05:59,Accidental,Normal,No establecido.,Zeballos Cué.
+PBO14,29/08/2020 12:50,29/08/2020 15:13,Accidental,Normal,"Puente MT Suelto. Entrada subterráneo en Mcal.Estigarribia y Epopeya Nacional. Tramo averiado.",Zeballos Cué.
+PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,"Salvador del Mundo, Mbocayaty,Santa Rosa, Santisima Trinidad."
+PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,"Salvador del Mundo, Mbocayaty,Santa Rosa, Santisima Trinidad."
+PBO20,20/08/2020 00:09,20/08/2020 00:33,Accidental,Normal,No establecido.,Botánico.
+PBO20,20/08/2020 16:54,20/08/2020 17:53,Accidental,Normal,Línea MT en C.C. Epopeya Nacional y Diaz.,Botánico.
+PBO20,23/08/2020 15:51,23/08/2020 16:51,Accidental,Normal,No establecido.,Botánico.
+PCA5,17/08/2020 00:55,17/08/2020 01:18,Accidental,Normal,No establecido.,La Catedral.
+PCA5,21/08/2020 21:13,21/08/2020 21:47,Accidental,Normal,No establecido.,La Catedral.
+PCA6,16/08/2020 13:49,16/08/2020 15:05,Accidental,Normal,No establecido.,La Catedral.
+PCA6,23/08/2020 08:41,23/08/2020 08:58,Accidental,Normal,Al efectuar apertura del SBC 51562 - PD SM262.,La Catedral.
+PCA6,26/08/2020 02:56,26/08/2020 03:13,Accidental,Normal,No establecido.,La Catedral.
+PCA6,30/08/2020 08:08,30/08/2020 08:31,Accidental,Normal,No establecido.,La Catedral.
+PCA6,30/08/2020 08:43,30/08/2020 09:09,Accidental,Normal,"Aislador porta barras averiado. PE FERIAASUNCIÓN. Azara y México.",La Catedral.
+PSA11,9/08/2020 16:28,9/08/2020 17:17,Accidental,Normal,Cola de pandorga. Zona Bañado.,"Bañado Tacumbu, Sajonia."
+PSA11,12/08/2020 09:57,12/08/2020 11:20,Accidental,Normal,Cruceta MT rota. Bañado Sur.,"Bañado Tacumbu, Sajonia."
+PSA11,14/08/2020 02:52,14/08/2020 03:20,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA12,11/08/2020 15:01,11/08/2020 16:04,Accidental,Normal,"Tramo subterráneo averiado, acometida al PD PS81.Cruceta MT rota. SF averiado.",Carlos A. López.
+PSA12,11/08/2020 22:35,11/08/2020 22:38,Accidental,Normal,"Abierto Interruptor, para efectuar cierre de SFT alPS81.",Carlos A. López.
+PSA4,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,"Descargador averiado. Dr. Montero e Isabel LaCatólica.",Ita Pyta Punta.
+PSA4,27/08/2020 19:11,27/08/2020 19:33,Accidental,Normal,No establecido.,Ita Pyta Punta.
+PSA4,29/08/2020 09:32,29/08/2020 10:07,Accidental,Normal,No establecido.,Ita Pyta Punta.
+PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,"San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,"San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,"Descargador averiado. Dr. Montero e Isabel LaCatólica.","San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,"San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA7,24/08/2020 12:27,24/08/2020 13:03,Accidental,Normal,"Drone en contacto con línea MT. 23 Proyectadas e/México y Antequera.","Bañado Tacumbu, Carlos. A. López."
+REP1,12/08/2020 02:48,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit.
+REP3,1/08/2020 08:21,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty,Santa Librada, Pirizal."
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,"Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.","San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty,Santa Librada, Pirizal."
+REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.","Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP6,19/08/2020 18:58,Recierre,Accidental,Normal,No establecido.,"San Vicente, Pinoza, Pirizal."
+REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,"San Vicente, Pinoza, Pirizal."
+REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,"San Vicente, Pinoza, Pirizal."
+REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,"Sostén intermedio en contacto con Línea MT. MGardell c/ Zorrilla de San Martín.","San Vicente, Pinoza, Pirizal."
+REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,"San Vicente, Pinoza, Pirizal."
+REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,"San Vicente, Pinoza, Pirizal."
+REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,"Terminal intemperie averiado F2. Próceres de Mayo ySuecia.","San Vicente, Pinoza, Pirizal."
+REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,"San Vicente, Pinoza, Pirizal."
+REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.","Tte. Silvio Petirosi, San Vicente,Pinoza."
+SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco.S. López, Gral. BernardinoCaballero."
+SMI3,21/08/2020 08:01,21/08/2020 08:21,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.","Gral. Bernardino Caballero, CiudadNueva."
+SMI5,20/08/2020 00:35,20/08/2020 00:52,Accidental,Normal,No establecido.,"Las Mercedes, Ciudad Nueva."
+SMI7,22/08/2020 03:25,22/08/2020 04:12,Accidental,Normal,No establecido.,"San Felipe, Jara."
+VAU1,11/08/2020 09:49,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU6,22/08/2020 14:50,22/08/2020 14:53,Programado,Normal,"Abierto interruptor para efectuar maniobras. Corteprogramado DD/MLD/075/20.",Mcal. Estigarribia.
+VAU8,19/08/2020 19:55,19/08/2020 21:07,Accidental,Normal,Cruceta MT rota. M. Dominguez y Rio Pilcomayo,Villa Aurelia.

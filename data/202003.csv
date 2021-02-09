@@ -1,0 +1,117 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BMO1,28/03/2020 08:34,28/03/2020 10:49,Accidental,Normal,"Línea MT suelta F2. Ibañez Rojas e/ Tuyuti y A.Caballero.","Itay, San Jorge."
+BPA10,10/03/2020 14:24,10/03/2020 15:22,Accidental,Normal,"Ramas sobre Línea MT. Avda. Mcal. López c/ CerroPorteño.","Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA10,13/03/2020 14:26,13/03/2020 14:31,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del BPA 10.","Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,18/03/2020 19:24,Recierre,Accidental,Adverso,Condiciones climáticas adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,19/03/2020 10:07,19/03/2020 10:22,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA5,8/03/2020 09:45,Recierre,Accidental,Normal,No establecido.,"San Cristobal, Recoleta."
+BPA5,28/03/2020 11:05,28/03/2020 12:26,Accidental,Normal,No establecido.,"San Cristobal, Recoleta."
+CEN3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"La Catedral, La Encarnación."
+CEN3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"La Catedral, La Encarnación."
+CEN4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Encarnación.
+CEN4,21/03/2020 10:24,21/03/2020 10:30,Accidental,Normal,No establecido.,La Encarnación.
+CEN4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Encarnación.
+CEN6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"La Encarnación, La Catedral."
+CEN6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"La Encarnación, La Catedral."
+FDM3,5/03/2020 20:42,5/03/2020 20:44,Accidental,Normal,Al efectuar maniobras.,San Pablo.
+FDM3,18/03/2020 09:12,18/03/2020 10:18,Accidental,Adverso,Condiciones climáticas adversas.,San Pablo.
+GDI1,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Gral. J. E Diaz, Obrero."
+GDI1,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Gral. J. E Diaz, Obrero."
+GDI2,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Gral. J. E Diaz, Obrero."
+GDI2,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Gral. J. E Diaz, Obrero."
+GDI3,7/03/2020 16:38,7/03/2020 17:05,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI3,9/03/2020 19:50,9/03/2020 20:32,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI3,9/03/2020 20:55,9/03/2020 20:57,Accidental,Normal,"Línea MT Subterránea averiada. Tramo PD PS146 aPD PS147.",Gral. J. E Diaz.
+GDI3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Gral. J. E Diaz.
+GDI3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Gral. J. E Diaz.
+GDI4,4/03/2020 14:06,Recierre,Accidental,Normal,No establecido.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,10/03/2020 23:15,10/03/2020 23:53,Accidental,Normal,No establecido.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+LAM10,7/03/2020 08:24,7/03/2020 08:40,Accidental,Normal,Al efectuar maniobras. Corte N° 350.,Terminal.
+LAM10,7/03/2020 08:51,7/03/2020 09:33,Accidental,Normal,Al efectuar maniobras.,Terminal.
+LAM10,7/03/2020 10:30,7/03/2020 16:46,Accidental,Normal,"Línea MT Suelta F1-F2, Cruceta MT rota enYvyrapyta y Vencedores del chaco.",Terminal.
+LAM22,22/03/2020 18:19,22/03/2020 18:22,Programado,Normal,"Abierto interruptor para efectuar reposición deseccionador fusible en forma directa. Núñez deBalboa c/ San Marcos.","Hipódromo, Terminal."
+LAM23,8/03/2020 07:23,8/03/2020 07:43,Accidental,Normal,"Ave en contacto con Línea MT. Nuñez de Balboa yMaskoi.",Mburicao.
+LAM23,16/03/2020 06:55,16/03/2020 07:35,Accidental,Normal,"Avería interna en PD exclusivo. Guarania c/ EliseoPeralta.",Mburicao.
+LAM23,18/03/2020 13:29,18/03/2020 14:38,Accidental,Adverso,"Pájaro en contacto con línea MT. Núñez de Balboa yRca. Argentina.",Mburicao.
+LAM3,13/03/2020 09:16,13/03/2020 09:53,Accidental,Normal,"Línea MT en contacto con brazo de AP.Universitarios Lambareños y Juan de Salazar.",Vista Alegre.
+LAM5,4/03/2020 13:35,4/03/2020 13:45,Accidental,Normal,No establecido.,"Santa Librada, Itá Enramada, Pirizal."
+LAM5,24/03/2020 12:39,24/03/2020 13:08,Accidental,Normal,Rama sobre línea MT. Santa Fe y Porvenir.,"Santa Librada, Itá Enramada, Pirizal."
+LAM7,2/03/2020 00:41,2/03/2020 01:36,Accidental,Normal,No establecido.,"Vista Alegre, Pinoza."
+MBU4,5/03/2020 09:55,5/03/2020 10:16,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,6/03/2020 07:36,6/03/2020 07:41,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Avda.Ñu Guazú.","Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,18/03/2020 09:35,18/03/2020 10:41,Accidental,Adverso,Condiciones climáticas adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,18/03/2020 19:37,Recierre,Accidental,Adverso,Condiciones climáticas adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,19/03/2020 10:17,19/03/2020 10:41,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,19/03/2020 11:58,Recierre,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,19/03/2020 11:59,19/03/2020 12:38,Accidental,Normal,"Puente MT suelto y descargador averiado. Autopista,frente al Garden Club.","Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador del Mundo,Mburucuyá."
+MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,"Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.","Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador del Mundo,Mburucuyá."
+MBU7,14/03/2020 00:26,Recierre,Accidental,Normal,No establecido.,"Virgen de la Asunción, Cañada Ybyray."
+MRA1,12/03/2020 05:12,12/03/2020 05:52,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
+PBO17,10/03/2020 15:43,10/03/2020 16:37,Accidental,Normal,"Tramo subterráneo averiado. Primer Presidente yTranschaco.","Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO20,6/03/2020 21:29,6/03/2020 22:02,Accidental,Normal,No establecido.,Botánico.
+PBO20,6/03/2020 22:20,6/03/2020 22:52,Accidental,Normal,Desperfecto interno. Puerto Unión.,Botánico.
+PBO21,13/03/2020 14:59,13/03/2020 15:21,Accidental,Normal,No establecido.,Zeballos Cué.
+PCA1,13/03/2020 08:57,13/03/2020 11:03,Accidental,Normal,Incendio en el PD SM253.,"San Roque, La Catedral."
+PCA11,10/03/2020 22:58,10/03/2020 23:24,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT suelto F2. Mompox y Playa.","Ricardo Brugada, San Felipe."
+PCA6,29/03/2020 21:25,29/03/2020 22:11,Accidental,Normal,"Seccionador averiado. Tramo PD CE51 a PE FeriaAsunción.",La Catedral.
+PCA6,29/03/2020 23:29,29/03/2020 23:42,Accidental,Normal,Al efectuar maniobras.,La Catedral.
+PCA8,1/03/2020 14:12,1/03/2020 15:33,Programado,Normal,Corte programado DD/MLD/014/20.,"Banco San Miguel, Tablada Nueva, Jara."
+PCA8,8/03/2020 14:26,8/03/2020 16:20,Programado,Normal,Corte programado DD/MLD/022/20.,"Banco San Miguel, Tablada Nueva, Jara."
+PSA11,2/03/2020 13:47,2/03/2020 14:27,Accidental,Normal,"Ocasionado por terceros. Contratista Saguan al tratarde normalizar OT N° 43/2020. Cnel. Lirio y Tte.Pratts.","Bañado Tacumbu, Sajonia."
+PSA11,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Bañado Tacumbu, Sajonia."
+PSA11,19/03/2020 16:34,19/03/2020 16:56,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,19/03/2020 18:10,19/03/2020 19:02,Programado,Normal,"Abierto interruptor para efectuar cambio de crucetaMT rota y reparación de puente MT suelto F1-2.Acometida a la Armada Nacional.","Bañado Tacumbu, Sajonia."
+PSA11,25/03/2020 09:30,25/03/2020 09:44,Programado,Normal,"Abiero interruptor para efectuar reparación de puenteMT suelto. Cap. Gwynn c/ Nuflo de Chávez.","Bañado Tacumbu, Sajonia."
+PSA11,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Bañado Tacumbu, Sajonia."
+PSA12,7/03/2020 23:10,7/03/2020 23:12,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF.5ta. y México.",Carlos A. López.
+PSA12,9/03/2020 23:47,10/03/2020 00:12,Accidental,Normal,No establecido.,Carlos A. López.
+PSA12,10/03/2020 01:00,10/03/2020 01:02,Accidental,Normal,Al efectuar maniobras.,Carlos A. López.
+PSA12,10/03/2020 01:12,10/03/2020 01:14,Accidental,Normal,"Línea MT Suelta en Cap. Gwynn y Gobernador Irala.Cap. Gwynn y Diaz de Guzmán.",Carlos A. López.
+PSA12,10/03/2020 02:25,10/03/2020 03:10,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de LíneaMT Suelta.",Carlos A. López.
+PSA12,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Carlos A. López.
+PSA12,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Carlos A. López.
+PSA3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"San Antonio, Dr. Gaspar R. de Francia."
+PSA3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"San Antonio, Dr. Gaspar R. de Francia."
+PSA4,10/03/2020 04:10,10/03/2020 04:17,Accidental,Normal,No establecido.,"Ita Pyta Punta,."
+PSA4,10/03/2020 19:40,10/03/2020 20:00,Accidental,Normal,Pérdida de aislación. PE VENDOME.,"Ita Pyta Punta,."
+PSA4,11/03/2020 16:54,11/03/2020 17:17,Accidental,Normal,Fusible operado. Palacio de Gobierno.,"Ita Pyta Punta,."
+PSA4,11/03/2020 18:45,11/03/2020 19:17,Accidental,Normal,Fusible operado. Palacio de Gobierno.,"Ita Pyta Punta,."
+PSA4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Ita Pyta Punta,."
+PSA4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Ita Pyta Punta,."
+PSA5,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,21/03/2020 10:30,21/03/2020 10:33,Accidental,Normal,Al efectuar maniobras.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,21/03/2020 10:59,21/03/2020 11:08,Accidental,Normal,"Desperfecto interno. PE AGPAR, Hernandarias e/Humaitá y Haedo.","La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,21/03/2020 11:45,21/03/2020 11:48,Accidental,Normal,Al efectuar maniobras.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,28/03/2020 01:02,28/03/2020 01:18,Accidental,Normal,No establecido.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA6,15/03/2020 16:40,15/03/2020 16:43,Accidental,Normal,Al efectuar maniobras.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA6,19/03/2020 03:46,19/03/2020 04:50,Accidental,Normal,"Línea MT en cortocircuito. De Las Llanas c/ Río deLa Plata.","San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA7,7/03/2020 08:24,7/03/2020 09:45,Accidental,Normal,No establecido.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,18/03/2020 19:05,18/03/2020 19:17,Accidental,Adverso,Condiciones climáticas adversas.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,"Bañado Tacumbu, Carlos. A. López."
+PSA8,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,San Antonio.
+PSA8,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,San Antonio.
+PSA9,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Carlos A. López.
+PSA9,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Carlos A. López.
+REP4,11/03/2020 14:00,11/03/2020 14:52,Accidental,Normal,Con carga de REP6.,Hipódromo.
+REP4,11/03/2020 15:07,11/03/2020 15:22,Accidental,Normal,No establecido.,Hipódromo.
+REP4,19/03/2020 18:11,19/03/2020 18:48,Accidental,Normal,"Pájaro en contacto con línea MT y sostén. Curupaytyy Encarnación.",Hipódromo.
+REP5,13/03/2020 12:00,13/03/2020 12:02,Producción,Normal,"Abierto interruptor por alivio de carga del TR-0266/23kV, a pedido de CORM.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP5,23/03/2020 04:44,23/03/2020 05:42,Accidental,Normal,"Tramo subterráneo averiado. PD SM276 al PESENEPA.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP5,23/03/2020 07:54,23/03/2020 08:00,Accidental,Normal,Al efectuar maniobras.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP9,1/03/2020 17:15,Recierre,Accidental,Normal,No establecido.,Tte. Silvio Petirosi.
+SMI5,18/03/2020 19:13,18/03/2020 20:25,Accidental,Adverso,Condiciones climáticas adversas.,"Las Mercedes, Ciudad Nueva."
+SMI5,18/03/2020 20:27,18/03/2020 20:30,Accidental,Adverso,Al efectuar maniobras.,"Las Mercedes, Ciudad Nueva."
+SMI5,19/03/2020 10:30,19/03/2020 10:34,Programado,Normal,"Abierto interruptor para efectuar cambio detransformador averiado, seccionador fusible averiadoy reparación de puente MT suelto. Predio de la SedeCentral ANDE.","Las Mercedes, Ciudad Nueva."
+SMI5,19/03/2020 11:23,19/03/2020 11:47,Programado,Normal,"Abierto interruptor para efectuar cierre del 51480, poravería anterior.","Las Mercedes, Ciudad Nueva."
+VAU10,27/03/2020 16:35,Recierre,Accidental,Normal,No establecido.,"Mcal. Estigarribia, Recoleta."
+VAU14,28/03/2020 11:40,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU3,18/03/2020 08:56,18/03/2020 10:23,Accidental,Adverso,"Aislador averiado y cruceta MT rota. Cap. VonSastrow c/ Dr. San Martín.","Villa Aurelia, San Pablo."
+VAU6,4/03/2020 16:16,4/03/2020 16:18,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto F1 en el  SLT N° 54075.",Mcal. Estigarribia.
+VAU6,13/03/2020 14:08,13/03/2020 14:24,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del VAU 6.",Mcal. Estigarribia.

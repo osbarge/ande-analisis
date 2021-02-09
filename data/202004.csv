@@ -1,0 +1,85 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,"Abierto interruptor para efectuar reparación depuente MT suelto. Roque C. Miranda c/ Sta. Ana - PEScavone Hnos.","Las Carmelitas, Villa Morra, Manorá."
+BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,"Abierto interruptor para efectuar maniobras decanalización del BPA 4.","Salvador del Mundo, San Cristobal, San Jorge."
+BPA12,30/04/2020 23:24,Recierre,Accidental,Normal,No establecido.,"Salvador del Mundo, San Cristobal, San Jorge."
+BPA4,9/04/2020 14:44,9/04/2020 16:18,Accidental,Normal,Tramo subterráneo averiado. Bertoni y Denis Roa.,"Luis Alberto de Herrera, San Cristobal, SantaMaría."
+GDI2,6/04/2020 16:49,6/04/2020 17:06,Programado,Normal,"Abierto interruptor para efectuar reposición deseccionador  fusible. Acometida al Hospital de Bo.Obrero.","Gral. J. E Diaz, Obrero."
+GDI3,27/04/2020 03:23,27/04/2020 03:24,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SFaveriado. 8va y Colón.",Gral. J. E Diaz.
+LAM10,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Terminal.
+LAM10,13/04/2020 18:23,13/04/2020 19:40,Accidental,Normal,"Ramas sobre Línea MT, Seccionador Fusibleaveriado. Vencedores del Chaco y Alejandro Ravizza.",Terminal.
+LAM10,28/04/2020 12:16,28/04/2020 12:51,Accidental,Normal,Puente MT suelto. Vencedores del Chaco y Ravizza.,Terminal.
+LAM15,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Itá Enramada.
+LAM22,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Hipódromo, Terminal."
+LAM23,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Mburicao.
+LAM23,28/04/2020 05:20,28/04/2020 06:18,Accidental,Normal,Transformador averiado. Hernán Cortes y Santa Inés.,Mburicao.
+LAM28,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Vista Alegre, Nazareth."
+LAM3,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Vista Alegre.
+LAM3,15/04/2020 11:00,15/04/2020 13:55,Programado,Normal,"Abierto interruptor para efectuar reparación de líneaMT suelta sobre LAM 17 y cambio de cruceta MTrota (triple terna LAM 3 - LAM 17 - LAM 18).",Vista Alegre.
+LAM3,22/04/2020 21:17,22/04/2020 21:19,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SFMT averiado. Cruce subterráneo. Avda. CaciqueLambare c/ Yacare Valija.",Vista Alegre.
+LAM30,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Itá Enramada.
+LAM5,7/04/2020 05:30,7/04/2020 06:45,Accidental,Normal,Fusible operado. Santa Rosa y Avda. Perón.,"Santa Librada, Itá Enramada, Pirizal."
+LAM5,8/04/2020 02:10,8/04/2020 03:00,Accidental,Normal,No establecido.,"Santa Librada, Itá Enramada, Pirizal."
+LAM5,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Santa Librada, Itá Enramada, Pirizal."
+LAM5,20/04/2020 12:19,20/04/2020 12:39,Accidental,Normal,No establecido.,"Santa Librada, Itá Enramada, Pirizal."
+LAM7,5/04/2020 16:12,5/04/2020 16:33,Accidental,Normal,"Pájaro en contacto con línea MT y cruceta. Nivacle yGuirnalda.","Vista Alegre, Pinoza."
+LAM7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Vista Alegre, Pinoza."
+LAM7,28/04/2020 12:46,28/04/2020 13:14,Accidental,Normal,Rama sobre línea MT. Juan Pablo II y Pirizal.,"Vista Alegre, Pinoza."
+MBU2,23/04/2020 06:56,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,23/04/2020 12:14,23/04/2020 13:12,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU3,13/04/2020 17:28,Recierre,Accidental,Normal,No establecido.,"Las Carmelitas, Madame Lynch, Mburucuyá."
+MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo deSeccionador fusible averiado. Molas López yFrancisco Férnandez.","Las Carmelitas, Madame Lynch, Mburucuyá."
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición deFusibles. Overava c/ Avda. Primer Presidente.","Santísima Trinidad, Madame Lych, Mbocayty, ÑuGuasu, Salvador del Mundo, Mburucuyá."
+MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lych, Mbocayty, ÑuGuasu, Salvador del Mundo, Mburucuyá."
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,"Tramo subterráneo averiado. Auditores y 1er.Presidente.","Santísima Trinidad, Madame Lych, Mbocayty, ÑuGuasu, Salvador del Mundo, Mburucuyá."
+MRA1,12/04/2020 16:07,12/04/2020 17:18,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
+PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano.Pedido de Estado de Precaución 116/2020.Colocación de poste MT intermedio, en contacto conLínea MT. Primer Presidente c/ Sacramento.","Salvador del Mundo, Mbocayaty, Santa Rosa,Santisima Trinidad."
+PBO17,25/04/2020 15:02,25/04/2020 15:50,Accidental,Normal,Puente MT suelto. San Juan c/ Tte. Monges.,"Salvador del Mundo, Mbocayaty, Santa Rosa,Santisima Trinidad."
+PBO17,25/04/2020 16:25,25/04/2020 16:28,Accidental,Normal,Al efectuar maniobras.,"Salvador del Mundo, Mbocayaty, Santa Rosa,Santisima Trinidad."
+PBO20,7/04/2020 16:20,7/04/2020 17:16,Accidental,Normal,"Línea MT suelta, cruceta MT rota y sostén averiado,ocasionado por terceros. Zeballos Cue, entrada aPuerto Unión.",Botánico.
+PBO20,7/04/2020 18:52,7/04/2020 19:47,Programado,Normal,"Abierto interruptor para efectuar reparación deseccionador de línea averiado y corte de ramas.",Botánico.
+PBO21,1/04/2020 20:34,1/04/2020 21:22,Accidental,Normal,"Transformador averiado. Epopeya Nacional y Mcal.Estigarribia.",Zeballos Cué.
+PBO21,3/04/2020 09:38,3/04/2020 10:08,Accidental,Normal,Transformador averiado. Barrio Caacupemi.,Zeballos Cué.
+PBO8,30/04/2020 16:58,30/04/2020 17:16,Accidental,Normal,No establecido.,"Virgen de Fátima, Santa Rosa."
+PCA5,18/04/2020 01:00,18/04/2020 01:48,Accidental,Normal,No establecido.,La Catedral.
+PCA5,23/04/2020 00:38,23/04/2020 01:20,Accidental,Normal,No establecido.,La Catedral.
+PCA5,24/04/2020 14:56,24/04/2020 15:27,Accidental,Normal,Ave en contacto con Línea MT. 14 de Mayo y Playa.,La Catedral.
+PCA6,2/04/2020 19:19,2/04/2020 20:02,Accidental,Normal,No establecido.,La Catedral.
+PCA6,15/04/2020 12:46,15/04/2020 13:29,Accidental,Normal,"Pérdida de aislación en el Seccionador 51833 - PDSM128. Edificio Imperial, Herrera c/ EE.UU.",La Catedral.
+PCA6,16/04/2020 17:56,16/04/2020 18:25,Accidental,Normal,No establecido.,La Catedral.
+PCA6,19/04/2020 16:15,19/04/2020 16:45,Accidental,Normal,"Seccionador bajo carga averiado. Seccionador 51558- SM 235.",La Catedral.
+PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto,Cruceta MT rota. Indias y 8 de Diciembre. BarrioTablada Nueva.","Banco San Miguel, Tablada Nueva, Jara."
+PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado,Puente MT Suelto, Cruceta MT rota. Indias y 8 deDiciembre. Barrio Tablada Nueva.","Banco San Miguel, Tablada Nueva, Jara."
+PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SFAveriado F2. Indias y Dublin.","Banco San Miguel, Tablada Nueva, Jara."
+PSA11,29/04/2020 09:45,29/04/2020 09:56,Accidental,Normal,Transformador averiado. U. Velazco y Rancho 8.,"Bañado Tacumbu, Sajonia."
+PSA4,13/04/2020 17:18,13/04/2020 17:37,Accidental,Normal,No establecido.,"Ita Pyta Punta,."
+PSA5,2/04/2020 02:13,2/04/2020 03:32,Accidental,Normal,No establecido.,"La Encarnación, San Antonio, Ita Pyta Punta, Dr.Gaspar R. de Francia."
+PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,"1- Rama sobre línea MT y fusible operado F1. Tte.Rodi y Tte. Prieto. 2- Fusible operado. ComandanteGamarra y Dr. Insfrán.","La Encarnación, San Antonio, Ita Pyta Punta, Dr.Gaspar R. de Francia."
+PSA5,13/04/2020 17:18,13/04/2020 17:38,Accidental,Normal,No establecido.,"La Encarnación, San Antonio, Ita Pyta Punta, Dr.Gaspar R. de Francia."
+PSA6,2/04/2020 02:13,2/04/2020 03:33,Accidental,Normal,No establecido.,"San Antonio, Ita Pyta Punta, Dr. Gaspar Rodriguezde Francia."
+PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,"Fusible operado en derivación. Isabel La Católica c/Tte. Guillermo Arias.","San Antonio, Ita Pyta Punta, Dr. Gaspar Rodriguezde Francia."
+PSA6,26/04/2020 06:17,26/04/2020 07:14,Accidental,Normal,No establecido.,"San Antonio, Ita Pyta Punta, Dr. Gaspar Rodriguezde Francia."
+REP1,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Dr. Roberto L. Petit.
+REP2,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Republicano, Santa Librada."
+REP3,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"San Pablo, Obrero, San Vicente, Republicano,Santa Ana, Jukyty, Santa Librada, Pirizal."
+REP4,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Hipódromo.
+REP5,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP6,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"San Vicente, Pinoza, Pirizal."
+REP7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP9,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Tte. Silvio Petirosi.
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,"Ramas de palmera sobre Línea MT. Acometida ClubCentenario.","Virgen de la Asunción, Virgen del Huerto, BellaVista, Mcal. Francisco.S. López, Jara."
+SMI2,16/04/2020 08:55,16/04/2020 09:46,Accidental,Normal,Fusible operado. Río de Janeiro y Brasilia.,"Mburicao, Recoleta, Mcal. Francisco. S. López,Gral. Bernardino Caballero."
+SMI2,16/04/2020 20:53,16/04/2020 21:22,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco. S. López,Gral. Bernardino Caballero."
+SMI2,25/04/2020 09:04,25/04/2020 09:35,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco. S. López,Gral. Bernardino Caballero."
+SMI3,2/04/2020 19:19,Recierre,Accidental,Normal,No establecido.,"Gral. Bernardino Caballero, Ciudad Nueva."
+SMI3,16/04/2020 17:56,Recierre,Accidental,Normal,No establecido.,"Gral. Bernardino Caballero, Ciudad Nueva."
+SMI3,19/04/2020 16:15,Recierre,Accidental,Normal,No establecido.,"Gral. Bernardino Caballero, Ciudad Nueva."
+SMI4,16/04/2020 20:53,16/04/2020 21:24,Accidental,Normal,No establecido.,Mcal F. S. López.
+SMI5,6/04/2020 04:14,6/04/2020 04:42,Accidental,Adverso,Condiciones climáticas adversas.,"Las Mercedes, Ciudad Nueva."
+VAU3,2/04/2020 15:28,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, San Pablo."
+VAU4,13/04/2020 17:29,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,"Fuera de servicio TR-05 y TR-06 ES-VAU. Ratóndentro de la Celda.","Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU4,24/04/2020 13:21,24/04/2020 15:47,Producción,Normal,"Abierto Interruptor, para efectuar limpieza.","Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU4,28/04/2020 08:55,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,"Fuera de servicio TR-05 y TR-06 ES-VAU. Ratóndentro de la Celda. Transferencia sobre VAU3.","Hipódromo, Mcal. José F. Estigarribia, VillaAurelia."
+VAU6,24/04/2020 12:18,24/04/2020 13:50,Producción,Normal,"Fuera de servicio TR-05 y TR-06 ES-VAU. Ratóndentro de la Celda. Transferencia sobre VAU10.",Mcal. Estigarribia.
+VAU8,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,"Fuera de servicio TR-05 y TR-06 ES-VAU. Ratóndentro de la Celda. Transferencia sobre VAU11.",Villa Aurelia.

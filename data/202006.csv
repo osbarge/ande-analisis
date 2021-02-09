@@ -1,0 +1,165 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BCP2,13/06/2020 05:24,13/06/2020 05:45,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bella Vista, Santo Domingo, Manorá."
+BCP2,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Bella Vista, Santo Domingo, Manorá."
+BCP3,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Las Carmelitas, Villa Morra, Manorá."
+BCP3,27/06/2020 23:34,27/06/2020 23:37,Programado,Normal,Abierto interruptor para efectuar maniobras.,"Las Carmelitas, Villa Morra, Manorá."
+BMO2,21/06/2020 08:21,Recierre,Accidental,Normal,No establecido.,Itay.
+BPA10,15/06/2020 12:38,15/06/2020 12:57,Accidental,Normal,"Choque por columna MT. Mcal. López e/ N. Torales yAlas Paraguayas.","Luis Alberto de Herrera, San Cristobal, SantaMaría."
+BPA10,15/06/2020 14:49,15/06/2020 15:32,Accidental,Normal,"Seccionador averiado, descargador averiado. GuidoSpano y N. Torales.","Luis Alberto de Herrera, San Cristobal, SantaMaría."
+BPA12,4/06/2020 16:35,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Salvador del Mundo, San Cristobal, SanJorge."
+BPA4,5/06/2020 05:13,5/06/2020 05:51,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal, SantaMaría."
+BPA5,4/06/2020 17:41,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Cristobal, Recoleta."
+BPA5,4/06/2020 19:05,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Cristobal, Recoleta."
+BPA5,25/06/2020 12:31,Recierre,Accidental,Normal,No establecido.,"San Cristobal, Recoleta."
+CEN3,4/06/2020 12:29,4/06/2020 13:31,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Catedral, La Encarnación."
+CEN3,13/06/2020 06:36,13/06/2020 07:18,Accidental,Adverso,"Aislador porta barra averiada en PE TAM. Gral. Diaze/ Alberdi y 14 de Mayo.","La Catedral, La Encarnación."
+CEN3,13/06/2020 12:10,13/06/2020 12:18,Accidental,Adverso,"Abierto Interruptor, para efectuar maniobras.","La Catedral, La Encarnación."
+CEN4,4/06/2020 11:23,4/06/2020 12:22,Accidental,Adverso,Agua en PD CE3. Edificio Asunción.,La Encarnación.
+CEN4,9/06/2020 14:25,9/06/2020 16:57,Accidental,Normal,"Fuera de servicio constatado por reclamos. CORMsin SCADA.",La Encarnación.
+CEN4,19/06/2020 11:54,19/06/2020 14:08,Accidental,Normal,"Humareda en la sala 23kV, TC averiado.",La Encarnación.
+CEN6,7/06/2020 23:02,7/06/2020 23:29,Accidental,Normal,No establecido.,"La Encarnación, La Catedral."
+CEN6,9/06/2020 14:25,9/06/2020 16:45,Accidental,Normal,"Fuera de servicio constatado por reclamos. CORMsin SCADA.","La Encarnación, La Catedral."
+CEN6,9/06/2020 19:24,9/06/2020 19:43,Accidental,Normal,"al efectuar maniobras. Agua en PD y Aisladoraveriado CE125. LIDER IV.","La Encarnación, La Catedral."
+CEN6,9/06/2020 21:22,9/06/2020 21:24,Accidental,Normal,Al efectuar maniobras.,"La Encarnación, La Catedral."
+CEN6,10/06/2020 01:25,10/06/2020 01:50,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Encarnación, La Catedral."
+GDI3,13/06/2020 05:32,13/06/2020 06:24,Accidental,Adverso,"Transformador averiado. 7ma Proyectada c/ 15 deAgosto.",Gral. J. E Diaz.
+GDI4,4/06/2020 12:57,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, Bañado Tacumbu."
+GDI4,5/06/2020 17:13,5/06/2020 17:18,Accidental,Normal,"Abierto Interruptor, para efectuar apertura de SFaveriado y cambio de aislador averiado. 34Proyectadas y México.","Obrero, Dr. Roberto L. Petit, Bañado Tacumbu."
+GDI4,16/06/2020 20:10,16/06/2020 20:36,Accidental,Normal,"Línea MT Suelta. 16 Proyectadas e IndependenciaNacional.","Obrero, Dr. Roberto L. Petit, Bañado Tacumbu."
+LAM10,15/06/2020 21:40,15/06/2020 22:53,Accidental,Normal,No establecido.,Terminal.
+LAM10,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.",Terminal.
+LAM10,30/06/2020 13:10,30/06/2020 14:23,Programado,Adverso,"Abierto interruptor para efectuar reparación deseccionador fusible averiado en derivación, sobre elLAM 7.",Terminal.
+LAM15,9/06/2020 05:53,9/06/2020 06:49,Accidental,Normal,Transformador averiado. Cap. Figari c/ Nanawa.,Itá Enramada.
+LAM15,29/06/2020 04:16,29/06/2020 05:57,Accidental,Normal,"1- Línea MT suelta F2-3. Juana de Lara y Pindó yChivato y Juana de Lara. 2- Puente MT suelto.Seccionador 52624.",Itá Enramada.
+LAM15,29/06/2020 12:09,29/06/2020 12:11,Accidental,Normal,"Al efectuar maniobras. Seccionador 54545 F2averiado.",Itá Enramada.
+LAM15,30/06/2020 02:20,30/06/2020 03:18,Accidental,Normal,No establecido.,Itá Enramada.
+LAM15,30/06/2020 05:17,30/06/2020 07:31,Accidental,Normal,"Línea MT protegida desprendida del perchero y encontacto con AP. Cacique Lambaré y Cerro Corá.",Itá Enramada.
+LAM22,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.","Hipódromo, Terminal."
+LAM22,30/06/2020 10:17,30/06/2020 10:28,Programado,Normal,"Abierto interruptor para efectuar cierre de puentesMT. Pedido de Corte DO/ACO/821/20.","Hipódromo, Terminal."
+LAM22,30/06/2020 13:10,30/06/2020 14:23,Programado,Adverso,"Abierto interruptor para efectuar reparación deseccionador fusible averiado en derivación, sobre elLAM 7.","Hipódromo, Terminal."
+LAM23,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.",Mburicao.
+LAM28,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.","Vista Alegre, Nazareth."
+LAM28,30/06/2020 13:10,30/06/2020 14:23,Programado,Adverso,"Abierto interruptor para efectuar reparación deseccionador fusible averiado en derivación, sobre elLAM 7.","Vista Alegre, Nazareth."
+LAM3,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.",Vista Alegre.
+LAM3,30/06/2020 08:52,30/06/2020 09:42,Accidental,Adverso,Condiciones climáticas adversas.,Vista Alegre.
+LAM30,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.",Itá Enramada.
+LAM5,17/06/2020 11:01,17/06/2020 11:37,Accidental,Adverso,Puente MT Suelto. Porvenir c/ Santa Ana.,"Santa Ana, Itá Enramada, Jukyty, SantaLibrada, San Cayetano, Pirizal."
+LAM5,22/06/2020 11:23,22/06/2020 11:42,Accidental,Normal,"Ocasionado por contratista. DO/ACO/194/2020.María Brun y Perón.","Santa Ana, Itá Enramada, Jukyty, SantaLibrada, San Cayetano, Pirizal."
+LAM5,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.","Santa Ana, Itá Enramada, Jukyty, SantaLibrada, San Cayetano, Pirizal."
+LAM7,15/06/2020 21:36,15/06/2020 22:34,Accidental,Normal,No establecido.,"Vista Alegre, Pinoza."
+LAM7,30/06/2020 06:12,30/06/2020 06:32,Producción,Normal,"F/S TR-01 y TR-02, al intentar cerrar el 52-LAM 15kV.","Vista Alegre, Pinoza."
+LAM7,30/06/2020 08:51,30/06/2020 09:24,Accidental,Adverso,Condiciones climáticas adversas.,"Vista Alegre, Pinoza."
+LAM7,30/06/2020 09:27,30/06/2020 11:06,Accidental,Adverso,"Línea MT desprendida del aislador y seccionadorfusible averiado F1-2-3. Bertoni y Mayor Bullo.","Vista Alegre, Pinoza."
+MBU1,11/06/2020 11:10,11/06/2020 12:43,Producción,Normal,Fuera de servicio SE-MBU.,"Las Carmelitas, Madame Lynch, Manorá."
+MBU1,27/06/2020 10:32,Recierre,Accidental,Normal,No establecido.,"Las Carmelitas, Madame Lynch, Manorá."
+MBU1,27/06/2020 11:32,27/06/2020 11:39,Programado,Normal,"Abierto interruptor para efectuar reposición deseccionador fusible en forma directa. Molas López yCirilo Gill.","Las Carmelitas, Madame Lynch, Manorá."
+MBU1,27/06/2020 23:16,27/06/2020 23:18,Programado,Normal,"Trabajos programados, Barra A/23kV - SE.MBU.MEMO DD/DCC1/140/2020.","Las Carmelitas, Madame Lynch, Manorá."
+MBU2,6/06/2020 14:51,6/06/2020 15:26,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,9/06/2020 07:17,9/06/2020 07:34,Accidental,Normal,Predio del Parque Ñu Guazú.,"Madame Lych, Mburucuyá."
+MBU2,11/06/2020 10:20,11/06/2020 13:41,Accidental,Normal,"Puente MT Suelto y Línea MT desprendida delaislador. Auditores del Chaco c/ Futbsal 88.","Madame Lych, Mburucuyá."
+MBU2,26/06/2020 13:20,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,27/06/2020 08:45,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,27/06/2020 12:02,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
+MBU2,27/06/2020 22:58,27/06/2020 23:00,Programado,Normal,"Trabajos programados, Barra A/23kV - SE.MBU.MEMO DD/DCC1/140/2020.","Madame Lych, Mburucuyá."
+MBU3,11/06/2020 11:10,11/06/2020 12:37,Producción,Normal,Fuera de servicio SE-MBU.,"Las Carmelitas, Madame Lynch, Mburucuyá."
+MBU3,27/06/2020 23:30,27/06/2020 23:33,Programado,Normal,"Trabajos programados, Barra A/23kV - SE.MBU.MEMO DD/DCC1/140/2020.","Las Carmelitas, Madame Lynch, Mburucuyá."
+MBU4,11/06/2020 11:10,11/06/2020 13:15,Producción,Normal,Fuera de servicio SE-MBU.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,27/06/2020 22:44,27/06/2020 22:47,Programado,Normal,"Trabajos programados, Barra A/23kV - SE.MBU.MEMO DD/DCC1/140/2020.","Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,4/06/2020 04:13,4/06/2020 05:26,Accidental,Adverso,"Ramas sobre Línea MT. Primer Presidente y JulioCorrea.","Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador del Mundo,Mburucuyá."
+MBU5,11/06/2020 11:10,11/06/2020 13:05,Producción,Normal,Fuera de servicio SE-MBU.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador del Mundo,Mburucuyá."
+MBU6,11/06/2020 11:10,11/06/2020 12:39,Producción,Normal,Fuera de servicio SE-MBU.,PE JADE (Exclusivo). Mburucuyá
+MBU6,28/06/2020 07:15,28/06/2020 12:12,Programado,Normal,"Trabajos programados, Barra A/23kV - SE.MBU.MEMO DD/DCC1/140/2020.",PE JADE (Exclusivo). Mburucuyá
+MBU7,20/06/2020 19:29,20/06/2020 22:50,Accidental,Normal,"Línea MT Suelta en Tte. Suaréz y Veteranos del 70.Ramas sobre Línea MT en Molas López e/ Belloso yRio Tebicuary.","Virgen de la Asunción, Cañada Ybyray."
+MRA1,6/06/2020 10:46,6/06/2020 12:51,Accidental,Normal,"Nido de pájaro en contacto con Línea MT. Puente MTSuelto. R. Quintana y F. Pane.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,17/06/2020 10:17,17/06/2020 10:37,Accidental,Adverso,Fuertes Vientos.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,17/06/2020 10:46,17/06/2020 11:06,Accidental,Adverso,"Línea MT en contacto con sostén intermedio.Acometida ASO RURAL DEL PARAGUAY.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,17/06/2020 11:59,17/06/2020 13:00,Accidental,Adverso,Línea MT Suelta F3. Costado de la DINAC.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,18/06/2020 01:02,18/06/2020 01:08,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. Máxima Lugo y Aurelio Gónzalez.","Loma Pyta, Zeballos Cué, San Blas."
+MRA11,15/06/2020 08:01,15/06/2020 08:28,Accidental,Normal,Pájaro en contacto con Línea MT. 1era y San Blas.,Loma Pyta.
+PBO10,26/06/2020 09:48,26/06/2020 10:01,Programado,Normal,"Abierto interruptor para efectuar reparación depuente MT suelto. Bóveda y San José.","Bañado Cará Cará, Botánico, Santa Rosa."
+PBO10,30/06/2020 09:08,30/06/2020 11:07,Accidental,Adverso,Condiciones climáticas adversas.,"Bañado Cará Cará, Botánico, Santa Rosa."
+PBO10,30/06/2020 11:10,30/06/2020 11:27,Accidental,Adverso,"Seccionador averiado. Mcal. Estigarribia, frente a laEstación.","Bañado Cará Cará, Botánico, Santa Rosa."
+PBO10,30/06/2020 11:48,30/06/2020 12:58,Programado,Adverso,"Seccionador averiado. Mcal. Estigarribia, frente a laEstación.","Bañado Cará Cará, Botánico, Santa Rosa."
+PBO17,17/06/2020 12:13,17/06/2020 12:37,Accidental,Adverso,Vientos Fuertes.,"Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO17,17/06/2020 13:18,17/06/2020 14:45,Accidental,Adverso,Vientos Fuertes.,"Salvador del Mundo, Mbocayaty, SantaRosa, Santisima Trinidad."
+PBO20,19/06/2020 14:02,19/06/2020 15:24,Accidental,Normal,No establecido.,Botánico.
+PBO21,10/06/2020 12:48,10/06/2020 12:54,Accidental,Normal,No establecido.,Zeballos Cué.
+PBO8,16/06/2020 08:50,16/06/2020 08:52,Programado,Normal,"MEMO DD/DCC1/133/2020. Transferencia sobrePCA9.","Virgen de Fátima, Santa Rosa."
+PCA1,12/06/2020 05:15,12/06/2020 06:17,Programado,Normal,MEMO DD/DCC1/131/2020.,"San Roque, La Catedral."
+PCA1,12/06/2020 07:23,12/06/2020 07:26,Programado,Normal,Canalización. MEMO DD/DCC1/131/2020.,"San Roque, La Catedral."
+PCA11,13/06/2020 08:51,13/06/2020 14:03,Accidental,Normal,"Línea MT subterránea averiada (mufa), Ramas sobreLínea MT. EEUU c/ España.","Ricardo Brugada, San Felipe."
+PCA11,13/06/2020 16:26,13/06/2020 16:40,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.","Ricardo Brugada, San Felipe."
+PCA11,22/06/2020 14:44,22/06/2020 14:57,Accidental,Normal,No establecido.,"Ricardo Brugada, San Felipe."
+PCA11,25/06/2020 01:45,25/06/2020 02:58,Accidental,Normal,"Línea MT desprendida del aislador. Tte. Villamayor yMéxico.","Ricardo Brugada, San Felipe."
+PCA5,12/06/2020 05:15,12/06/2020 06:17,Programado,Normal,MEMO DD/DCC1/131/2020.,La Catedral.
+PCA5,12/06/2020 07:23,12/06/2020 07:26,Programado,Normal,Canalización. MEMO DD/DCC1/131/2020.,La Catedral.
+PCA6,4/06/2020 12:35,4/06/2020 14:37,Accidental,Adverso,Aislador roto. PE FERIA ASUNCIÓN.,La Catedral.
+PCA6,8/06/2020 19:21,8/06/2020 19:22,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",La Catedral.
+PCA6,8/06/2020 19:22,8/06/2020 19:25,Accidental,Normal,"Al efectuar maniobras. Sin éxito el cierre delInterruptor.",La Catedral.
+PCA6,8/06/2020 19:54,8/06/2020 19:57,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",La Catedral.
+PCA6,10/06/2020 04:03,10/06/2020 05:02,Accidental,Adverso,Condiciones Climáticas Adversas.,La Catedral.
+PCA6,10/06/2020 06:08,10/06/2020 06:32,Accidental,Normal,No establecido.,La Catedral.
+PCA6,10/06/2020 07:31,10/06/2020 07:41,Accidental,Normal,No establecido.,La Catedral.
+PCA6,10/06/2020 07:59,10/06/2020 08:02,Accidental,Normal,Al efectuar maniobras.,La Catedral.
+PCA6,12/06/2020 05:15,12/06/2020 06:17,Programado,Normal,MEMO DD/DCC1/131/2020.,La Catedral.
+PCA6,12/06/2020 07:23,12/06/2020 07:26,Programado,Normal,Canalización. MEMO DD/DCC1/131/2020.,La Catedral.
+PCA6,27/06/2020 01:07,27/06/2020 01:29,Accidental,Normal,No establecido.,La Catedral.
+PCA8,4/06/2020 13:20,4/06/2020 16:06,Accidental,Adverso,"Línea MT desprendida F2 del aislador, cola depandorga, cruceta MT rota. Cap. Insfran y Grau.","Banco San Miguel, Tablada Nueva, Jara."
+PCA8,13/06/2020 18:23,13/06/2020 18:28,Accidental,Normal,No establecido.,"Banco San Miguel, Tablada Nueva, Jara."
+PCA8,30/06/2020 15:39,30/06/2020 15:57,Programado,Adverso,"Abierto interruptor para efectuar reparación depuente MT suelto. India y Costanera.","Banco San Miguel, Tablada Nueva, Jara."
+PSA11,10/06/2020 11:12,10/06/2020 11:47,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,10/06/2020 16:36,10/06/2020 16:54,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,16/06/2020 13:19,16/06/2020 13:35,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,20/06/2020 11:42,20/06/2020 12:00,Accidental,Normal,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA11,20/06/2020 12:07,20/06/2020 12:33,Accidental,Normal,"Línea MT Suelta y Puente MT en C.C. Bañado Sur,trafo: 117345.","Bañado Tacumbu, Sajonia."
+PSA11,25/06/2020 11:08,25/06/2020 11:57,Accidental,Normal,"SF Averiado, Puente MT Suelto. Ursisino Velazco.Bañado Sur.","Bañado Tacumbu, Sajonia."
+PSA11,25/06/2020 14:00,25/06/2020 14:15,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto en el Seccionador N° 52494.","Bañado Tacumbu, Sajonia."
+PSA11,30/06/2020 08:59,30/06/2020 10:33,Accidental,Adverso,Condiciones climáticas adversas.,"Bañado Tacumbu, Sajonia."
+PSA4,10/06/2020 03:55,10/06/2020 04:11,Accidental,Adverso,Condiciones Climáticas Adversas.,"Ita Pyta Punta,."
+PSA4,10/06/2020 06:32,10/06/2020 06:48,Accidental,Normal,No establecido.,"Ita Pyta Punta,."
+PSA5,10/06/2020 03:55,10/06/2020 04:14,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Encarnación, San Antonio, Ita Pyta Punta,Dr. Gaspar R. de Francia."
+PSA5,10/06/2020 06:33,10/06/2020 06:44,Accidental,Normal,"Línea MT Suelta. Comandante Gamarra y Testanova.Seccionador averiado N° 50583 en ComandanteGamarra y Diaz de Solis.","La Encarnación, San Antonio, Ita Pyta Punta,Dr. Gaspar R. de Francia."
+PSA5,10/06/2020 10:27,10/06/2020 10:55,Accidental,Normal,"Abierto Interruptor, para efectuar cambio deSeccionador N° 50583 averiado.","La Encarnación, San Antonio, Ita Pyta Punta,Dr. Gaspar R. de Francia."
+PSA5,19/06/2020 13:36,19/06/2020 14:09,Accidental,Normal,"Abierto Interruptor, avería del SBC N° 50599. PS38.","La Encarnación, San Antonio, Ita Pyta Punta,Dr. Gaspar R. de Francia."
+PSA6,13/06/2020 06:36,13/06/2020 07:39,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA6,13/06/2020 11:43,13/06/2020 12:49,Accidental,Adverso,Al efectuar maniobras.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA6,13/06/2020 14:03,13/06/2020 14:06,Accidental,Adverso,Al efectuar maniobras.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA7,13/06/2020 05:41,13/06/2020 07:11,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,17/06/2020 12:18,17/06/2020 12:45,Accidental,Adverso,Vientos Fuertes.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,29/06/2020 14:04,29/06/2020 14:10,Accidental,Normal,Al efectuar maniobras.,"Bañado Tacumbu, Carlos. A. López."
+PSA8,17/06/2020 12:49,17/06/2020 13:51,Accidental,Adverso,Vientos Fuertes.,San Antonio.
+PSA8,29/06/2020 13:10,29/06/2020 14:00,Accidental,Normal,"Falso contacto en el Seccionador 50454. 6ta.Proyectada y Colón.",San Antonio.
+PSA8,29/06/2020 14:04,29/06/2020 14:06,Accidental,Normal,Al efectuar maniobras.,San Antonio.
+PSA8,29/06/2020 16:20,29/06/2020 16:38,Programado,Normal,"Abierto interruptor para efectuar reparación de falsocontacto en seccionador. Cap. Gwynn y Dr. Paiva.",San Antonio.
+REP1,10/06/2020 11:45,10/06/2020 13:19,Accidental,Normal,No establecido.,Dr. Roberto L. Petit.
+REP2,4/06/2020 08:29,4/06/2020 08:57,Accidental,Adverso,Condiciones Climáticas Adversas.,"Republicano, Santa Librada."
+REP3,29/06/2020 14:09,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP5,12/06/2020 11:25,Recierre,Accidental,Normal,No establecido.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
+SMI1,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Pinoza, Gral. Bernardino Caballero, CiudadNueva."
+SMI10,17/06/2020 12:34,17/06/2020 13:34,Accidental,Adverso,Vientos Fuertes.,"Las Mercedes, Mburicao, Gral. BernardinoCaballero."
+SMI10,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Las Mercedes, Mburicao, Gral. BernardinoCaballero."
+SMI11,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Virgen de la Asunción, Virgen del Huerto,Bella Vista, Mcal. Francisco.S. López, Jara."
+SMI2,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Mburicao, Recoleta, Mcal. Francisco. S.López, Gral. Bernardino Caballero."
+SMI3,4/06/2020 16:02,4/06/2020 16:21,Accidental,Adverso,Gotera en PD ASU1080. Perú y Rio de Janeiro.,"Gral. Bernardino Caballero, Ciudad Nueva."
+SMI3,8/06/2020 12:33,8/06/2020 12:47,Accidental,Normal,Al efectuar maniobras.,"Gral. Bernardino Caballero, Ciudad Nueva."
+SMI3,8/06/2020 14:00,8/06/2020 15:23,Accidental,Normal,"Tramo subterráneo averiado SM263-SM235.Aisladores averiados PD SM235.","Gral. Bernardino Caballero, Ciudad Nueva."
+SMI3,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Gral. Bernardino Caballero, Ciudad Nueva."
+SMI4,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.",Mcal F. S. López.
+SMI5,3/06/2020 22:16,3/06/2020 22:34,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, Ciudad Nueva."
+SMI5,4/06/2020 02:36,4/06/2020 02:57,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, Ciudad Nueva."
+SMI5,4/06/2020 04:15,4/06/2020 05:25,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, Ciudad Nueva."
+SMI5,4/06/2020 08:35,4/06/2020 10:37,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, Ciudad Nueva."
+SMI5,4/06/2020 11:14,4/06/2020 12:18,Accidental,Adverso,Al efectuar maniobras.,"Las Mercedes, Ciudad Nueva."
+SMI5,20/06/2020 08:59,20/06/2020 09:45,Programado,Normal,PEDIDO DE CORTE N° 45/2020.,"Las Mercedes, Ciudad Nueva."
+SMI5,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Las Mercedes, Ciudad Nueva."
+SMI7,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","San Felipe, Jara."
+SMI9,13/06/2020 05:29,13/06/2020 05:43,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, San Felipe."
+SMI9,24/06/2020 11:47,24/06/2020 12:11,Producción,Normal,"Fuera de Servicio LT PBO-SMI 66kV. Ocasionadopor terceros.  Accidentado de una Empresacontratista.","Las Mercedes, San Felipe."
+VAU10,1/06/2020 09:19,1/06/2020 09:38,Accidental,Normal,No establecido.,"Mcal. Estigarribia, Recoleta"
+VAU10,29/06/2020 23:05,Recierre,Accidental,Normal,No establecido.,"Mcal. Estigarribia, Recoleta"
+VAU12,18/06/2020 12:44,18/06/2020 13:00,Accidental,Normal,"Ramas sobre Línea MT. Boggiani y PanchaGarmendia.",Mcal. Estigarribia.
+VAU14,8/06/2020 05:16,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU3,2/06/2020 06:32,2/06/2020 06:34,Programado,Normal,"MEMO DD/DCC1/115/2020. Transferencia sobreFDM5.","Villa Aurelia, San Pablo."
+VAU4,4/06/2020 06:49,4/06/2020 06:50,Programado,Adverso,"MEMO DD/DCC1/117/2020. Transferencia sobreVAU 3.","Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU4,25/06/2020 05:42,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Nazaret, Recoleta, Tembetary."
+VAU8,5/06/2020 08:11,5/06/2020 08:32,Accidental,Adverso,Transformador averiado. C. Baez y Colón.,Villa Aurelia.

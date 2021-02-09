@@ -1,0 +1,251 @@
+PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+BCP2,6/01/2020 15:50,6/01/2020 17:49,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bella Vista, Santo Domingo, Manorá."
+BCP2,6/01/2020 21:45,6/01/2020 22:30,Accidental,Adverso,"Ramas sobre Línea MT. Mena Porta y Pedro P.Peña.","Bella Vista, Santo Domingo, Manorá."
+BCP2,26/01/2020 11:09,26/01/2020 12:03,Accidental,Normal,"Cruceta MT rota y Puente MT Suelto. Moreno yAguirre.","Bella Vista, Santo Domingo, Manorá."
+BCP3,6/01/2020 15:50,6/01/2020 20:30,Accidental,Adverso,"SF operado, Ramas sobre Línea MT. Agustín Barrios
+y Roa Bastos.","Las Carmelitas, Villa Morra, Manorá."
+BCP3,29/01/2020 18:20,30/01/2020 00:50,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Villa Morra, Manorá."
+BMO1,6/01/2020 15:50,6/01/2020 15:53,Accidental,Adverso,Condiciones Climáticas Adversas.,"Itay, San Jorge."
+BMO1,6/01/2020 20:04,6/01/2020 20:10,Producción,Adverso,Al cerrar BMO5.,"Itay, San Jorge."
+BMO1,10/01/2020 10:41,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Itay, San Jorge."
+BMO1,10/01/2020 11:46,10/01/2020 11:56,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición defusible. Sta. Carolina y 3 de Julio.","Itay, San Jorge."
+BMO1,12/01/2020 19:05,12/01/2020 19:11,Producción,Normal,"Fuera de Servicio ES-BMO. Línea MT Suelta F2sobre BMO 2. Laguna grande y O ´leary por ramassobre Línea MT.","Itay, San Jorge."
+BMO1,25/01/2020 08:13,25/01/2020 08:32,Programado,Normal,Corte programado DD/DCC7/001/20.,"Itay, San Jorge."
+BMO1,29/01/2020 18:17,29/01/2020 20:42,Accidental,Adverso,Condiciones Climáticas Adversas.,"Itay, San Jorge."
+BMO1,30/01/2020 14:55,30/01/2020 15:53,Accidental,Adverso,"Abierto interruptor para reparacion de puente sueltoen 12 de junio y Obrero.","Itay, San Jorge."
+BMO1,30/01/2020 16:09,30/01/2020 16:40,Accidental,Adverso,Al cerrar SLT N° 52405.,"Itay, San Jorge."
+BMO1,30/01/2020 16:41,30/01/2020 17:19,Accidental,Adverso,Línea MT suelta en Salin Yubi y Del Carmen.,"Itay, San Jorge."
+BMO2,6/01/2020 15:33,6/01/2020 19:55,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BMO2,6/01/2020 20:04,6/01/2020 20:10,Producción,Adverso,Al cerrar BMO5.,Itay.
+BMO2,7/01/2020 12:36,7/01/2020 12:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT suelto. San Cristobal y Cantero.",Itay.
+BMO2,12/01/2020 19:05,12/01/2020 19:58,Accidental,Normal,"Fuera de Servicio ES-BMO. Línea MT Suelta F2sobre BMO 2. Laguna grande y O ´leary por ramassobre Línea MT.",Itay.
+BMO2,20/01/2020 08:15,Recierre,Accidental,Normal,No establecido.,Itay.
+BMO2,29/01/2020 18:12,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BMO2,30/01/2020 16:09,30/01/2020 16:15,Programado,Normal,Fuera de Servicio ES-BMO.,Itay.
+BMO2,30/01/2020 16:40,30/01/2020 17:38,Producción,Adverso,Fuera de Servicio ES-BMO.,Itay.
+BPA10,6/01/2020 15:30,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BPA10,6/01/2020 15:34,6/01/2020 19:03,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BPA10,6/01/2020 21:46,6/01/2020 21:59,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SF.Lado Frigorifico Guaraní.",Itay.
+BPA10,12/01/2020 21:30,Recierre,Accidental,Normal,No establecido.,Itay.
+BPA10,13/01/2020 16:38,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BPA10,29/01/2020 18:14,30/01/2020 05:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay.
+BPA12,6/01/2020 15:27,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Salvador del Mundo, San Cristobal,San Jorge."
+BPA12,19/01/2020 18:00,Recierre,Accidental,Normal,No establecido.,"Salvador del Mundo, San Cristobal,San Jorge."
+BPA12,30/01/2020 04:32,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas,"Salvador del Mundo, San Cristobal,San Jorge."
+BPA2,29/01/2020 18:06,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Manorá, Ykua Sati."
+BPA2,29/01/2020 18:16,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Manorá, Ykua Sati."
+BPA2,30/01/2020 15:08,Recierre,Accidental,Adverso,No establecido.,"Las Carmelitas, Manorá, Ykua Sati."
+BPA3,14/01/2020 18:03,14/01/2020 18:50,Accidental,Normal,"Abierto Interruptor, para efectuar cambio detransformador averiado. Avda. Boggiani y Gral.Ceferino Vega.",San Cristobal.
+BPA4,6/01/2020 16:08,6/01/2020 20:02,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,6/01/2020 21:56,6/01/2020 21:58,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SF.Lado Frigorifico Guaraní.","Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,18/01/2020 15:01,18/01/2020 15:47,Accidental,Normal,"Línea MT Suelta, por caída de Antena.  8 deSetiembre y Tacuary.","Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,29/01/2020 18:20,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA4,29/01/2020 21:22,30/01/2020 01:02,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA5,15/01/2020 16:19,15/01/2020 16:38,Accidental,Normal,No establecido.,"San Cristobal, Recoleta."
+BPA6,6/01/2020 15:28,6/01/2020 16:58,Accidental,Adverso,SF averiado F1. Itaipu y A. Jara.,"Itay, Ykua Sati, San Jorge."
+BPA6,29/01/2020 18:18,30/01/2020 04:20,Accidental,Adverso,Línea MT Suelta. Grupo Habitacional Aeropuerto.,"Itay, Ykua Sati, San Jorge."
+BPA7,6/01/2020 15:27,6/01/2020 16:45,Accidental,Adverso,Ramas sobre Línea MT. Lillio y Tte. Vera.,"San Cristobal, Villa Morra, Ykua Sati."
+BPA7,6/01/2020 20:48,6/01/2020 21:13,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación deSeccionador averiado. Belgica y 4 de Julio.","San Cristobal, Villa Morra, Ykua Sati."
+BPA7,29/01/2020 18:09,29/01/2020 19:39,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Cristobal, Villa Morra, Ykua Sati."
+BPA8,7/01/2020 17:49,7/01/2020 18:26,Accidental,Normal,"Puente MT Suelto. Pacheco c/ Avda. Médicos delChaco.",Villa Morra.
+BPA8,10/01/2020 08:16,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Morra.
+GDI1,6/01/2020 13:17,Recierre,Accidental,Normal,No establecido.,"Gral. J. E Diaz, Obrero."
+GDI1,10/01/2020 08:08,10/01/2020 09:14,Accidental,Adverso,Condiciones Climáticas Adversas.,"Gral. J. E Diaz, Obrero."
+GDI1,15/01/2020 15:30,Recierre,Accidental,Normal,No establecido.,"Gral. J. E Diaz, Obrero."
+GDI1,15/01/2020 16:28,15/01/2020 16:54,Accidental,Normal,No establecido.,"Gral. J. E Diaz, Obrero."
+GDI1,17/01/2020 10:13,17/01/2020 10:44,Accidental,Normal,No establecido.,"Gral. J. E Diaz, Obrero."
+GDI1,29/01/2020 14:44,29/01/2020 14:57,Accidental,Normal,No establecido.,"Gral. J. E Diaz, Obrero."
+GDI1,29/01/2020 14:58,29/01/2020 15:13,Accidental,Normal,"Puente MT Suelto en 9na e/ Antequera y Tacuari.Línea por soltarse y Línea MT en C.C. Costado de laNueva Olla.","Gral. J. E Diaz, Obrero."
+GDI2,30/01/2020 03:24,30/01/2020 03:25,Accidental,Adverso,Abierto interruptor para cierre de SLT.,"Gral. J. E Diaz, Obrero."
+GDI3,7/01/2020 02:02,7/01/2020 02:06,Accidental,Adverso,Al efectuar maniobras.,"Gral. J. E Diaz, Obrero."
+GDI3,14/01/2020 18:52,14/01/2020 19:20,Accidental,Normal,Agua en PE FERIA ASUNCIÓN.,"Gral. J. E Diaz, Obrero."
+GDI3,15/01/2020 05:04,15/01/2020 05:52,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI3,19/01/2020 16:12,19/01/2020 16:45,Accidental,Normal,Descargador averiado. PE ALVIMER.,Gral. J. E Diaz.
+GDI3,21/01/2020 04:25,Recierre,Accidental,Normal,No establecido.,Gral. J. E Diaz.
+GDI4,10/01/2020 09:00,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,10/01/2020 09:01,10/01/2020 09:46,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,10/01/2020 09:56,10/01/2020 11:43,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,21/01/2020 04:25,Recierre,Accidental,Normal,No establecido.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,29/01/2020 18:02,29/01/2020 19:09,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,29/01/2020 19:10,29/01/2020 20:08,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,29/01/2020 20:44,29/01/2020 20:48,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+GDI4,29/01/2020 21:04,29/01/2020 21:43,Accidental,Adverso,Condiciones Climáticas Adversas.,"Obrero, Dr. Roberto L. Petit, BañadoTacumbu."
+LAM10,6/01/2020 21:33,6/01/2020 21:34,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición defusibles. Ybapovo y Fernando de la Mora.",Terminal.
+LAM10,14/01/2020 09:31,14/01/2020 10:17,Accidental,Normal,"Transformador averiado. Domigo Martinez de Irala yAlejandro Ravizza.",Terminal.
+LAM10,22/01/2020 18:26,22/01/2020 18:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. San Marcos c/ Nuñez de Balboa.",Terminal.
+LAM10,24/01/2020 06:39,24/01/2020 06:54,Accidental,Normal,No establecido.,Terminal.
+LAM15,10/01/2020 08:07,10/01/2020 09:04,Accidental,Adverso,Condiciones Climáticas Adversas.,Itá Enramada.
+LAM22,22/01/2020 15:42,22/01/2020 16:20,Accidental,Normal,"Línea MT Suelta. Avda. Rca. Argentina c/ Ecuador.Puente MT Suelto en Medalla Milagrosa c/ CristobalColón.","Hipódromo, Terminal."
+LAM22,22/01/2020 18:26,22/01/2020 18:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. San Marcos c/ Nuñez de Balboa.","Hipódromo, Terminal."
+LAM23,12/01/2020 19:15,12/01/2020 20:01,Accidental,Normal,Ramas sobre Línea MT. Roa Bastos y Las Nieves.,Mburicao.
+LAM23,15/01/2020 17:54,15/01/2020 18:54,Accidental,Normal,"Transformador averiado, desperfecto interno.Guaranies y Paraguay.",Mburicao.
+LAM23,29/01/2020 18:12,29/01/2020 19:14,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburicao.
+LAM28,29/01/2020 18:05,29/01/2020 19:11,Accidental,Adverso,Condiciones Climáticas Adversas.,"Vista Alegre, Nazareth."
+LAM3,10/01/2020 12:50,10/01/2020 12:54,Accidental,Adverso,"Abierto Interruptor, para efectuar puenteo de SFaveriado. Avda. Del Pueblo y Cacique Lambaré.",Vista Alegre.
+LAM3,15/01/2020 15:42,15/01/2020 16:09,Accidental,Normal,No establecido.,Vista Alegre.
+LAM3,29/01/2020 18:13,29/01/2020 19:46,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre.
+LAM3,29/01/2020 19:49,30/01/2020 01:04,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre.
+LAM3,30/01/2020 18:05,30/01/2020 18:28,Accidental,Adverso,"Para reparar puente MT suelto. En San Ignacio yCorrales.",Vista Alegre.
+LAM30,29/01/2020 18:10,29/01/2020 19:16,Accidental,Adverso,Condiciones Climáticas Adversas.,Itá Enramada.
+LAM5,6/01/2020 15:12,6/01/2020 16:13,Accidental,Adverso,"SF averiado F2 en Avda. Perón y Yukyty - Aisladorroto y Cruceta MT rota en Ava guarani c/ MariaAuxiliadora.","Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano, Pirizal."
+LAM5,29/01/2020 18:06,29/01/2020 19:06,Accidental,Adverso,Ramas sobre Línea MT. Pacheco y RI3 Corrales.,"Santa Ana, Itá Enramada, Jukyty,Santa Librada, San Cayetano, Pirizal."
+LAM7,6/01/2020 18:40,6/01/2020 19:23,Accidental,Adverso,Condiciones Climáticas Adversas.,"Vista Alegre, Pinoza."
+LAM7,17/01/2020 09:43,17/01/2020 10:59,Accidental,Normal,"Línea MT desprendida y en contacto con cruceta.Ñasaindy c/ Yasy.","Vista Alegre, Pinoza."
+MBU1,13/01/2020 23:01,13/01/2020 23:04,Accidental,Normal,"Transformador averiado. Edificio La Familia. Tte.Zavala y Santisima Trinidad.","Las Carmelitas, Madame Lynch,Manorá."
+MBU1,14/01/2020 06:34,14/01/2020 07:16,Accidental,Normal,Fusible operado. Overava y Dr. Sosa.,"Las Carmelitas, Madame Lynch,Manorá."
+MBU1,14/01/2020 14:03,14/01/2020 14:17,Accidental,Normal,No establecido.,"Las Carmelitas, Madame Lynch,Manorá."
+MBU1,14/01/2020 14:20,14/01/2020 15:16,Accidental,Normal,No establecido. Transferencia parcial sobre MBU2.,"Las Carmelitas, Madame Lynch,Manorá."
+MBU2,6/01/2020 15:12,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,6/01/2020 15:37,6/01/2020 17:08,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,9/01/2020 15:27,9/01/2020 16:03,Accidental,Normal,Cruceta MT rota. Julio Correa c/ Gatti.,"Madame Lych, Mburucuyá."
+MBU2,13/01/2020 17:18,13/01/2020 18:49,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,13/01/2020 19:07,13/01/2020 19:12,Accidental,Adverso,"Abierto Interruptor, para efectuar maniobras.Seccionador N° 54216 trabado.","Madame Lych, Mburucuyá."
+MBU2,13/01/2020 19:23,13/01/2020 20:16,Accidental,Adverso,"1- SF operado y desperfecto interno PDEXCLUSIVO. Santisima Trinidad y Zavala. 2- LíneaMT desprendida y en contacto con cruceta MT. Avda.Santisima y Zavala. 3- Línea MT protegida averiada yen contacto con sostén MT.","Madame Lych, Mburucuyá."
+MBU2,29/01/2020 18:03,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,29/01/2020 18:08,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU2,29/01/2020 18:11,30/01/2020 00:26,Accidental,Adverso,Condiciones Climáticas Adversas.,"Madame Lych, Mburucuyá."
+MBU3,6/01/2020 15:44,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU3,29/01/2020 18:07,29/01/2020 19:26,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Carmelitas, Madame Lynch,Mburucuyá."
+MBU4,6/01/2020 15:48,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,7/01/2020 04:39,7/01/2020 04:46,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,19/01/2020 11:55,19/01/2020 12:12,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,29/01/2020 18:05,29/01/2020 19:26,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,29/01/2020 19:29,29/01/2020 20:57,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,29/01/2020 21:50,29/01/2020 23:23,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU4,30/01/2020 08:54,Recierre,Accidental,Adverso,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,6/01/2020 15:29,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,20/01/2020 14:46,20/01/2020 15:04,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,21/01/2020 10:13,21/01/2020 10:45,Accidental,Normal,No establecido.,"Mocayaty, Loma Pyta, Ñu Guasu,Mburucuyá."
+MBU5,29/01/2020 18:04,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador delMundo, Mburucuyá."
+MBU5,30/01/2020 08:30,Recierre,Accidental,Adverso,No establecido.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador delMundo, Mburucuyá."
+MBU5,30/01/2020 11:05,Recierre,Accidental,Adverso,No establecido.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador delMundo, Mburucuyá."
+MBU5,30/01/2020 17:43,30/01/2020 18:09,Accidental,Adverso,Al cerrar SLT N° 52066.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador delMundo, Mburucuyá."
+MBU5,30/01/2020 19:35,30/01/2020 20:06,Accidental,Adverso,Con carga del BMO 1.,"Santísima Trinidad, Madame Lych,Mbocayty, Ñu Guasu, Salvador delMundo, Mburucuyá."
+MRA1,6/01/2020 15:33,6/01/2020 18:44,Accidental,Adverso,Condiciones Climáticas Adversas.,"Loma Pyta, Zeballos Cué, San Blas."
+MRA1,16/01/2020 04:10,16/01/2020 05:41,Accidental,Normal,"Pájaro en contacto con Línea MT y cruceta MT. Tte.Garay y Cap. Lombardo.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,29/01/2020 12:22,29/01/2020 13:15,Accidental,Normal,"Desperfecto interno ""Supermercado El Pueblo"".M.R.A.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,29/01/2020 18:02,29/01/2020 20:31,Accidental,Adverso,"Línea MT Suelta F1-2, Ramas sobre Línea MT.Abierto Puentes en Coronel Bogado y Entrada a PE-ESSAP.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,29/01/2020 22:41,29/01/2020 22:57,Accidental,Adverso,"Desperfecto interno. Supermercado El Pueblo.M.R.A.","Loma Pyta, Zeballos Cué, San Blas."
+PBO1,23/01/2020 22:15,23/01/2020 23:00,Accidental,Normal,"SF averiado, fusible operado y descargador averiado.Vicente Suarez e/ Veteranos y Congreso decolombia.","Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué,Bañado Cará Cará."
+PBO1,29/01/2020 18:03,29/01/2020 19:00,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué,Bañado Cará Cará."
+PBO20,6/01/2020 15:32,6/01/2020 18:07,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico.
+PBO20,29/01/2020 18:17,29/01/2020 20:19,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico.
+PBO20,29/01/2020 20:20,30/01/2020 17:18,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico.
+PBO21,6/01/2020 15:16,6/01/2020 17:01,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué.
+PBO21,29/01/2020 18:17,29/01/2020 20:20,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué.
+PBO21,29/01/2020 20:49,29/01/2020 22:33,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué.
+PBO21,30/01/2020 18:05,30/01/2020 18:45,Accidental,Adverso,"Abierto interruptor para reparar seccionador fusible.Soldado Quintana c/ San Mateo.",Zeballos Cué.
+PBO21,31/01/2020 13:34,31/01/2020 18:25,Accidental,Normal,"Cruceta MT rota y Línea MT Suelta. EpopeyaNacional y Dolores de Diaz.",Zeballos Cué.
+PBO6,6/01/2020 15:49,6/01/2020 17:43,Accidental,Adverso,Línea MT desprendida del aislador. Cnel. Montiel.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO6,13/01/2020 15:54,13/01/2020 16:42,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO8,6/01/2020 15:49,6/01/2020 18:11,Accidental,Adverso,"Puente MT Suelto. 8 de Junio e/ Tte. Funes ySperatti.","Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO8,6/01/2020 23:54,7/01/2020 01:12,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. Tte. Bernal  y CañadonChaqueño. Línea MT Suelta en Tte. Moreno y 8 deJunio.","Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO8,29/01/2020 18:00,29/01/2020 18:53,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PBO8,31/01/2020 18:06,31/01/2020 18:30,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. Gral. Roa y M. Sosa.","Santísima Trinidad, Virgen de laAsunción, Cañada de Ybyray, BañadoCará Cará."
+PCA1,9/01/2020 22:49,9/01/2020 23:01,Accidental,Normal,No establecido.,"San Roque, La Catedral."
+PCA1,30/01/2020 19:21,30/01/2020 21:39,Accidental,Adverso,Agua en PD. Edificio Lider III,"San Roque, La Catedral."
+PCA1,30/01/2020 22:23,30/01/2020 23:31,Accidental,Adverso,Primer Tramos avriado.,"San Roque, La Catedral."
+PCA1,31/01/2020 00:58,31/01/2020 01:00,Accidental,Adverso,No establecido.,"San Roque, La Catedral."
+PCA1,31/01/2020 01:38,31/01/2020 01:40,Accidental,Adverso,Al cerrar seccionador N° 53106.,"San Roque, La Catedral."
+PCA11,7/01/2020 17:01,7/01/2020 17:34,Producción,Normal,Fuera de Servicio TR-05. ES-PCA.,"Ricardo Brugada, San Felipe."
+PCA11,8/01/2020 00:17,8/01/2020 00:20,Producción,Normal,Canalización TR-05.,"Ricardo Brugada, San Felipe."
+PCA11,8/01/2020 22:41,8/01/2020 23:04,Accidental,Normal,Transformador averiado. Costado del Club Oriental.,"Ricardo Brugada, San Felipe."
+PCA11,25/01/2020 06:53,25/01/2020 07:07,Accidental,Normal,No establecido.,"Ricardo Brugada, San Felipe."
+PCA11,30/01/2020 01:05,30/01/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,"Ricardo Brugada, San Felipe."
+PCA8,6/01/2020 15:46,6/01/2020 18:46,Accidental,Adverso,Condiciones Climáticas Adversas.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,7/01/2020 17:01,7/01/2020 17:34,Producción,Normal,Fuera de Servicio TR-05. ES-PCA.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,8/01/2020 00:17,8/01/2020 00:20,Producción,Normal,Canalización TR-05.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,21/01/2020 15:39,21/01/2020 16:41,Accidental,Normal,No establecido.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,29/01/2020 18:04,29/01/2020 20:34,Accidental,Adverso,Condiciones Climáticas Adversas.,"Banco San Miguel, Tablada Nueva,Jara."
+PCA8,31/01/2020 10:25,31/01/2020 10:40,Accidental,Normal,No establecido.,"Banco San Miguel, Tablada Nueva,Jara."
+PSA11,6/01/2020 15:29,6/01/2020 19:25,Accidental,Adverso,"Línea MT suelta lado Bañado. Cruceta MT rota yLínea MT suelta Arsenales y N. de Chavez.","Bañado Tacumbu, Sajonia."
+PSA11,6/01/2020 19:18,6/01/2020 19:29,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. CrucetaMT rota en Pratt Gill y Lirio. Línea MT Suelta BañadoSur.","Bañado Tacumbu, Sajonia."
+PSA11,7/01/2020 19:49,7/01/2020 19:52,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF,Acometida Armada Nacional.","Bañado Tacumbu, Sajonia."
+PSA11,30/01/2020 20:58,30/01/2020 21:20,Accidental,Adverso,No establecido.,"Bañado Tacumbu, Sajonia."
+PSA12,7/01/2020 02:47,7/01/2020 02:49,Accidental,Adverso,Al efectuar maniobras.,Carlos A. López.
+PSA12,8/01/2020 08:02,8/01/2020 08:37,Accidental,Normal,No establecido.,Carlos A. López.
+PSA12,17/01/2020 07:32,17/01/2020 07:50,Accidental,Normal,"Pájaro en contacto con Línea MT y cruceta. Dr. Paivay Cap. Gwynn.",Carlos A. López.
+PSA12,17/01/2020 14:20,17/01/2020 14:57,Accidental,Normal,"Pájaro en contacto con Línea MT. Mallorquín y Dr.Paiva.",Carlos A. López.
+PSA12,30/01/2020 20:55,30/01/2020 22:01,Accidental,Adverso,No establecido.,Carlos A. López.
+PSA4,14/01/2020 19:57,14/01/2020 20:47,Accidental,Normal,"Al efectuar maniobras. Corte Programado N°520/2020.",Ita Pyta Punta.
+PSA4,30/01/2020 00:05,30/01/2020 01:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta.
+PSA4,30/01/2020 06:52,30/01/2020 10:37,Accidental,Adverso,No establecido. Transfrencia de carga.,Ita Pyta Punta.
+PSA4,30/01/2020 20:55,30/01/2020 21:15,Accidental,Adverso,No establecido.,Ita Pyta Punta.
+PSA5,16/01/2020 08:16,16/01/2020 08:47,Programado,Normal,Corte programado DO/ACO/055/20.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,22/01/2020 11:44,22/01/2020 13:00,Accidental,Normal,"Estado de precaución N° DO/ACO/011/2020.Inconvenientes al efectuar tendido de cabomensajero.","La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA5,29/01/2020 21:03,29/01/2020 22:27,Accidental,Adverso,Condiciones Climáticas Adversas.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
+PSA6,6/01/2020 15:13,6/01/2020 16:47,Accidental,Adverso,PE Clínicas. Dr. Mario Mazzei y Tte. Guillermo Arías.,"San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,14/01/2020 08:29,14/01/2020 19:54,Programado,Normal,Corte programado DO/ACO/52-53-54/20.,"San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,14/01/2020 19:57,14/01/2020 20:48,Accidental,Normal,"Al efectuar maniobras. Corte Programado N°520/2020.","San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA6,15/01/2020 13:56,15/01/2020 14:08,Programado,Normal,"Abierto Interruptor, para efectuar corrección desecuencia de fases.","San Antonio, Ita Pyta Punta, Dr.Gaspar Rodriguez de Francia."
+PSA7,6/01/2020 23:12,6/01/2020 23:20,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SFaveriado. Dr. Julio Decoud y Carlos Gómez.","Bañado Tacumbu, Carlos. A. López."
+PSA7,10/01/2020 13:35,10/01/2020 14:41,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,12/01/2020 02:25,12/01/2020 02:27,Accidental,Normal,Al efectuar maniobras.,"Bañado Tacumbu, Carlos. A. López."
+PSA7,29/01/2020 21:00,29/01/2020 21:25,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Tacumbu, Carlos. A. López."
+PSA9,29/01/2020 18:01,29/01/2020 18:54,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López.
+PSA9,29/01/2020 21:00,29/01/2020 21:26,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López.
+REP1,10/01/2020 21:47,10/01/2020 22:19,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit.
+REP1,10/01/2020 22:42,10/01/2020 23:05,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit.
+REP1,12/01/2020 00:30,12/01/2020 00:57,Accidental,Normal,No establecido.,Dr. Roberto L. Petit.
+REP1,12/01/2020 01:20,12/01/2020 01:35,Accidental,Normal,No establecido.,Dr. Roberto L. Petit.
+REP1,12/01/2020 03:25,12/01/2020 03:30,Accidental,Normal,"Puente MT Suelto y Seccionador N° 52948 averiado.24 Proyectadas y Mayor Fleitas.",Dr. Roberto L. Petit.
+REP1,12/01/2020 09:32,12/01/2020 09:55,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de LíneaMT Suelta.",Dr. Roberto L. Petit.
+REP2,10/01/2020 08:08,10/01/2020 11:58,Accidental,Adverso,Cruceta MT rota. Tte. Villalón y Cap. Bado.,"Republicano, Santa Librada."
+REP2,10/01/2020 22:42,10/01/2020 23:06,Accidental,Normal,Seccionador N° 53062 averiado.,"Republicano, Santa Librada."
+REP2,12/01/2020 03:10,12/01/2020 03:21,Accidental,Normal,En Paralelo REP1/REP2.,"Republicano, Santa Librada."
+REP3,24/01/2020 18:25,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty,Santa Librada, Pirizal."
+REP3,26/01/2020 12:10,26/01/2020 12:37,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty,Santa Librada, Pirizal."
+REP3,30/01/2020 16:44,30/01/2020 17:18,Accidental,Adverso,Abierto interruptor para cambio de cruceta rota.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty,Santa Librada, Pirizal."
+REP4,7/01/2020 01:20,7/01/2020 01:23,Accidental,Adverso,Al efectuar maniobras.,Hipódromo.
+REP4,29/01/2020 18:07,29/01/2020 19:36,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo.
+REP4,29/01/2020 21:13,29/01/2020 21:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo.
+REP5,6/01/2020 22:55,7/01/2020 00:12,Accidental,Adverso,Tramo subterraneo averiado. SM251 a SM203.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP5,30/01/2020 00:10,30/01/2020 12:55,Accidental,Adverso,Condiciones Climáticas Adversas.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP6,6/01/2020 16:46,6/01/2020 21:14,Accidental,Adverso,"Resto de pandorga por Línea MT. Amistad yCamalote.","San Vicente, Pinoza, Pirizal."
+REP6,8/01/2020 01:55,8/01/2020 02:46,Accidental,Normal,"Abierto Interruptor, para efectuar reparación deCruceta MT rota y Puente MT Suelto. Gral. Garay yEl Cano.","San Vicente, Pinoza, Pirizal."
+REP6,23/01/2020 10:44,23/01/2020 11:30,Accidental,Normal,"Ave en contacto con cruceta y Línea MT suelta.Magallanes y Centenario.","San Vicente, Pinoza, Pirizal."
+REP7,10/01/2020 16:50,10/01/2020 16:55,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SF.PE MERCANDO 4.","Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP7,26/01/2020 02:00,26/01/2020 02:30,Accidental,Normal,No establecido.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP7,27/01/2020 18:16,27/01/2020 18:18,Accidental,Normal,Al efectuar maniobras.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+REP7,29/01/2020 18:01,29/01/2020 19:09,Accidental,Adverso,Condiciones Climáticas Adversas.,"Tte. Silvio Petirosi, San Vicente,Pinoza."
+SMI11,6/01/2020 16:56,6/01/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,"Virgen de la Asunción, Virgen delHuerto, Bella Vista, Mcal. Francisco.S.López, Jara."
+SMI11,8/01/2020 02:46,8/01/2020 02:56,Accidental,Normal,No establecido.,"Virgen de la Asunción, Virgen delHuerto, Bella Vista, Mcal. Francisco.S.López, Jara."
+SMI11,29/01/2020 18:06,29/01/2020 19:00,Accidental,Adverso,Condiciones Climáticas Adversas.,"Virgen de la Asunción, Virgen delHuerto, Bella Vista, Mcal. Francisco.S.López, Jara."
+SMI2,15/01/2020 03:45,15/01/2020 04:00,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco.S. López, Gral. Bernardino Caballero."
+SMI3,6/01/2020 15:41,6/01/2020 19:13,Accidental,Adverso,Condiciones Climáticas Adversas.,"Gral. Bernardino Caballero, CiudadNueva."
+SMI3,10/01/2020 14:32,10/01/2020 16:22,Accidental,Adverso,"Tramo averiado, ocasionado por terceros. 1811 yAvda. Eusebio Ayala.","Gral. Bernardino Caballero, CiudadNueva."
+SMI3,27/01/2020 15:20,27/01/2020 16:41,Accidental,Normal,No establecido.,"Gral. Bernardino Caballero, CiudadNueva."
+SMI3,27/01/2020 17:22,27/01/2020 17:24,Accidental,Normal,Al efectuar maniobras.,"Gral. Bernardino Caballero, CiudadNueva."
+SMI3,27/01/2020 17:38,27/01/2020 17:40,Accidental,Normal,"Puente MT Suelto en 25 de mayo y Gral. Aquino.Tramo averiado en Teodoro S. Móngelos y Gral.Bruguez. Tramo COPACO FACTURACIÓN a SM509y L.A. Seccionador N° 54415.","Gral. Bernardino Caballero, CiudadNueva."
+SMI9,6/01/2020 15:48,6/01/2020 18:24,Accidental,Adverso,Condiciones Climáticas Adversas.,"Las Mercedes, San Felipe."
+VAU1,4/01/2020 22:56,4/01/2020 22:58,Programado,Normal,MEMO DD/DCC1/001/2020.,"Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU1,27/01/2020 12:55,27/01/2020 13:37,Accidental,Normal,"Ramas sobre Línea MT y falso contacto. Tte.Espinoza y Manuel Blinder.","Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU1,27/01/2020 13:38,27/01/2020 13:47,Accidental,Normal,"Abierto Interruptor, por Ramas sobre Línea MT yfalso contacto. Tte. Espinoza y Manuel Blinder.","Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU1,29/01/2020 18:06,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Los Laureles, Mcal. Estigarribia,Hipódromo, Tembetary,"
+VAU10,4/01/2020 22:35,4/01/2020 22:36,Programado,Normal,MEMO DD/DCC1/001/2020.,"Mcal. Estigarribia, Recoleta,"
+VAU10,27/01/2020 18:50,Recierre,Accidental,Normal,No establecido.,"Mcal. Estigarribia, Recoleta,"
+VAU10,27/01/2020 19:30,27/01/2020 19:34,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto en el Seccionador N° 51345.Boggiani y RI 3.","Mcal. Estigarribia, Recoleta,"
+VAU11,4/01/2020 23:07,4/01/2020 23:08,Programado,Normal,MEMO DD/DCC1/001/2020.,"Mcal. Estigarribia, Recoleta,"
+VAU11,6/01/2020 15:29,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU11,6/01/2020 15:29,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU11,6/01/2020 15:31,6/01/2020 16:36,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU11,10/01/2020 08:06,10/01/2020 10:01,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU11,29/01/2020 18:09,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU11,31/01/2020 01:14,31/01/2020 01:18,Accidental,Adverso,"Abierto interruptor para reparar puente MT suelto. EnYegros c/ M. Lynch","Luis Alberto de Herrera, Santa María,Villa Aurelia,"
+VAU12,4/01/2020 22:52,4/01/2020 22:54,Programado,Normal,MEMO DD/DCC1/001/2020.,Mcal. Estigarribia.
+VAU14,4/01/2020 23:06,4/01/2020 23:08,Programado,Normal,MEMO DD/DCC1/001/2020.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU14,6/01/2020 15:29,6/01/2020 19:59,Accidental,Adverso,SF averiado F2. RI 2 de Mayo y Cerafina Davalos.,"Villa Aurelia, Los Laureles, Hiódromo."
+VAU3,4/01/2020 22:50,4/01/2020 22:52,Programado,Normal,MEMO DD/DCC1/001/2020.,"Villa Aurelia, San Pablo."
+VAU3,6/01/2020 15:27,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Villa Aurelia, San Pablo."
+VAU3,6/01/2020 15:29,6/01/2020 19:28,Accidental,Adverso,"Línea MT suelta, Ramas sobre Línea MT Suelta.Cacique c/ Epifanio Mendez Fleitas, Ramas sobreEusebio Ayala y Boggiani en la RTU 50091.","Villa Aurelia, San Pablo."
+VAU3,31/01/2020 16:51,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, San Pablo."
+VAU4,5/01/2020 08:07,5/01/2020 08:11,Programado,Normal,"Abierto Interruptor para efectuar Canalización delcorte MEMO DD/DCC1/001/2020.","Los Laureles, Nazaret, Recoleta,Tembetary."
+VAU6,29/01/2020 18:05,29/01/2020 23:12,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Estigarribia.
+VAU8,4/01/2020 14:20,4/01/2020 15:04,Accidental,Normal,"Ramas sobre Línea MT. Línea en CC F1-2. Rivarolay Cnel. López.",Villa Aurelia.
+VAU8,6/01/2020 15:29,6/01/2020 19:07,Accidental,Adverso,Ramas sobre Línea MT. Madame Lynch y L. Rojas.,Villa Aurelia.
+VAU8,6/01/2020 20:46,6/01/2020 20:48,Accidental,Adverso,"Abierto Interruptor, para efectuar maniobras.",Villa Aurelia.
+VAU8,10/01/2020 08:10,10/01/2020 09:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia.
+VAU8,13/01/2020 17:38,13/01/2020 18:11,Accidental,Adverso,"Transformador averiado. Rivarola Matto y LomasValentinas.",Villa Aurelia.
+VAU8,13/01/2020 22:52,13/01/2020 23:02,Accidental,Normal,"Abierto Interruptor, para efectuar cierre de PuenteMT. Tte. Rivarola y Boggiani.",Villa Aurelia.
+VAU8,16/01/2020 17:35,16/01/2020 19:05,Accidental,Normal,"Aislador roto y pájaro en contacto con Línea MT.Cap. Villamayor y Músicos del Chaco.",Villa Aurelia.
+VAU8,29/01/2020 18:09,29/01/2020 20:19,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia.
