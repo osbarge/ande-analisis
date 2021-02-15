@@ -1,128 +1,214 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BCP3,13/02/2020 07:29,13/02/2020 07:48,Accidental,Normal,Desperfecto interno. Colegio Americano.,"Las Carmelitas, Villa Morra, Manorá."
 BCP3,29/02/2020 12:38,29/02/2020 12:41,Programado,Normal,Abierto interruptor para efectuar maniobras.,"Las Carmelitas, Villa Morra, Manorá."
 BMO1,8/02/2020 23:47,8/02/2020 23:49,Programado,Normal,MEMO DD/DCC1/034/2020.,"Itay, San Jorge."
 BMO2,9/02/2020 00:19,9/02/2020 00:20,Programado,Normal,MEMO DD/DCC1/034/2020.,Itay.
-BPA10,21/02/2020 15:13,21/02/2020 15:53,Accidental,Normal,"Ramas de palmera sobre Línea MT. Guido Spano c/Consejal Vargas.","Luis Alberto de Herrera, San Cristobal,Santa María."
-BPA10,25/02/2020 13:11,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,Santa María."
-BPA10,25/02/2020 13:30,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,Santa María."
-BPA12,28/02/2020 03:38,28/02/2020 03:43,Programado,Normal,"Abierto interruptor para efectuar reposición deseccionador fusible en forma directa. Eusebio Lillo yDr. Bernardino Caballero.","Salvador del Mundo, San Cristobal, SanJorge."
-BPA13,5/02/2020 08:12,5/02/2020 08:13,Programado,Normal,Alivio de carga. SE-BPA.,"Salvador del Mundo, San Cristobal, SanJorge."
-BPA4,9/02/2020 01:23,9/02/2020 01:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Bajaaislación F2 en el Seccionador N° 51765.","Luis Alberto de Herrera, San Cristobal,Santa María."
-BPA4,18/02/2020 12:37,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,Santa María."
+BPA10,21/02/2020 15:13,21/02/2020 15:53,Accidental,Normal,"Ramas de palmera sobre Línea MT. Guido Spano c/
+Consejal Vargas.","Luis Alberto de Herrera, San Cristobal,
+Santa María."
+BPA10,25/02/2020 13:11,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,
+Santa María."
+BPA10,25/02/2020 13:30,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,
+Santa María."
+BPA12,28/02/2020 03:38,28/02/2020 03:43,Programado,Normal,"Abierto interruptor para efectuar reposición de
+seccionador fusible en forma directa. Eusebio Lillo y
+Dr. Bernardino Caballero.","Salvador del Mundo, San Cristobal, San
+Jorge."
+BPA13,5/02/2020 08:12,5/02/2020 08:13,Programado,Normal,Alivio de carga. SE-BPA.,"Salvador del Mundo, San Cristobal, San
+Jorge."
+BPA4,9/02/2020 01:23,9/02/2020 01:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Baja
+aislación F2 en el Seccionador N° 51765.","Luis Alberto de Herrera, San Cristobal,
+Santa María."
+BPA4,18/02/2020 12:37,Recierre,Accidental,Normal,No establecido.,"Luis Alberto de Herrera, San Cristobal,
+Santa María."
 BPA6,18/02/2020 13:41,18/02/2020 15:00,Accidental,Normal,Línea MT en C.C. Grupo Habitacional Aeropuerto.,"Itay, Ykua Sati, San Jorge."
-BPA6,25/02/2020 18:22,25/02/2020 18:24,Accidental,Normal,"Abierto Interruptor. Choque por sostén MT. Avda.Madame Lynch c/ Gorostiaga.","Itay, Ykua Sati, San Jorge."
+BPA6,25/02/2020 18:22,25/02/2020 18:24,Accidental,Normal,"Abierto Interruptor. Choque por sostén MT. Avda.
+Madame Lynch c/ Gorostiaga.","Itay, Ykua Sati, San Jorge."
 BPA7,16/02/2020 14:10,16/02/2020 14:57,Accidental,Adverso,Condiciones Climáticas Adversas.,"San Cristobal, Villa Morra, Ykua Sati."
-BPA7,17/02/2020 00:18,17/02/2020 00:30,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto. Sucre y Belgica.","San Cristobal, Villa Morra, Ykua Sati."
+BPA7,17/02/2020 00:18,17/02/2020 00:30,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
+Puente MT Suelto. Sucre y Belgica.","San Cristobal, Villa Morra, Ykua Sati."
 BPA7,18/02/2020 14:11,18/02/2020 15:01,Accidental,Normal,Ramas sobre Línea MT. G. Sosa y Guido Spano.,"San Cristobal, Villa Morra, Ykua Sati."
-BPA8,21/02/2020 15:27,21/02/2020 15:30,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF enforma directa.",Villa Morra.
-CEN3,11/02/2020 07:52,11/02/2020 08:00,Programado,Normal,"Abierto Interruptor, por principio de incendio en el PDCE6. EDIFICIO CARDINAL. Al efectuar maniobrassegún MEMO DD/DCC1/041/2020.","La Catedral, La Encarnación."
+BPA8,21/02/2020 15:27,21/02/2020 15:30,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF en
+forma directa.",Villa Morra.
+CEN3,11/02/2020 07:52,11/02/2020 08:00,Programado,Normal,"Abierto Interruptor, por principio de incendio en el PD
+CE6. EDIFICIO CARDINAL. Al efectuar maniobras
+según MEMO DD/DCC1/041/2020.","La Catedral, La Encarnación."
 CEN3,15/02/2020 15:40,15/02/2020 16:06,Accidental,Normal,No establecido.,"La Catedral, La Encarnación."
 CEN3,17/02/2020 08:27,17/02/2020 08:42,Accidental,Normal,No establecido.,"La Catedral, La Encarnación."
-CEN3,18/02/2020 06:48,18/02/2020 07:45,Accidental,Normal,"En paralelo CEN8/CEN3. Agua en PD y SBCaveriado. LIDER 4. CE125.","La Catedral, La Encarnación."
-CEN3,21/02/2020 12:02,21/02/2020 12:49,Accidental,Normal,"Cable Puesta a tierra suelto. Gral. Diaz e/ 14 deMayo y Alberdi.","La Catedral, La Encarnación."
+CEN3,18/02/2020 06:48,18/02/2020 07:45,Accidental,Normal,"En paralelo CEN8/CEN3. Agua en PD y SBC
+averiado. LIDER 4. CE125.","La Catedral, La Encarnación."
+CEN3,21/02/2020 12:02,21/02/2020 12:49,Accidental,Normal,"Cable Puesta a tierra suelto. Gral. Diaz e/ 14 de
+Mayo y Alberdi.","La Catedral, La Encarnación."
 CEN6,10/02/2020 00:58,10/02/2020 01:22,Accidental,Normal,No establecido.,"La Encarnación, La Catedral."
-FDM2,5/02/2020 21:02,5/02/2020 21:14,Accidental,Normal,"Puente MT Suelto F1. Defensores del Chaco c/Acceso Sur.",San Pablo.
+FDM2,5/02/2020 21:02,5/02/2020 21:14,Accidental,Normal,"Puente MT Suelto F1. Defensores del Chaco c/
+Acceso Sur.",San Pablo.
 FDM2,8/02/2020 13:01,8/02/2020 13:50,Accidental,Normal,No establecido.,San Pablo.
 GDI3,4/02/2020 07:16,Recierre,Accidental,Normal,No establecido.,San Pablo.
-GDI3,4/02/2020 09:08,4/02/2020 10:21,Accidental,Normal,"Tramo averiado. PS 268 a PS 258, SBC averiado enel PE FERIA ASUNCIÓN.",San Pablo.
+GDI3,4/02/2020 09:08,4/02/2020 10:21,Accidental,Normal,"Tramo averiado. PS 268 a PS 258, SBC averiado en
+el PE FERIA ASUNCIÓN.",San Pablo.
 GDI3,17/02/2020 12:56,Recierre,Accidental,Normal,No establecido.,San Pablo.
 GDI3,20/02/2020 09:58,Recierre,Accidental,Normal,No establecido.,San Pablo.
-LAM15,5/02/2020 21:43,5/02/2020 22:36,Accidental,Normal,"Ramas sobre Línea MT, Línea MT en C.C,Seccionador Fusible Averiado, Línea Mt Suelta enNanawa E/ Cap. Figari y Juana De Lara.",Itá Enramada.
+LAM15,5/02/2020 21:43,5/02/2020 22:36,Accidental,Normal,"Ramas sobre Línea MT, Línea MT en C.C,
+Seccionador Fusible Averiado, Línea Mt Suelta en
+Nanawa E/ Cap. Figari y Juana De Lara.",Itá Enramada.
 LAM22,12/02/2020 14:08,12/02/2020 15:01,Accidental,Normal,SF averiado. Nuñez de Balboa y San Lucas.,"Hipódromo, Terminal."
 LAM23,8/02/2020 12:54,8/02/2020 15:55,Accidental,Normal,No establecido.,Mburicao.
-LAM23,8/02/2020 16:33,8/02/2020 16:45,Accidental,Normal,"Ramas sobre Línea MT. Antillas y Hernán Cortes.Puente MT Suelto en Nazareno y Antillas.",Mburicao.
-LAM5,18/02/2020 12:28,18/02/2020 16:29,Accidental,Normal,"Percha rota y Línea protegida en contacto. Ayoreos yCacique Lambaré.","Santa Ana, Itá Enramada, Jukyty, SantaLibrada, San Cayetano, Pirizal."
+LAM23,8/02/2020 16:33,8/02/2020 16:45,Accidental,Normal,"Ramas sobre Línea MT. Antillas y Hernán Cortes.
+Puente MT Suelto en Nazareno y Antillas.",Mburicao.
+LAM5,18/02/2020 12:28,18/02/2020 16:29,Accidental,Normal,"Percha rota y Línea protegida en contacto. Ayoreos y
+Cacique Lambaré.","Santa Ana, Itá Enramada, Jukyty, Santa
+Librada, San Cayetano, Pirizal."
 LAM7,8/02/2020 12:54,8/02/2020 16:09,Accidental,Normal,No establecido.,"Vista Alegre, Pinoza."
 MBU1,18/02/2020 14:12,Recierre,Accidental,Normal,No establecido.,"Las Carmelitas, Madame Lynch, Manorá."
 MBU2,7/02/2020 15:40,Recierre,Accidental,Normal,No establecido.,"Madame Lych, Mburucuyá."
-MBU5,6/02/2020 08:00,Recierre,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,Mbocayaty, Ñu Guasu, Salvador del Mundo."
-MBU5,6/02/2020 10:38,Recierre,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,Mbocayaty, Ñu Guasu, Salvador del Mundo."
-MBU5,18/02/2020 13:09,18/02/2020 15:07,Accidental,Normal,"Puente MT Suelto, Cruceta MT rota. Avda. Ñu Guazúy Autopista.","Santísima Trinidad, Madame Lynch,Mbocayaty, Ñu Guasu, Salvador del Mundo."
-MBU5,26/02/2020 02:57,26/02/2020 03:30,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,Mbocayaty, Ñu Guasu, Salvador del Mundo."
-MBU5,26/02/2020 04:13,26/02/2020 04:15,Accidental,Normal,Cruceta MT rota. Obispo López y Cap. Martínez.,"Santísima Trinidad, Madame Lynch,Mbocayaty, Ñu Guasu, Salvador del Mundo."
+MBU5,6/02/2020 08:00,Recierre,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,
+Mbocayaty, Ñu Guasu, Salvador del Mundo."
+MBU5,6/02/2020 10:38,Recierre,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,
+Mbocayaty, Ñu Guasu, Salvador del Mundo."
+MBU5,18/02/2020 13:09,18/02/2020 15:07,Accidental,Normal,"Puente MT Suelto, Cruceta MT rota. Avda. Ñu Guazú
+y Autopista.","Santísima Trinidad, Madame Lynch,
+Mbocayaty, Ñu Guasu, Salvador del Mundo."
+MBU5,26/02/2020 02:57,26/02/2020 03:30,Accidental,Normal,No establecido.,"Santísima Trinidad, Madame Lynch,
+Mbocayaty, Ñu Guasu, Salvador del Mundo."
+MBU5,26/02/2020 04:13,26/02/2020 04:15,Accidental,Normal,Cruceta MT rota. Obispo López y Cap. Martínez.,"Santísima Trinidad, Madame Lynch,
+Mbocayaty, Ñu Guasu, Salvador del Mundo."
 MBU7,20/02/2020 17:22,20/02/2020 17:24,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.","Virgen de la Asunción, Cañada Ybyray."
 MRA1,7/02/2020 15:39,7/02/2020 16:30,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
-MRA1,7/02/2020 17:05,7/02/2020 17:20,Accidental,Normal,"Ramas de Palmera caído sobre Línea MT. RutaTranschaco c/ Hernandarias.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,7/02/2020 17:05,7/02/2020 17:20,Accidental,Normal,"Ramas de Palmera caído sobre Línea MT. Ruta
+Transchaco c/ Hernandarias.","Loma Pyta, Zeballos Cué, San Blas."
 MRA1,16/02/2020 14:04,16/02/2020 14:43,Accidental,Adverso,Condiciones Climáticas Adversas.,"Loma Pyta, Zeballos Cué, San Blas."
 MRA1,27/02/2020 00:18,27/02/2020 01:00,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
-MRA1,27/02/2020 01:09,27/02/2020 01:13,Programado,Normal,"Abierto interruptor para efectuar reposición de fusibleoperado. PE Super6.","Loma Pyta, Zeballos Cué, San Blas."
-MRA1,28/02/2020 16:24,28/02/2020 17:44,Accidental,Normal,"Rama sobre línea MT y línea MT suelta F1,ocasionado por terceros. Cnel. Bogado y José deAntequera y Castro.","Loma Pyta, Zeballos Cué, San Blas."
-PBO1,25/02/2020 15:35,25/02/2020 16:56,Accidental,Normal,No establecido.,"Santa Rosa, Virgen de la Asunción, CañadaYbyray, Zeballos Cué, Bañado Cará Cará."
+MRA1,27/02/2020 01:09,27/02/2020 01:13,Programado,Normal,"Abierto interruptor para efectuar reposición de fusible
+operado. PE Super6.","Loma Pyta, Zeballos Cué, San Blas."
+MRA1,28/02/2020 16:24,28/02/2020 17:44,Accidental,Normal,"Rama sobre línea MT y línea MT suelta F1,
+ocasionado por terceros. Cnel. Bogado y José de
+Antequera y Castro.","Loma Pyta, Zeballos Cué, San Blas."
+PBO1,25/02/2020 15:35,25/02/2020 16:56,Accidental,Normal,No establecido.,"Santa Rosa, Virgen de la Asunción, Cañada
+Ybyray, Zeballos Cué, Bañado Cará Cará."
 PBO21,6/02/2020 21:20,6/02/2020 21:36,Accidental,Normal,No establecido.,Zeballos Cué.
 PBO8,4/02/2020 20:52,4/02/2020 21:30,Accidental,Normal,Desperfecto interno. Lombardo y Bernal.,Zeballos Cué.
-PBO8,5/02/2020 00:14,5/02/2020 00:20,Accidental,Normal,"Abierto Interruptor, para efectuar reposición defusibles. Tte. Bernal c/ Cap. Lombardo.",Zeballos Cué.
-PBO8,9/02/2020 09:03,9/02/2020 10:06,Accidental,Normal,"Línea MT Suelta, Cruceta MT rota, Puente MTSuelto, SF averiado. 8 de Agosto y Sgto. Martinez.","Virgen de Fátima, Santa Rosa."
+PBO8,5/02/2020 00:14,5/02/2020 00:20,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
+fusibles. Tte. Bernal c/ Cap. Lombardo.",Zeballos Cué.
+PBO8,9/02/2020 09:03,9/02/2020 10:06,Accidental,Normal,"Línea MT Suelta, Cruceta MT rota, Puente MT
+Suelto, SF averiado. 8 de Agosto y Sgto. Martinez.","Virgen de Fátima, Santa Rosa."
 PBO8,16/02/2020 14:06,16/02/2020 16:07,Accidental,Adverso,Línea MT Suelta. Tte. Martínez y Soldado Román.,"Virgen de Fátima, Santa Rosa."
 PCA1,23/02/2020 11:48,23/02/2020 12:13,Accidental,Normal,No establecido.,"San Roque, La Catedral."
-PCA1,24/02/2020 22:58,24/02/2020 23:41,Accidental,Normal,"Agua en PD SM395. Junta de Gobierno. DiarioPatria.","San Roque, La Catedral."
+PCA1,24/02/2020 22:58,24/02/2020 23:41,Accidental,Normal,"Agua en PD SM395. Junta de Gobierno. Diario
+Patria.","San Roque, La Catedral."
 PCA8,9/02/2020 14:21,9/02/2020 15:26,Accidental,Normal,No establecido.,"Banco San Miguel, Tablada Nueva, Jara."
 PCA8,9/02/2020 18:15,9/02/2020 18:40,Accidental,Normal,Seccionador averiado. Inglaterra y Artigas.,"Banco San Miguel, Tablada Nueva, Jara."
 PCA8,18/02/2020 12:57,18/02/2020 16:09,Accidental,Normal,No establecido.,"Banco San Miguel, Tablada Nueva, Jara."
-PSA11,9/02/2020 08:46,9/02/2020 08:51,Accidental,Normal,"Transformador averiado. Costado de la EscuelaColmán. Lado Cañada.","Bañado Tacumbu, Sajonia."
-PSA3,16/02/2020 22:57,16/02/2020 23:05,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SF enforma directa. Cnel. López e/ De La Conquista.","San Antonio, Dr. Gaspar R. de Francia."
-PSA5,22/02/2020 11:51,22/02/2020 12:03,Accidental,Normal,No establecido.,"La Encarnación, San Antonio, Ita PytaPunta, Dr. Gaspar R. de Francia."
-PSA6,6/02/2020 09:34,6/02/2020 09:41,Accidental,Normal,Pájaro en contacto con Línea MT.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
-PSA6,16/02/2020 16:32,16/02/2020 16:44,Accidental,Adverso,Al efectuar maniobras.,"San Antonio, Ita Pyta Punta, Dr. GasparRodriguez de Francia."
+PSA11,9/02/2020 08:46,9/02/2020 08:51,Accidental,Normal,"Transformador averiado. Costado de la Escuela
+Colmán. Lado Cañada.","Bañado Tacumbu, Sajonia."
+PSA3,16/02/2020 22:57,16/02/2020 23:05,Accidental,Adverso,"Abierto Interruptor, para efectuar reposición de SF en
+forma directa. Cnel. López e/ De La Conquista.","San Antonio, Dr. Gaspar R. de Francia."
+PSA5,22/02/2020 11:51,22/02/2020 12:03,Accidental,Normal,No establecido.,"La Encarnación, San Antonio, Ita Pyta
+Punta, Dr. Gaspar R. de Francia."
+PSA6,6/02/2020 09:34,6/02/2020 09:41,Accidental,Normal,Pájaro en contacto con Línea MT.,"San Antonio, Ita Pyta Punta, Dr. Gaspar
+Rodriguez de Francia."
+PSA6,16/02/2020 16:32,16/02/2020 16:44,Accidental,Adverso,Al efectuar maniobras.,"San Antonio, Ita Pyta Punta, Dr. Gaspar
+Rodriguez de Francia."
 PSA7,4/02/2020 22:18,4/02/2020 22:51,Accidental,Normal,No establecido.,"Bañado Tacumbu, Carlos. A. López."
 PSA7,18/02/2020 12:42,18/02/2020 14:50,Accidental,Normal,No establecido.,"Bañado Tacumbu, Carlos. A. López."
-PSA7,21/02/2020 16:28,21/02/2020 17:00,Accidental,Normal,"Fuera de servicio ocasionado por tercero(contratista). 15 Proyectadas c/ O ´leary.","Bañado Tacumbu, Carlos. A. López."
+PSA7,21/02/2020 16:28,21/02/2020 17:00,Accidental,Normal,"Fuera de servicio ocasionado por tercero
+(contratista). 15 Proyectadas c/ O ´leary.","Bañado Tacumbu, Carlos. A. López."
 PSA7,24/02/2020 12:20,24/02/2020 12:36,Accidental,Normal,No establecido.,"Bañado Tacumbu, Carlos. A. López."
-PSA7,24/02/2020 13:34,24/02/2020 15:13,Accidental,Normal,"Línea desprendida del aislador. Tte. Colman c/Carlos Gómez.","Bañado Tacumbu, Carlos. A. López."
-PSA7,28/02/2020 11:17,28/02/2020 11:36,Accidental,Normal,"Ocasionado por terceros. Contratistas con Estado dePrecaución.","Bañado Tacumbu, Carlos. A. López."
+PSA7,24/02/2020 13:34,24/02/2020 15:13,Accidental,Normal,"Línea desprendida del aislador. Tte. Colman c/
+Carlos Gómez.","Bañado Tacumbu, Carlos. A. López."
+PSA7,28/02/2020 11:17,28/02/2020 11:36,Accidental,Normal,"Ocasionado por terceros. Contratistas con Estado de
+Precaución.","Bañado Tacumbu, Carlos. A. López."
 PSA9,4/02/2020 11:33,4/02/2020 11:45,Accidental,Normal,Al efectuar maniobras de transferencias.,Carlos A. López.
 REP2,22/02/2020 07:35,22/02/2020 07:48,Accidental,Normal,Al efectuar maniobras.,"Republicano, Santa Librada."
-REP3,1/02/2020 11:20,1/02/2020 13:06,Accidental,Normal,"Ramas sobre Línea MT. Avda. Perón a 2 Cuadras deGral. Santos.","San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
-REP3,15/02/2020 18:02,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
-REP3,20/02/2020 13:44,20/02/2020 14:54,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,Republicano, Santa Ana, Jukyty, SantaLibrada, Pirizal."
+REP3,1/02/2020 11:20,1/02/2020 13:06,Accidental,Normal,"Ramas sobre Línea MT. Avda. Perón a 2 Cuadras de
+Gral. Santos.","San Pablo, Obrero, San Vicente,
+Republicano, Santa Ana, Jukyty, Santa
+Librada, Pirizal."
+REP3,15/02/2020 18:02,Recierre,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,
+Republicano, Santa Ana, Jukyty, Santa
+Librada, Pirizal."
+REP3,20/02/2020 13:44,20/02/2020 14:54,Accidental,Normal,No establecido.,"San Pablo, Obrero, San Vicente,
+Republicano, Santa Ana, Jukyty, Santa
+Librada, Pirizal."
 REP4,25/02/2020 15:24,25/02/2020 15:43,Accidental,Normal,No establecido.,Hipódromo.
 REP5,1/02/2020 12:23,Recierre,Accidental,Normal,No establecido.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
 REP5,25/02/2020 15:24,25/02/2020 15:32,Accidental,Normal,No establecido.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
-REP6,4/02/2020 21:19,4/02/2020 22:09,Accidental,Normal,"Abierto Interruptor, para efectuar reparación, tensorsuelto. Obispo Maíz y Picuiba.","Tte. Silvio Petirosi, San Vicente, Pinoza."
-REP6,13/02/2020 13:56,13/02/2020 14:25,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Líneapor soltarse y Línea protegida desprendida. Salidadel Alimentador.","San Vicente, Pinoza, Pirizal."
+REP6,4/02/2020 21:19,4/02/2020 22:09,Accidental,Normal,"Abierto Interruptor, para efectuar reparación, tensor
+suelto. Obispo Maíz y Picuiba.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP6,13/02/2020 13:56,13/02/2020 14:25,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Línea
+por soltarse y Línea protegida desprendida. Salida
+del Alimentador.","San Vicente, Pinoza, Pirizal."
 REP6,22/02/2020 06:20,22/02/2020 07:57,Accidental,Normal,Indisponible por explosión en la celda.,"San Vicente, Pinoza, Pirizal."
-REP7,4/02/2020 21:19,4/02/2020 22:09,Accidental,Normal,"Abierto Interruptor, para efectuar reparación, tensorsuelto. Obispo Maíz y Picuiba.","Tte. Silvio Petirosi, San Vicente, Pinoza."
-REP7,13/02/2020 13:56,13/02/2020 14:25,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Líneapor soltarse y Línea protegida desprendida. Salidadel Alimentador.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP7,4/02/2020 21:19,4/02/2020 22:09,Accidental,Normal,"Abierto Interruptor, para efectuar reparación, tensor
+suelto. Obispo Maíz y Picuiba.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+REP7,13/02/2020 13:56,13/02/2020 14:25,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Línea
+por soltarse y Línea protegida desprendida. Salida
+del Alimentador.","Tte. Silvio Petirosi, San Vicente, Pinoza."
 REP7,25/02/2020 15:24,25/02/2020 15:43,Accidental,Normal,No establecido.,"Tte. Silvio Petirosi, San Vicente, Pinoza."
-REP7,25/02/2020 16:07,25/02/2020 16:19,Accidental,Normal,"Seccionador N° 50393 averiado. Mayor Sánchez e/Ana Díaz y Rodriguez de Francia.","Tte. Silvio Petirosi, San Vicente, Pinoza."
-SMI11,9/02/2020 13:04,9/02/2020 13:46,Accidental,Normal,Seccionador averiado. Siria y Gral. Santos.,"Virgen de la Asunción, Virgen del Huerto,Bella Vista, Mcal. Francisco.S. López, Jara."
-SMI11,9/02/2020 15:32,9/02/2020 16:39,Accidental,Normal,Seccionador fusible operado. Sacramento y Chavez.,"Virgen de la Asunción, Virgen del Huerto,Bella Vista, Mcal. Francisco.S. López, Jara."
-SMI2,7/02/2020 15:22,7/02/2020 17:03,Programado,Normal,Línea MT en C.C. Naciones Unidas c/ El Dorado.,"Mburicao, Recoleta, Mcal. Francisco. S.López, Gral. Bernardino Caballero."
-SMI2,18/02/2020 12:36,18/02/2020 13:29,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco. S.López, Gral. Bernardino Caballero."
-SMI4,9/02/2020 11:51,9/02/2020 11:53,Accidental,Normal,"Al efectuar maniobras. PEDIDO DE CORTE N°007/2020. En paralelo SMI4/SMI11.",Mcal F. S. López.
-SMI7,29/02/2020 10:35,29/02/2020 11:39,Accidental,Normal,"Tramo subterráneo averiado, ocasionado porterceros. Padre Pucheau y Juan de Salazar.","San Felipe, Jara."
-SMI9,25/02/2020 15:47,25/02/2020 17:52,Accidental,Normal,"Seccionador N° 51681 averiado. Avda. Gral. Santosc/ Siria. Línea MT en C.C en Siria c/ Deponte.","Las Mercedes, San Felipe."
-VAU1,16/02/2020 14:11,16/02/2020 15:51,Accidental,Adverso,"Ramas sobre Línea MT y Línea en C.C. Kostianovskiy Alas Paraguaya.","Los Laureles, Mcal. Estigarribia, Hipódromo,Tembetary,"
-VAU1,18/02/2020 12:40,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Mcal. Estigarribia, Hipódromo,Tembetary,"
-VAU1,20/02/2020 13:23,20/02/2020 14:02,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Los Laureles, Mcal. Estigarribia, Hipódromo,Tembetary,"
-VAU1,20/02/2020 14:02,20/02/2020 15:09,Producción,Normal,"Fuera de servicio TR-02. ES-VAU. Transferido sobreVAU 6.","Los Laureles, Mcal. Estigarribia, Hipódromo,Tembetary,"
+REP7,25/02/2020 16:07,25/02/2020 16:19,Accidental,Normal,"Seccionador N° 50393 averiado. Mayor Sánchez e/
+Ana Díaz y Rodriguez de Francia.","Tte. Silvio Petirosi, San Vicente, Pinoza."
+SMI11,9/02/2020 13:04,9/02/2020 13:46,Accidental,Normal,Seccionador averiado. Siria y Gral. Santos.,"Virgen de la Asunción, Virgen del Huerto,
+Bella Vista, Mcal. Francisco.S. López, Jara."
+SMI11,9/02/2020 15:32,9/02/2020 16:39,Accidental,Normal,Seccionador fusible operado. Sacramento y Chavez.,"Virgen de la Asunción, Virgen del Huerto,
+Bella Vista, Mcal. Francisco.S. López, Jara."
+SMI2,7/02/2020 15:22,7/02/2020 17:03,Programado,Normal,Línea MT en C.C. Naciones Unidas c/ El Dorado.,"Mburicao, Recoleta, Mcal. Francisco. S.
+López, Gral. Bernardino Caballero."
+SMI2,18/02/2020 12:36,18/02/2020 13:29,Accidental,Normal,No establecido.,"Mburicao, Recoleta, Mcal. Francisco. S.
+López, Gral. Bernardino Caballero."
+SMI4,9/02/2020 11:51,9/02/2020 11:53,Accidental,Normal,"Al efectuar maniobras. PEDIDO DE CORTE N°
+007/2020. En paralelo SMI4/SMI11.",Mcal F. S. López.
+SMI7,29/02/2020 10:35,29/02/2020 11:39,Accidental,Normal,"Tramo subterráneo averiado, ocasionado por
+terceros. Padre Pucheau y Juan de Salazar.","San Felipe, Jara."
+SMI9,25/02/2020 15:47,25/02/2020 17:52,Accidental,Normal,"Seccionador N° 51681 averiado. Avda. Gral. Santos
+c/ Siria. Línea MT en C.C en Siria c/ Deponte.","Las Mercedes, San Felipe."
+VAU1,16/02/2020 14:11,16/02/2020 15:51,Accidental,Adverso,"Ramas sobre Línea MT y Línea en C.C. Kostianovski
+y Alas Paraguaya.","Los Laureles, Mcal. Estigarribia, Hipódromo,
+Tembetary,"
+VAU1,18/02/2020 12:40,Recierre,Accidental,Normal,No establecido.,"Los Laureles, Mcal. Estigarribia, Hipódromo,
+Tembetary,"
+VAU1,20/02/2020 13:23,20/02/2020 14:02,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Los Laureles, Mcal. Estigarribia, Hipódromo,
+Tembetary,"
+VAU1,20/02/2020 14:02,20/02/2020 15:09,Producción,Normal,"Fuera de servicio TR-02. ES-VAU. Transferido sobre
+VAU 6.","Los Laureles, Mcal. Estigarribia, Hipódromo,
+Tembetary,"
 VAU10,20/02/2020 13:23,20/02/2020 13:26,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Mcal. Estigarribia, Recoleta,"
 VAU10,20/02/2020 14:02,20/02/2020 14:05,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Mcal. Estigarribia, Recoleta,"
 VAU10,20/02/2020 14:47,20/02/2020 14:50,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Mcal. Estigarribia, Recoleta,"
 VAU10,20/02/2020 15:29,20/02/2020 15:31,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Mcal. Estigarribia, Recoleta,"
-VAU10,23/02/2020 00:04,23/02/2020 00:05,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobreBPA5.","Mcal. Estigarribia, Recoleta,"
+VAU10,23/02/2020 00:04,23/02/2020 00:05,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobre
+BPA5.","Mcal. Estigarribia, Recoleta,"
 VAU11,16/02/2020 14:11,16/02/2020 15:51,Accidental,Adverso,Condiciones Climáticas Adversas.,"Mcal. Estigarribia, Recoleta,"
 VAU11,20/02/2020 13:23,20/02/2020 13:26,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Mcal. Estigarribia, Recoleta,"
-VAU11,20/02/2020 14:02,20/02/2020 14:05,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, VillaAurelia,"
-VAU11,20/02/2020 14:47,20/02/2020 14:50,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, VillaAurelia,"
-VAU11,20/02/2020 15:29,20/02/2020 15:31,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, VillaAurelia,"
-VAU11,22/02/2020 23:43,22/02/2020 23:47,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobreVAU7.","Luis Alberto de Herrera, Santa María, VillaAurelia,"
+VAU11,20/02/2020 14:02,20/02/2020 14:05,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, Villa
+Aurelia,"
+VAU11,20/02/2020 14:47,20/02/2020 14:50,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, Villa
+Aurelia,"
+VAU11,20/02/2020 15:29,20/02/2020 15:31,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Luis Alberto de Herrera, Santa María, Villa
+Aurelia,"
+VAU11,22/02/2020 23:43,22/02/2020 23:47,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobre
+VAU7.","Luis Alberto de Herrera, Santa María, Villa
+Aurelia,"
 VAU12,20/02/2020 13:23,20/02/2020 13:26,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,Mcal. Estigarribia.
 VAU12,20/02/2020 14:02,20/02/2020 14:05,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,Mcal. Estigarribia.
 VAU12,20/02/2020 14:47,20/02/2020 14:50,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,Mcal. Estigarribia.
 VAU12,20/02/2020 15:29,20/02/2020 15:31,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,Mcal. Estigarribia.
-VAU12,23/02/2020 00:02,23/02/2020 00:03,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobreVAU7.",Mcal. Estigarribia.
+VAU12,23/02/2020 00:02,23/02/2020 00:03,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobre
+VAU7.",Mcal. Estigarribia.
 VAU14,16/02/2020 10:53,Recierre,Accidental,Normal,No establecido.,"Villa Aurelia, Los Laureles, Hiódromo."
 VAU14,20/02/2020 13:23,20/02/2020 13:26,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Villa Aurelia, Los Laureles, Hiódromo."
 VAU14,20/02/2020 14:02,20/02/2020 14:05,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Villa Aurelia, Los Laureles, Hiódromo."
 VAU14,20/02/2020 14:47,20/02/2020 14:50,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Villa Aurelia, Los Laureles, Hiódromo."
 VAU14,20/02/2020 15:29,20/02/2020 15:31,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Villa Aurelia, Los Laureles, Hiódromo."
-VAU14,22/02/2020 23:53,22/02/2020 23:54,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobreVAU6.","Villa Aurelia, Los Laureles, Hiódromo."
+VAU14,22/02/2020 23:53,22/02/2020 23:54,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobre
+VAU6.","Villa Aurelia, Los Laureles, Hiódromo."
 VAU3,16/02/2020 19:43,Recierre,Accidental,Adverso,Condiciones Climáticas Adversas.,"Villa Aurelia, San Pablo."
-VAU3,17/02/2020 08:55,17/02/2020 09:44,Accidental,Normal,"Transformador averiado. Epifanio Mendez Fleytas yVeteranos de la Guerra.","Villa Aurelia, San Pablo."
+VAU3,17/02/2020 08:55,17/02/2020 09:44,Accidental,Normal,"Transformador averiado. Epifanio Mendez Fleytas y
+Veteranos de la Guerra.","Villa Aurelia, San Pablo."
 VAU3,20/02/2020 13:23,20/02/2020 13:28,Producción,Normal,Fuera de servicio TR-02. ES-VAU.,"Villa Aurelia, San Pablo."
 VAU3,20/02/2020 14:02,20/02/2020 14:06,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Villa Aurelia, San Pablo."
 VAU3,20/02/2020 14:47,20/02/2020 15:26,Producción,Normal,Fuera de servicio TR-02. ES-VAU. Al cerrar VAU1.,"Villa Aurelia, San Pablo."
-VAU3,21/02/2020 18:20,21/02/2020 19:05,Accidental,Normal,"Puente MT Suelto. Maestro Fermín López c/Veteranos de la Guerra del Chaco.","Villa Aurelia, San Pablo."
-VAU3,23/02/2020 00:33,23/02/2020 00:34,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobreFDM2.","Villa Aurelia, San Pablo."
-VAU8,20/02/2020 17:32,20/02/2020 18:22,Accidental,Normal,"Puente MT Suelto. Cecilio Baez e/ Cnel. RafaelFranco y Colón.",Villa Aurelia.
+VAU3,21/02/2020 18:20,21/02/2020 19:05,Accidental,Normal,"Puente MT Suelto. Maestro Fermín López c/
+Veteranos de la Guerra del Chaco.","Villa Aurelia, San Pablo."
+VAU3,23/02/2020 00:33,23/02/2020 00:34,Programado,Normal,"MEMO DD/DCC1/057/2020. Transferencia sobre
+FDM2.","Villa Aurelia, San Pablo."
+VAU8,20/02/2020 17:32,20/02/2020 18:22,Accidental,Normal,"Puente MT Suelto. Cecilio Baez e/ Cnel. Rafael
+Franco y Colón.",Villa Aurelia.

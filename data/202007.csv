@@ -1,4 +1,4 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BCP2,27/07/2020 19:01,27/07/2020 19:07,Accidental,Normal,Transformador averiado. Maciel y Agustín Barrios.,"Bella Vista, Santo Domingo, Manorá."
 BPA12,9/07/2020 06:58,9/07/2020 07:02,Programado,Normal,MEMO DD/DCC1/164/2020.,"Salvador del Mundo, San Cristobal, SanJorge."
 BPA2,3/07/2020 14:54,3/07/2020 15:01,Accidental,Normal,Maniobras en la SE-BPA.,"Manorá, Ykua Sati, Las Carmelitas,"

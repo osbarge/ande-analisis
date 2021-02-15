@@ -1,4 +1,4 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BCP2,16/12/2020 08:02,Recierre,Accidental,Normal,No establecido.,"Bella Vista, Santo Domingo, Manorá."
 BCP2,16/12/2020 08:05,Recierre,Accidental,Normal,No establecido.,"Bella Vista, Santo Domingo, Manorá."
 BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,"Abierto interruptor para efectuar reparación depuente MT suelto. RTU N° 25065.","Bella Vista, Santo Domingo, Manorá."

@@ -1,4 +1,4 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,"Abierto interruptor para efectuar reparación depuente MT suelto. Roque C. Miranda c/ Sta. Ana - PEScavone Hnos.","Las Carmelitas, Villa Morra, Manorá."
 BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,"Abierto interruptor para efectuar maniobras decanalización del BPA 4.","Salvador del Mundo, San Cristobal, San Jorge."
 BPA12,30/04/2020 23:24,Recierre,Accidental,Normal,No establecido.,"Salvador del Mundo, San Cristobal, San Jorge."

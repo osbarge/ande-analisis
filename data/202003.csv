@@ -1,4 +1,4 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BMO1,28/03/2020 08:34,28/03/2020 10:49,Accidental,Normal,"Línea MT suelta F2. Ibañez Rojas e/ Tuyuti y A.Caballero.","Itay, San Jorge."
 BPA10,10/03/2020 14:24,10/03/2020 15:22,Accidental,Normal,"Ramas sobre Línea MT. Avda. Mcal. López c/ CerroPorteño.","Luis Alberto de Herrera, San Cristobal,Santa María."
 BPA10,13/03/2020 14:26,13/03/2020 14:31,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del BPA 10.","Luis Alberto de Herrera, San Cristobal,Santa María."

@@ -1,4 +1,4 @@
-PRIMARIO,FUERA DE SERVICIO,REPOSICIONN,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIOS
 BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.","Bella Vista, Santo Domingo, Manorá."
 BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.","Las Carmelitas, Villa Morra, Manorá."
 BMO2,25/08/2020 22:08,Recierre,Accidental,Normal,No establecido.,Itay.
