@@ -64,8 +64,10 @@ MRA1,1/10/2020 11:22,1/10/2020 14:10,Accidental,Adverso,Condiciones Climáticas A
 MRA1,8/10/2020 18:06,8/10/2020 18:48,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
 MRA1,12/10/2020 17:27,12/10/2020 18:12,Accidental,Normal,No establecido.,"Loma Pyta, Zeballos Cué, San Blas."
 MRA1,26/10/2020 01:43,26/10/2020 11:52,Accidental,Adverso,Condiciones Climáticas Adversas.,"Loma Pyta, Zeballos Cué, San Blas."
-PBO1,1/10/2020 10:52,1/10/2020 12:40,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué, Bañado"
-PBO1,1/10/2020 12:48,1/10/2020 14:24,Accidental,Adverso,Seccionador N° 53597 averiado F1.,"Santa Rosa, Virgen de la Asunción,Cañada Ybyray, Zeballos Cué, Bañado"
+PBO1,1/10/2020 10:52,1/10/2020 12:40,Accidental,Adverso,Condiciones Climáticas Adversas.,"Santa Rosa, Virgen de la Asunción,
+Cañada Ybyray, Zeballos Cué, Bañado Cará Cará"
+PBO1,1/10/2020 12:48,1/10/2020 14:24,Accidental,Adverso,Seccionador N° 53597 averiado F1.,"Santa Rosa, Virgen de la Asunción,
+Cañada Ybyray, Zeballos Cué, Bañado Cará Cará"
 PBO10,1/10/2020 11:53,1/10/2020 13:51,Accidental,Adverso,Condiciones Climáticas Adversas.,"Bañado Cará Cará, Botánico, SantaRosa."
 PBO10,23/10/2020 23:03,24/10/2020 00:47,Accidental,Normal,No establecido.,"Bañado Cará Cará, Botánico, SantaRosa."
 PBO10,24/10/2020 02:48,24/10/2020 02:59,Accidental,Normal,Al efectuar maniobras.,"Bañado Cará Cará, Botánico, SantaRosa."
