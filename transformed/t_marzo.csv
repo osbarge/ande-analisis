@@ -1,0 +1,245 @@
+,PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
+0,BMO1,28/03/2020 08:34,28/03/2020 10:49,Accidental,Normal,Línea MT suelta F2. Ibañez Rojas e/ Tuyuti y A.Caballero.,Itay,0 days 02:15:00,8100
+1,BMO1,28/03/2020 08:34,28/03/2020 10:49,Accidental,Normal,Línea MT suelta F2. Ibañez Rojas e/ Tuyuti y A.Caballero.,San Jorge,0 days 02:15:00,8100
+0,BPA10,10/03/2020 14:24,10/03/2020 15:22,Accidental,Normal,Ramas sobre Línea MT. Avda. Mcal. López c/ CerroPorteño.,Luis Alberto de Herrera,0 days 00:58:00,3480
+1,BPA10,10/03/2020 14:24,10/03/2020 15:22,Accidental,Normal,Ramas sobre Línea MT. Avda. Mcal. López c/ CerroPorteño.,San Cristóbal,0 days 00:58:00,3480
+2,BPA10,10/03/2020 14:24,10/03/2020 15:22,Accidental,Normal,Ramas sobre Línea MT. Avda. Mcal. López c/ CerroPorteño.,Santa María,0 days 00:58:00,3480
+0,BPA10,13/03/2020 14:26,13/03/2020 14:31,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del BPA 10.",Luis Alberto de Herrera,0 days 00:05:00,300
+1,BPA10,13/03/2020 14:26,13/03/2020 14:31,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del BPA 10.",San Cristóbal,0 days 00:05:00,300
+2,BPA10,13/03/2020 14:26,13/03/2020 14:31,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del BPA 10.",Santa María,0 days 00:05:00,300
+0,BPA4,18/03/2020 19:24,18/03/2020 21:24,Accidental,Adverso,Condiciones climáticas adversas.,Luis Alberto de Herrera,0 days 02:00:00,7200
+1,BPA4,18/03/2020 19:24,18/03/2020 21:24,Accidental,Adverso,Condiciones climáticas adversas.,San Cristóbal,0 days 02:00:00,7200
+2,BPA4,18/03/2020 19:24,18/03/2020 21:24,Accidental,Adverso,Condiciones climáticas adversas.,Santa María,0 days 02:00:00,7200
+0,BPA4,19/03/2020 10:07,19/03/2020 10:22,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 00:15:00,900
+1,BPA4,19/03/2020 10:07,19/03/2020 10:22,Accidental,Normal,No establecido.,San Cristóbal,0 days 00:15:00,900
+2,BPA4,19/03/2020 10:07,19/03/2020 10:22,Accidental,Normal,No establecido.,Santa María,0 days 00:15:00,900
+0,BPA5,8/03/2020 09:45,08/03/2020 11:45,Accidental,Normal,No establecido.,San Cristóbal,0 days 02:00:00,7200
+1,BPA5,8/03/2020 09:45,08/03/2020 11:45,Accidental,Normal,No establecido.,Recoleta,0 days 02:00:00,7200
+0,BPA5,28/03/2020 11:05,28/03/2020 12:26,Accidental,Normal,No establecido.,San Cristóbal,0 days 01:21:00,4860
+1,BPA5,28/03/2020 11:05,28/03/2020 12:26,Accidental,Normal,No establecido.,Recoleta,0 days 01:21:00,4860
+0,CEN3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Catedral,0 days 00:04:00,240
+1,CEN3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Encarnación,0 days 00:04:00,240
+0,CEN3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Catedral,0 days 00:02:00,120
+1,CEN3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Encarnación,0 days 00:02:00,120
+0,CEN4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Encarnación,0 days 00:04:00,240
+0,CEN4,21/03/2020 10:24,21/03/2020 10:30,Accidental,Normal,No establecido.,La Encarnación,0 days 00:06:00,360
+0,CEN4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Encarnación,0 days 00:02:00,120
+0,CEN6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Encarnación,0 days 00:04:00,240
+1,CEN6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Catedral,0 days 00:04:00,240
+0,CEN6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Encarnación,0 days 00:02:00,120
+1,CEN6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Catedral,0 days 00:02:00,120
+0,FDM3,5/03/2020 20:42,5/03/2020 20:44,Accidental,Normal,Al efectuar maniobras.,San Pablo,0 days 00:02:00,120
+0,FDM3,18/03/2020 09:12,18/03/2020 10:18,Accidental,Adverso,Condiciones climáticas adversas.,San Pablo,0 days 01:06:00,3960
+0,GDI1,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Gral. J. E Diaz,0 days 00:04:00,240
+1,GDI1,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Obrero,0 days 00:04:00,240
+0,GDI1,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Gral. J. E Diaz,0 days 00:02:00,120
+1,GDI1,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Obrero,0 days 00:02:00,120
+0,GDI2,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Gral. J. E Diaz,0 days 00:04:00,240
+1,GDI2,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Obrero,0 days 00:04:00,240
+0,GDI2,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Gral. J. E Diaz,0 days 00:02:00,120
+1,GDI2,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Obrero,0 days 00:02:00,120
+0,GDI3,7/03/2020 16:38,7/03/2020 17:05,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:27:00,1620
+0,GDI3,9/03/2020 19:50,9/03/2020 20:32,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:42:00,2520
+0,GDI3,9/03/2020 20:55,9/03/2020 20:57,Accidental,Normal,Línea MT Subterránea averiada. Tramo PD PS146 aPD PS147.,Gral. J. E Diaz,0 days 00:02:00,120
+0,GDI3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Gral. J. E Diaz,0 days 00:04:00,240
+0,GDI3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Gral. J. E Diaz,0 days 00:02:00,120
+0,GDI4,4/03/2020 14:06,04/03/2020 16:06,Accidental,Normal,No establecido.,Obrero,0 days 02:00:00,7200
+1,GDI4,4/03/2020 14:06,04/03/2020 16:06,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 02:00:00,7200
+2,GDI4,4/03/2020 14:06,04/03/2020 16:06,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 02:00:00,7200
+0,GDI4,10/03/2020 23:15,10/03/2020 23:53,Accidental,Normal,No establecido.,Obrero,0 days 00:38:00,2280
+1,GDI4,10/03/2020 23:15,10/03/2020 23:53,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:38:00,2280
+2,GDI4,10/03/2020 23:15,10/03/2020 23:53,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:38:00,2280
+0,GDI4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Obrero,0 days 00:04:00,240
+1,GDI4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Dr. Roberto L. Petit,0 days 00:04:00,240
+2,GDI4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Bañado Tacumbu,0 days 00:04:00,240
+0,GDI4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Obrero,0 days 00:02:00,120
+1,GDI4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Dr. Roberto L. Petit,0 days 00:02:00,120
+2,GDI4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Bañado Tacumbu,0 days 00:02:00,120
+0,LAM10,7/03/2020 08:24,7/03/2020 08:40,Accidental,Normal,Al efectuar maniobras. Corte N° 350.,Terminal,0 days 00:16:00,960
+0,LAM10,7/03/2020 08:51,7/03/2020 09:33,Accidental,Normal,Al efectuar maniobras.,Terminal,0 days 00:42:00,2520
+0,LAM10,7/03/2020 10:30,7/03/2020 16:46,Accidental,Normal,"Línea MT Suelta F1-F2, Cruceta MT rota enYvyrapyta y Vencedores del chaco.",Terminal,0 days 06:16:00,22560
+0,LAM22,22/03/2020 18:19,22/03/2020 18:22,Programado,Normal,Abierto interruptor para efectuar reposición deseccionador fusible en forma directa. Núñez deBalboa c/ San Marcos.,Hipódromo,0 days 00:03:00,180
+1,LAM22,22/03/2020 18:19,22/03/2020 18:22,Programado,Normal,Abierto interruptor para efectuar reposición deseccionador fusible en forma directa. Núñez deBalboa c/ San Marcos.,Terminal,0 days 00:03:00,180
+0,LAM23,8/03/2020 07:23,8/03/2020 07:43,Accidental,Normal,Ave en contacto con Línea MT. Nuñez de Balboa yMaskoi.,Mburicao,0 days 00:20:00,1200
+0,LAM23,16/03/2020 06:55,16/03/2020 07:35,Accidental,Normal,Avería interna en PD exclusivo. Guarania c/ EliseoPeralta.,Mburicao,0 days 00:40:00,2400
+0,LAM23,18/03/2020 13:29,18/03/2020 14:38,Accidental,Adverso,Pájaro en contacto con línea MT. Núñez de Balboa yRca. Argentina.,Mburicao,0 days 01:09:00,4140
+0,LAM3,13/03/2020 09:16,13/03/2020 09:53,Accidental,Normal,Línea MT en contacto con brazo de AP.Universitarios Lambareños y Juan de Salazar.,Vista Alegre,0 days 00:37:00,2220
+0,LAM5,4/03/2020 13:35,4/03/2020 13:45,Accidental,Normal,No establecido.,Santa Librada,0 days 00:10:00,600
+1,LAM5,4/03/2020 13:35,4/03/2020 13:45,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:10:00,600
+2,LAM5,4/03/2020 13:35,4/03/2020 13:45,Accidental,Normal,No establecido.,Pirizal,0 days 00:10:00,600
+0,LAM5,24/03/2020 12:39,24/03/2020 13:08,Accidental,Normal,Rama sobre línea MT. Santa Fe y Porvenir.,Santa Librada,0 days 00:29:00,1740
+1,LAM5,24/03/2020 12:39,24/03/2020 13:08,Accidental,Normal,Rama sobre línea MT. Santa Fe y Porvenir.,Itá Enramada,0 days 00:29:00,1740
+2,LAM5,24/03/2020 12:39,24/03/2020 13:08,Accidental,Normal,Rama sobre línea MT. Santa Fe y Porvenir.,Pirizal,0 days 00:29:00,1740
+0,LAM7,2/03/2020 00:41,2/03/2020 01:36,Accidental,Normal,No establecido.,Vista Alegre,0 days 00:55:00,3300
+1,LAM7,2/03/2020 00:41,2/03/2020 01:36,Accidental,Normal,No establecido.,Pinoza,0 days 00:55:00,3300
+0,MBU4,5/03/2020 09:55,5/03/2020 10:16,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:21:00,1260
+1,MBU4,5/03/2020 09:55,5/03/2020 10:16,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:21:00,1260
+2,MBU4,5/03/2020 09:55,5/03/2020 10:16,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:21:00,1260
+3,MBU4,5/03/2020 09:55,5/03/2020 10:16,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:21:00,1260
+0,MBU4,6/03/2020 07:36,6/03/2020 07:41,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Avda.Ñu Guazú.",Mbocayaty,0 days 00:05:00,300
+1,MBU4,6/03/2020 07:36,6/03/2020 07:41,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Avda.Ñu Guazú.",Loma Pyta,0 days 00:05:00,300
+2,MBU4,6/03/2020 07:36,6/03/2020 07:41,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Avda.Ñu Guazú.",Ñu Guasu,0 days 00:05:00,300
+3,MBU4,6/03/2020 07:36,6/03/2020 07:41,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. Avda.Ñu Guazú.",Mburucuyá,0 days 00:05:00,300
+0,MBU4,18/03/2020 09:35,18/03/2020 10:41,Accidental,Adverso,Condiciones climáticas adversas.,Mbocayaty,0 days 01:06:00,3960
+1,MBU4,18/03/2020 09:35,18/03/2020 10:41,Accidental,Adverso,Condiciones climáticas adversas.,Loma Pyta,0 days 01:06:00,3960
+2,MBU4,18/03/2020 09:35,18/03/2020 10:41,Accidental,Adverso,Condiciones climáticas adversas.,Ñu Guasu,0 days 01:06:00,3960
+3,MBU4,18/03/2020 09:35,18/03/2020 10:41,Accidental,Adverso,Condiciones climáticas adversas.,Mburucuyá,0 days 01:06:00,3960
+0,MBU4,18/03/2020 19:37,18/03/2020 21:37,Accidental,Adverso,Condiciones climáticas adversas.,Mbocayaty,0 days 02:00:00,7200
+1,MBU4,18/03/2020 19:37,18/03/2020 21:37,Accidental,Adverso,Condiciones climáticas adversas.,Loma Pyta,0 days 02:00:00,7200
+2,MBU4,18/03/2020 19:37,18/03/2020 21:37,Accidental,Adverso,Condiciones climáticas adversas.,Ñu Guasu,0 days 02:00:00,7200
+3,MBU4,18/03/2020 19:37,18/03/2020 21:37,Accidental,Adverso,Condiciones climáticas adversas.,Mburucuyá,0 days 02:00:00,7200
+0,MBU4,19/03/2020 10:17,19/03/2020 10:41,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:24:00,1440
+1,MBU4,19/03/2020 10:17,19/03/2020 10:41,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:24:00,1440
+2,MBU4,19/03/2020 10:17,19/03/2020 10:41,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:24:00,1440
+3,MBU4,19/03/2020 10:17,19/03/2020 10:41,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:24:00,1440
+0,MBU4,19/03/2020 11:58,19/03/2020 13:58,Accidental,Normal,No establecido.,Mbocayaty,0 days 02:00:00,7200
+1,MBU4,19/03/2020 11:58,19/03/2020 13:58,Accidental,Normal,No establecido.,Loma Pyta,0 days 02:00:00,7200
+2,MBU4,19/03/2020 11:58,19/03/2020 13:58,Accidental,Normal,No establecido.,Ñu Guasu,0 days 02:00:00,7200
+3,MBU4,19/03/2020 11:58,19/03/2020 13:58,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
+0,MBU4,19/03/2020 11:59,19/03/2020 12:38,Accidental,Normal,"Puente MT suelto y descargador averiado. Autopista,frente al Garden Club.",Mbocayaty,0 days 00:39:00,2340
+1,MBU4,19/03/2020 11:59,19/03/2020 12:38,Accidental,Normal,"Puente MT suelto y descargador averiado. Autopista,frente al Garden Club.",Loma Pyta,0 days 00:39:00,2340
+2,MBU4,19/03/2020 11:59,19/03/2020 12:38,Accidental,Normal,"Puente MT suelto y descargador averiado. Autopista,frente al Garden Club.",Ñu Guasu,0 days 00:39:00,2340
+3,MBU4,19/03/2020 11:59,19/03/2020 12:38,Accidental,Normal,"Puente MT suelto y descargador averiado. Autopista,frente al Garden Club.",Mburucuyá,0 days 00:39:00,2340
+0,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Santísima Trinidad,0 days 01:01:00,3660
+1,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Madame Lynch,0 days 01:01:00,3660
+2,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Mbocayaty,0 days 01:01:00,3660
+3,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Ñu Guasu,0 days 01:01:00,3660
+4,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Salvador del Mundo,0 days 01:01:00,3660
+5,MBU5,12/03/2020 22:32,12/03/2020 23:33,Accidental,Normal,Transformador averiado. Rio Pilcomayo y Cap. Rivas.,Mburucuyá,0 days 01:01:00,3660
+0,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Santísima Trinidad,0 days 00:47:00,2820
+1,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Madame Lynch,0 days 00:47:00,2820
+2,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Mbocayaty,0 days 00:47:00,2820
+3,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Ñu Guasu,0 days 00:47:00,2820
+4,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Salvador del Mundo,0 days 00:47:00,2820
+5,MBU5,14/03/2020 09:57,14/03/2020 10:44,Accidental,Normal,Cruceta MT rota. Auditores de la Guerra y PrimerPresidente.,Mburucuyá,0 days 00:47:00,2820
+0,MBU7,14/03/2020 00:26,14/03/2020 02:26,Accidental,Normal,No establecido.,Virgen de la Asunción,0 days 02:00:00,7200
+1,MBU7,14/03/2020 00:26,14/03/2020 02:26,Accidental,Normal,No establecido.,Cañada Ybyray,0 days 02:00:00,7200
+0,MRA1,12/03/2020 05:12,12/03/2020 05:52,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:40:00,2400
+1,MRA1,12/03/2020 05:12,12/03/2020 05:52,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:40:00,2400
+2,MRA1,12/03/2020 05:12,12/03/2020 05:52,Accidental,Normal,No establecido.,San Blas,0 days 00:40:00,2400
+0,PBO17,10/03/2020 15:43,10/03/2020 16:37,Accidental,Normal,Tramo subterráneo averiado. Primer Presidente yTranschaco.,Salvador del Mundo,0 days 00:54:00,3240
+1,PBO17,10/03/2020 15:43,10/03/2020 16:37,Accidental,Normal,Tramo subterráneo averiado. Primer Presidente yTranschaco.,Mbocayaty,0 days 00:54:00,3240
+2,PBO17,10/03/2020 15:43,10/03/2020 16:37,Accidental,Normal,Tramo subterráneo averiado. Primer Presidente yTranschaco.,Santa Rosa,0 days 00:54:00,3240
+3,PBO17,10/03/2020 15:43,10/03/2020 16:37,Accidental,Normal,Tramo subterráneo averiado. Primer Presidente yTranschaco.,Santísima Trinidad,0 days 00:54:00,3240
+0,PBO20,6/03/2020 21:29,6/03/2020 22:02,Accidental,Normal,No establecido.,Botánico,0 days 00:33:00,1980
+0,PBO20,6/03/2020 22:20,6/03/2020 22:52,Accidental,Normal,Desperfecto interno. Puerto Unión.,Botánico,0 days 00:32:00,1920
+0,PBO21,13/03/2020 14:59,13/03/2020 15:21,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:22:00,1320
+0,PCA1,13/03/2020 08:57,13/03/2020 11:03,Accidental,Normal,Incendio en el PD SM253.,San Roque,0 days 02:06:00,7560
+1,PCA1,13/03/2020 08:57,13/03/2020 11:03,Accidental,Normal,Incendio en el PD SM253.,La Catedral,0 days 02:06:00,7560
+0,PCA11,10/03/2020 22:58,10/03/2020 23:24,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT suelto F2. Mompox y Playa.",Ricardo Brugada,0 days 00:26:00,1560
+1,PCA11,10/03/2020 22:58,10/03/2020 23:24,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT suelto F2. Mompox y Playa.",San Felipe,0 days 00:26:00,1560
+0,PCA6,29/03/2020 21:25,29/03/2020 22:11,Accidental,Normal,Seccionador averiado. Tramo PD CE51 a PE FeriaAsunción.,La Catedral,0 days 00:46:00,2760
+0,PCA6,29/03/2020 23:29,29/03/2020 23:42,Accidental,Normal,Al efectuar maniobras.,La Catedral,0 days 00:13:00,780
+0,PCA8,1/03/2020 14:12,1/03/2020 15:33,Programado,Normal,Corte programado DD/MLD/014/20.,Banco San Miguel,0 days 01:21:00,4860
+1,PCA8,1/03/2020 14:12,1/03/2020 15:33,Programado,Normal,Corte programado DD/MLD/014/20.,Tablada Nueva,0 days 01:21:00,4860
+2,PCA8,1/03/2020 14:12,1/03/2020 15:33,Programado,Normal,Corte programado DD/MLD/014/20.,Jara,0 days 01:21:00,4860
+0,PCA8,8/03/2020 14:26,8/03/2020 16:20,Programado,Normal,Corte programado DD/MLD/022/20.,Banco San Miguel,0 days 01:54:00,6840
+1,PCA8,8/03/2020 14:26,8/03/2020 16:20,Programado,Normal,Corte programado DD/MLD/022/20.,Tablada Nueva,0 days 01:54:00,6840
+2,PCA8,8/03/2020 14:26,8/03/2020 16:20,Programado,Normal,Corte programado DD/MLD/022/20.,Jara,0 days 01:54:00,6840
+0,PSA11,2/03/2020 13:47,2/03/2020 14:27,Accidental,Normal,Ocasionado por terceros. Contratista Saguan al tratarde normalizar OT N° 43/2020. Cnel. Lirio y Tte.Pratts.,Bañado Tacumbu,0 days 00:40:00,2400
+1,PSA11,2/03/2020 13:47,2/03/2020 14:27,Accidental,Normal,Ocasionado por terceros. Contratista Saguan al tratarde normalizar OT N° 43/2020. Cnel. Lirio y Tte.Pratts.,Sajonia,0 days 00:40:00,2400
+0,PSA11,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Bañado Tacumbu,0 days 00:04:00,240
+1,PSA11,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Sajonia,0 days 00:04:00,240
+0,PSA11,19/03/2020 16:34,19/03/2020 16:56,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:22:00,1320
+1,PSA11,19/03/2020 16:34,19/03/2020 16:56,Accidental,Normal,No establecido.,Sajonia,0 days 00:22:00,1320
+0,PSA11,19/03/2020 18:10,19/03/2020 19:02,Programado,Normal,Abierto interruptor para efectuar cambio de crucetaMT rota y reparación de puente MT suelto F1-2.Acometida a la Armada Nacional.,Bañado Tacumbu,0 days 00:52:00,3120
+1,PSA11,19/03/2020 18:10,19/03/2020 19:02,Programado,Normal,Abierto interruptor para efectuar cambio de crucetaMT rota y reparación de puente MT suelto F1-2.Acometida a la Armada Nacional.,Sajonia,0 days 00:52:00,3120
+0,PSA11,25/03/2020 09:30,25/03/2020 09:44,Programado,Normal,Abiero interruptor para efectuar reparación de puenteMT suelto. Cap. Gwynn c/ Nuflo de Chávez.,Bañado Tacumbu,0 days 00:14:00,840
+1,PSA11,25/03/2020 09:30,25/03/2020 09:44,Programado,Normal,Abiero interruptor para efectuar reparación de puenteMT suelto. Cap. Gwynn c/ Nuflo de Chávez.,Sajonia,0 days 00:14:00,840
+0,PSA11,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Bañado Tacumbu,0 days 00:02:00,120
+1,PSA11,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Sajonia,0 days 00:02:00,120
+0,PSA12,7/03/2020 23:10,7/03/2020 23:12,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF.5ta. y México.",Carlos A. López,0 days 00:02:00,120
+0,PSA12,9/03/2020 23:47,10/03/2020 00:12,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:25:00,1500
+0,PSA12,10/03/2020 01:00,10/03/2020 01:02,Accidental,Normal,Al efectuar maniobras.,Carlos A. López,0 days 00:02:00,120
+0,PSA12,10/03/2020 01:12,10/03/2020 01:14,Accidental,Normal,Línea MT Suelta en Cap. Gwynn y Gobernador Irala.Cap. Gwynn y Diaz de Guzmán.,Carlos A. López,0 days 00:02:00,120
+0,PSA12,10/03/2020 02:25,10/03/2020 03:10,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de LíneaMT Suelta.",Carlos A. López,0 days 00:45:00,2700
+0,PSA12,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Carlos A. López,0 days 00:04:00,240
+0,PSA12,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Carlos A. López,0 days 00:02:00,120
+0,PSA3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,San Antonio,0 days 00:04:00,240
+1,PSA3,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Dr. Gaspar Rodríguez de Francia,0 days 00:04:00,240
+0,PSA3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,San Antonio,0 days 00:02:00,120
+1,PSA3,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Dr. Gaspar Rodríguez de Francia,0 days 00:02:00,120
+0,PSA4,10/03/2020 04:10,10/03/2020 04:17,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:07:00,420
+0,PSA4,10/03/2020 19:40,10/03/2020 20:00,Accidental,Normal,Pérdida de aislación. PE VENDOME.,Ita Pyta Punta,0 days 00:20:00,1200
+0,PSA4,11/03/2020 16:54,11/03/2020 17:17,Accidental,Normal,Fusible operado. Palacio de Gobierno.,Ita Pyta Punta,0 days 00:23:00,1380
+0,PSA4,11/03/2020 18:45,11/03/2020 19:17,Accidental,Normal,Fusible operado. Palacio de Gobierno.,Ita Pyta Punta,0 days 00:32:00,1920
+0,PSA4,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Ita Pyta Punta,0 days 00:04:00,240
+0,PSA4,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Ita Pyta Punta,0 days 00:02:00,120
+0,PSA5,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,La Encarnación,0 days 00:04:00,240
+1,PSA5,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,San Antonio,0 days 00:04:00,240
+2,PSA5,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Ita Pyta Punta,0 days 00:04:00,240
+3,PSA5,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Dr. Gaspar Rodríguez de Francia,0 days 00:04:00,240
+0,PSA5,21/03/2020 10:30,21/03/2020 10:33,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:03:00,180
+1,PSA5,21/03/2020 10:30,21/03/2020 10:33,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+2,PSA5,21/03/2020 10:30,21/03/2020 10:33,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:03:00,180
+3,PSA5,21/03/2020 10:30,21/03/2020 10:33,Accidental,Normal,Al efectuar maniobras.,Dr. Gaspar Rodríguez de Francia,0 days 00:03:00,180
+0,PSA5,21/03/2020 10:59,21/03/2020 11:08,Accidental,Normal,"Desperfecto interno. PE AGPAR, Hernandarias e/Humaitá y Haedo.",La Encarnación,0 days 00:09:00,540
+1,PSA5,21/03/2020 10:59,21/03/2020 11:08,Accidental,Normal,"Desperfecto interno. PE AGPAR, Hernandarias e/Humaitá y Haedo.",San Antonio,0 days 00:09:00,540
+2,PSA5,21/03/2020 10:59,21/03/2020 11:08,Accidental,Normal,"Desperfecto interno. PE AGPAR, Hernandarias e/Humaitá y Haedo.",Ita Pyta Punta,0 days 00:09:00,540
+3,PSA5,21/03/2020 10:59,21/03/2020 11:08,Accidental,Normal,"Desperfecto interno. PE AGPAR, Hernandarias e/Humaitá y Haedo.",Dr. Gaspar Rodríguez de Francia,0 days 00:09:00,540
+0,PSA5,21/03/2020 11:45,21/03/2020 11:48,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:03:00,180
+1,PSA5,21/03/2020 11:45,21/03/2020 11:48,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+2,PSA5,21/03/2020 11:45,21/03/2020 11:48,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:03:00,180
+3,PSA5,21/03/2020 11:45,21/03/2020 11:48,Accidental,Normal,Al efectuar maniobras.,Dr. Gaspar Rodríguez de Francia,0 days 00:03:00,180
+0,PSA5,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,La Encarnación,0 days 00:02:00,120
+1,PSA5,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,San Antonio,0 days 00:02:00,120
+2,PSA5,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Ita Pyta Punta,0 days 00:02:00,120
+3,PSA5,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Dr. Gaspar Rodríguez de Francia,0 days 00:02:00,120
+0,PSA5,28/03/2020 01:02,28/03/2020 01:18,Accidental,Normal,No establecido.,La Encarnación,0 days 00:16:00,960
+1,PSA5,28/03/2020 01:02,28/03/2020 01:18,Accidental,Normal,No establecido.,San Antonio,0 days 00:16:00,960
+2,PSA5,28/03/2020 01:02,28/03/2020 01:18,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:16:00,960
+3,PSA5,28/03/2020 01:02,28/03/2020 01:18,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:16:00,960
+0,PSA6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,San Antonio,0 days 00:04:00,240
+1,PSA6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Ita Pyta Punta,0 days 00:04:00,240
+2,PSA6,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Dr. Gaspar Rodríguez de Francia,0 days 00:04:00,240
+0,PSA6,15/03/2020 16:40,15/03/2020 16:43,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+1,PSA6,15/03/2020 16:40,15/03/2020 16:43,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:03:00,180
+2,PSA6,15/03/2020 16:40,15/03/2020 16:43,Accidental,Normal,Al efectuar maniobras.,Dr. Gaspar Rodríguez de Francia,0 days 00:03:00,180
+0,PSA6,19/03/2020 03:46,19/03/2020 04:50,Accidental,Normal,Línea MT en cortocircuito. De Las Llanas c/ Río deLa Plata.,San Antonio,0 days 01:04:00,3840
+1,PSA6,19/03/2020 03:46,19/03/2020 04:50,Accidental,Normal,Línea MT en cortocircuito. De Las Llanas c/ Río deLa Plata.,Ita Pyta Punta,0 days 01:04:00,3840
+2,PSA6,19/03/2020 03:46,19/03/2020 04:50,Accidental,Normal,Línea MT en cortocircuito. De Las Llanas c/ Río deLa Plata.,Dr. Gaspar Rodríguez de Francia,0 days 01:04:00,3840
+0,PSA6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,San Antonio,0 days 00:02:00,120
+1,PSA6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Ita Pyta Punta,0 days 00:02:00,120
+2,PSA6,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Dr. Gaspar Rodríguez de Francia,0 days 00:02:00,120
+0,PSA7,7/03/2020 08:24,7/03/2020 09:45,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 01:21:00,4860
+1,PSA7,7/03/2020 08:24,7/03/2020 09:45,Accidental,Normal,No establecido.,Carlos A. López,0 days 01:21:00,4860
+0,PSA7,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Bañado Tacumbu,0 days 00:04:00,240
+1,PSA7,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Carlos A. López,0 days 00:04:00,240
+0,PSA7,18/03/2020 19:05,18/03/2020 19:17,Accidental,Adverso,Condiciones climáticas adversas.,Bañado Tacumbu,0 days 00:12:00,720
+1,PSA7,18/03/2020 19:05,18/03/2020 19:17,Accidental,Adverso,Condiciones climáticas adversas.,Carlos A. López,0 days 00:12:00,720
+0,PSA7,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Bañado Tacumbu,0 days 00:02:00,120
+1,PSA7,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Carlos A. López,0 days 00:02:00,120
+0,PSA8,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,San Antonio,0 days 00:04:00,240
+0,PSA8,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,San Antonio,0 days 00:02:00,120
+0,PSA9,13/03/2020 10:17,13/03/2020 10:21,Producción,Normal,Cambio de Fuente.,Carlos A. López,0 days 00:04:00,240
+0,PSA9,27/03/2020 03:05,27/03/2020 03:07,Producción,Normal,Cambio de Fuente CH-YAC/CH-IPU.,Carlos A. López,0 days 00:02:00,120
+0,REP4,11/03/2020 14:00,11/03/2020 14:52,Accidental,Normal,Con carga de REP6.,Hipódromo,0 days 00:52:00,3120
+0,REP4,11/03/2020 15:07,11/03/2020 15:22,Accidental,Normal,No establecido.,Hipódromo,0 days 00:15:00,900
+0,REP4,19/03/2020 18:11,19/03/2020 18:48,Accidental,Normal,Pájaro en contacto con línea MT y sostén. Curupaytyy Encarnación.,Hipódromo,0 days 00:37:00,2220
+0,REP5,13/03/2020 12:00,13/03/2020 12:02,Producción,Normal,"Abierto interruptor por alivio de carga del TR-0266/23kV, a pedido de CORM.",Tte. Silvio Pettirossi,0 days 00:02:00,120
+1,REP5,13/03/2020 12:00,13/03/2020 12:02,Producción,Normal,"Abierto interruptor por alivio de carga del TR-0266/23kV, a pedido de CORM.",San Vicente,0 days 00:02:00,120
+2,REP5,13/03/2020 12:00,13/03/2020 12:02,Producción,Normal,"Abierto interruptor por alivio de carga del TR-0266/23kV, a pedido de CORM.",Pinoza,0 days 00:02:00,120
+0,REP5,23/03/2020 04:44,23/03/2020 05:42,Accidental,Normal,Tramo subterráneo averiado. PD SM276 al PESENEPA.,Tte. Silvio Pettirossi,0 days 00:58:00,3480
+1,REP5,23/03/2020 04:44,23/03/2020 05:42,Accidental,Normal,Tramo subterráneo averiado. PD SM276 al PESENEPA.,San Vicente,0 days 00:58:00,3480
+2,REP5,23/03/2020 04:44,23/03/2020 05:42,Accidental,Normal,Tramo subterráneo averiado. PD SM276 al PESENEPA.,Pinoza,0 days 00:58:00,3480
+0,REP5,23/03/2020 07:54,23/03/2020 08:00,Accidental,Normal,Al efectuar maniobras.,Tte. Silvio Pettirossi,0 days 00:06:00,360
+1,REP5,23/03/2020 07:54,23/03/2020 08:00,Accidental,Normal,Al efectuar maniobras.,San Vicente,0 days 00:06:00,360
+2,REP5,23/03/2020 07:54,23/03/2020 08:00,Accidental,Normal,Al efectuar maniobras.,Pinoza,0 days 00:06:00,360
+0,REP9,1/03/2020 17:15,01/03/2020 19:15,Accidental,Normal,No establecido.,Tte. Silvio Pettirossi,0 days 02:00:00,7200
+0,SMI5,18/03/2020 19:13,18/03/2020 20:25,Accidental,Adverso,Condiciones climáticas adversas.,Las Mercedes,0 days 01:12:00,4320
+1,SMI5,18/03/2020 19:13,18/03/2020 20:25,Accidental,Adverso,Condiciones climáticas adversas.,Ciudad Nueva,0 days 01:12:00,4320
+0,SMI5,18/03/2020 20:27,18/03/2020 20:30,Accidental,Adverso,Al efectuar maniobras.,Las Mercedes,0 days 00:03:00,180
+1,SMI5,18/03/2020 20:27,18/03/2020 20:30,Accidental,Adverso,Al efectuar maniobras.,Ciudad Nueva,0 days 00:03:00,180
+0,SMI5,19/03/2020 10:30,19/03/2020 10:34,Programado,Normal,"Abierto interruptor para efectuar cambio detransformador averiado, seccionador fusible averiadoy reparación de puente MT suelto. Predio de la SedeCentral ANDE.",Las Mercedes,0 days 00:04:00,240
+1,SMI5,19/03/2020 10:30,19/03/2020 10:34,Programado,Normal,"Abierto interruptor para efectuar cambio detransformador averiado, seccionador fusible averiadoy reparación de puente MT suelto. Predio de la SedeCentral ANDE.",Ciudad Nueva,0 days 00:04:00,240
+0,SMI5,19/03/2020 11:23,19/03/2020 11:47,Programado,Normal,"Abierto interruptor para efectuar cierre del 51480, poravería anterior.",Las Mercedes,0 days 00:24:00,1440
+1,SMI5,19/03/2020 11:23,19/03/2020 11:47,Programado,Normal,"Abierto interruptor para efectuar cierre del 51480, poravería anterior.",Ciudad Nueva,0 days 00:24:00,1440
+0,VAU10,27/03/2020 16:35,27/03/2020 18:35,Accidental,Normal,No establecido.,Mcal. Estigarribia,0 days 02:00:00,7200
+1,VAU10,27/03/2020 16:35,27/03/2020 18:35,Accidental,Normal,No establecido.,Recoleta,0 days 02:00:00,7200
+0,VAU14,28/03/2020 11:40,28/03/2020 13:40,Accidental,Normal,No establecido.,Villa Aurelia,0 days 02:00:00,7200
+1,VAU14,28/03/2020 11:40,28/03/2020 13:40,Accidental,Normal,No establecido.,Los Laureles,0 days 02:00:00,7200
+2,VAU14,28/03/2020 11:40,28/03/2020 13:40,Accidental,Normal,No establecido.,Hipódromo,0 days 02:00:00,7200
+0,VAU3,18/03/2020 08:56,18/03/2020 10:23,Accidental,Adverso,Aislador averiado y cruceta MT rota. Cap. VonSastrow c/ Dr. San Martín.,Villa Aurelia,0 days 01:27:00,5220
+1,VAU3,18/03/2020 08:56,18/03/2020 10:23,Accidental,Adverso,Aislador averiado y cruceta MT rota. Cap. VonSastrow c/ Dr. San Martín.,San Pablo,0 days 01:27:00,5220
+0,VAU6,4/03/2020 16:16,4/03/2020 16:18,Accidental,Normal,"Abierto Interruptor, para efectuar reparación dePuente MT Suelto F1 en el  SLT N° 54075.",Mcal. Estigarribia,0 days 00:02:00,120
+0,VAU6,13/03/2020 14:08,13/03/2020 14:24,Programado,Normal,"Abierto interruptor para efectuar maniobras, alivio decarga del VAU 6.",Mcal. Estigarribia,0 days 00:16:00,960
