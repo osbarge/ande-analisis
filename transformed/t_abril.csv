@@ -1,36 +1,21 @@
 PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
-BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE
-Scavone Hnos.,Las Carmelitas,0 days 00:19:00,1140
-BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE
-Scavone Hnos.,Villa Morra,0 days 00:19:00,1140
-BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE
-Scavone Hnos.,Manorá,0 days 00:19:00,1140
-BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de
-canalización del BPA 4.,Salvador del Mundo,0 days 00:03:00,180
-BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de
-canalización del BPA 4.,San Cristóbal,0 days 00:03:00,180
-BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de
-canalización del BPA 4.,San Jorge,0 days 00:03:00,180
+BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE Scavone Hnos.,Las Carmelitas,0 days 00:19:00,1140
+BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE Scavone Hnos.,Villa Morra,0 days 00:19:00,1140
+BCP3,27/04/2020 19:35,27/04/2020 19:54,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT suelto. Roque C. Miranda c/ Sta. Ana - PE Scavone Hnos.,Manorá,0 days 00:19:00,1140
+BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de canalización del BPA 4.,Salvador del Mundo,0 days 00:03:00,180
+BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de canalización del BPA 4.,San Cristóbal,0 days 00:03:00,180
+BPA12,18/04/2020 17:22,18/04/2020 17:25,Programado,Normal,Abierto interruptor para efectuar maniobras de canalización del BPA 4.,San Jorge,0 days 00:03:00,180
 BPA12,30/04/2020 23:24,01/05/2020 01:24,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 02:00:00,7200
 BPA12,30/04/2020 23:24,01/05/2020 01:24,Accidental,Normal,No establecido.,San Cristóbal,0 days 02:00:00,7200
 BPA12,30/04/2020 23:24,01/05/2020 01:24,Accidental,Normal,No establecido.,San Jorge,0 days 02:00:00,7200
 BPA4,9/04/2020 14:44,9/04/2020 16:18,Accidental,Normal,Tramo subterráneo averiado. Bertoni y Denis Roa.,Luis Alberto de Herrera,0 days 01:34:00,5640
 BPA4,9/04/2020 14:44,9/04/2020 16:18,Accidental,Normal,Tramo subterráneo averiado. Bertoni y Denis Roa.,San Cristóbal,0 days 01:34:00,5640
 BPA4,9/04/2020 14:44,9/04/2020 16:18,Accidental,Normal,Tramo subterráneo averiado. Bertoni y Denis Roa.,Santa María,0 days 01:34:00,5640
-GDI2,6/04/2020 16:49,6/04/2020 17:06,Programado,Normal,Abierto interruptor para efectuar reposición de
-seccionador  fusible. Acometida al Hospital de Bo.
-Obrero.,Gral. J. E Diaz,0 days 00:17:00,1020
-GDI2,6/04/2020 16:49,6/04/2020 17:06,Programado,Normal,Abierto interruptor para efectuar reposición de
-seccionador  fusible. Acometida al Hospital de Bo.
-Obrero.,Obrero,0 days 00:17:00,1020
-GDI3,27/04/2020 03:23,27/04/2020 03:24,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF
-averiado. 8va y Colón.",Gral. J. E Diaz,0 days 00:01:00,60
+GDI2,6/04/2020 16:49,6/04/2020 17:06,Programado,Normal,Abierto interruptor para efectuar reposición de seccionador  fusible. Acometida al Hospital de Bo. Obrero.,Gral. J. E Diaz,0 days 00:17:00,1020
+GDI2,6/04/2020 16:49,6/04/2020 17:06,Programado,Normal,Abierto interruptor para efectuar reposición de seccionador  fusible. Acometida al Hospital de Bo. Obrero.,Obrero,0 days 00:17:00,1020
+GDI3,27/04/2020 03:23,27/04/2020 03:24,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF averiado. 8va y Colón.",Gral. J. E Diaz,0 days 00:01:00,60
 LAM10,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Terminal,0 days 00:01:00,60
-LAM10,13/04/2020 18:23,13/04/2020 19:40,Accidental,Normal,"Ramas sobre Línea MT, Seccionador Fusible
-averiado. Vencedores del Chaco y Alejandro Ravizza.",Terminal,0 days 01:17:00,4620
+LAM10,13/04/2020 18:23,13/04/2020 19:40,Accidental,Normal,"Ramas sobre Línea MT, Seccionador Fusible averiado. Vencedores del Chaco y Alejandro Ravizza.",Terminal,0 days 01:17:00,4620
 LAM10,28/04/2020 12:16,28/04/2020 12:51,Accidental,Normal,Puente MT suelto. Vencedores del Chaco y Ravizza.,Terminal,0 days 00:35:00,2100
 LAM15,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Itá Enramada,0 days 00:01:00,60
 LAM22,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Hipódromo,0 days 00:01:00,60
@@ -40,12 +25,8 @@ LAM23,28/04/2020 05:20,28/04/2020 06:18,Accidental,Normal,Transformador averiado
 LAM28,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Vista Alegre,0 days 00:01:00,60
 LAM28,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Nazareth,0 days 00:01:00,60
 LAM3,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Vista Alegre,0 days 00:01:00,60
-LAM3,15/04/2020 11:00,15/04/2020 13:55,Programado,Normal,Abierto interruptor para efectuar reparación de línea
-MT suelta sobre LAM 17 y cambio de cruceta MT
-rota (triple terna LAM 3 - LAM 17 - LAM 18).,Vista Alegre,0 days 02:55:00,10500
-LAM3,22/04/2020 21:17,22/04/2020 21:19,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF
-MT averiado. Cruce subterráneo. Avda. Cacique
-Lambare c/ Yacare Valija.",Vista Alegre,0 days 00:02:00,120
+LAM3,15/04/2020 11:00,15/04/2020 13:55,Programado,Normal,Abierto interruptor para efectuar reparación de línea MT suelta sobre LAM 17 y cambio de cruceta MT rota (triple terna LAM 3 - LAM 17 - LAM 18).,Vista Alegre,0 days 02:55:00,10500
+LAM3,22/04/2020 21:17,22/04/2020 21:19,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF MT averiado. Cruce subterráneo. Avda. Cacique Lambare c/ Yacare Valija.",Vista Alegre,0 days 00:02:00,120
 LAM30,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Itá Enramada,0 days 00:01:00,60
 LAM5,7/04/2020 05:30,7/04/2020 06:45,Accidental,Normal,Fusible operado. Santa Rosa y Avda. Perón.,Santa Librada,0 days 01:15:00,4500
 LAM5,7/04/2020 05:30,7/04/2020 06:45,Accidental,Normal,Fusible operado. Santa Rosa y Avda. Perón.,Itá Enramada,0 days 01:15:00,4500
@@ -59,10 +40,8 @@ LAM5,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. 
 LAM5,20/04/2020 12:19,20/04/2020 12:39,Accidental,Normal,No establecido.,Santa Librada,0 days 00:20:00,1200
 LAM5,20/04/2020 12:19,20/04/2020 12:39,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:20:00,1200
 LAM5,20/04/2020 12:19,20/04/2020 12:39,Accidental,Normal,No establecido.,Pirizal,0 days 00:20:00,1200
-LAM7,5/04/2020 16:12,5/04/2020 16:33,Accidental,Normal,Pájaro en contacto con línea MT y cruceta. Nivacle y
-Guirnalda.,Vista Alegre,0 days 00:21:00,1260
-LAM7,5/04/2020 16:12,5/04/2020 16:33,Accidental,Normal,Pájaro en contacto con línea MT y cruceta. Nivacle y
-Guirnalda.,Pinoza,0 days 00:21:00,1260
+LAM7,5/04/2020 16:12,5/04/2020 16:33,Accidental,Normal,Pájaro en contacto con línea MT y cruceta. Nivacle y Guirnalda.,Vista Alegre,0 days 00:21:00,1260
+LAM7,5/04/2020 16:12,5/04/2020 16:33,Accidental,Normal,Pájaro en contacto con línea MT y cruceta. Nivacle y Guirnalda.,Pinoza,0 days 00:21:00,1260
 LAM7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Vista Alegre,0 days 00:01:00,60
 LAM7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Pinoza,0 days 00:01:00,60
 LAM7,28/04/2020 12:46,28/04/2020 13:14,Accidental,Normal,Rama sobre línea MT. Juan Pablo II y Pirizal.,Vista Alegre,0 days 00:28:00,1680
@@ -74,64 +53,34 @@ MBU2,23/04/2020 12:14,23/04/2020 13:12,Accidental,Normal,No establecido.,Mburucu
 MBU3,13/04/2020 17:28,13/04/2020 19:28,Accidental,Normal,No establecido.,Las Carmelitas,0 days 02:00:00,7200
 MBU3,13/04/2020 17:28,13/04/2020 19:28,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
 MBU3,13/04/2020 17:28,13/04/2020 19:28,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
-MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de
-Seccionador fusible averiado. Molas López y
-Francisco Férnandez.",Las Carmelitas,0 days 00:16:00,960
-MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de
-Seccionador fusible averiado. Molas López y
-Francisco Férnandez.",Madame Lynch,0 days 00:16:00,960
-MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de
-Seccionador fusible averiado. Molas López y
-Francisco Férnandez.",Mburucuyá,0 days 00:16:00,960
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Santísima Trinidad,0 days 00:03:00,180
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Madame Lynch,0 days 00:03:00,180
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Mbocayaty,0 days 00:03:00,180
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Ñu Guasu,0 days 00:03:00,180
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Salvador del Mundo,0 days 00:03:00,180
-MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de
-Fusibles. Overava c/ Avda. Primer Presidente.",Mburucuyá,0 days 00:03:00,180
+MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de Seccionador fusible averiado. Molas López y Francisco Férnandez.",Las Carmelitas,0 days 00:16:00,960
+MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de Seccionador fusible averiado. Molas López y Francisco Férnandez.",Madame Lynch,0 days 00:16:00,960
+MBU3,13/04/2020 20:26,13/04/2020 20:42,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de Seccionador fusible averiado. Molas López y Francisco Férnandez.",Mburucuyá,0 days 00:16:00,960
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Santísima Trinidad,0 days 00:03:00,180
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Madame Lynch,0 days 00:03:00,180
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Mbocayaty,0 days 00:03:00,180
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Ñu Guasu,0 days 00:03:00,180
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Salvador del Mundo,0 days 00:03:00,180
+MBU5,10/04/2020 09:48,10/04/2020 09:51,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de Fusibles. Overava c/ Avda. Primer Presidente.",Mburucuyá,0 days 00:03:00,180
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:59:00,3540
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:59:00,3540
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:59:00,3540
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:59:00,3540
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:59:00,3540
 MBU5,13/04/2020 09:09,13/04/2020 10:08,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:59:00,3540
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Santísima Trinidad,0 days 00:35:00,2100
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Madame Lynch,0 days 00:35:00,2100
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Mbocayaty,0 days 00:35:00,2100
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Ñu Guasu,0 days 00:35:00,2100
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Salvador del Mundo,0 days 00:35:00,2100
-MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er.
-Presidente.,Mburucuyá,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Santísima Trinidad,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Madame Lynch,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Mbocayaty,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Ñu Guasu,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Salvador del Mundo,0 days 00:35:00,2100
+MBU5,13/04/2020 10:10,13/04/2020 10:45,Accidental,Normal,Tramo subterráneo averiado. Auditores y 1er. Presidente.,Mburucuyá,0 days 00:35:00,2100
 MRA1,12/04/2020 16:07,12/04/2020 17:18,Accidental,Normal,No establecido.,Loma Pyta,0 days 01:11:00,4260
 MRA1,12/04/2020 16:07,12/04/2020 17:18,Accidental,Normal,No establecido.,Zeballos Cué,0 days 01:11:00,4260
 MRA1,12/04/2020 16:07,12/04/2020 17:18,Accidental,Normal,No establecido.,San Blas,0 days 01:11:00,4260
-PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano.
-Pedido de Estado de Precaución 116/2020.
-Colocación de poste MT intermedio, en contacto con
-Línea MT. Primer Presidente c/ Sacramento.",Salvador del Mundo,0 days 00:35:00,2100
-PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano.
-Pedido de Estado de Precaución 116/2020.
-Colocación de poste MT intermedio, en contacto con
-Línea MT. Primer Presidente c/ Sacramento.",Mbocayaty,0 days 00:35:00,2100
-PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano.
-Pedido de Estado de Precaución 116/2020.
-Colocación de poste MT intermedio, en contacto con
-Línea MT. Primer Presidente c/ Sacramento.",Santa Rosa,0 days 00:35:00,2100
-PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano.
-Pedido de Estado de Precaución 116/2020.
-Colocación de poste MT intermedio, en contacto con
-Línea MT. Primer Presidente c/ Sacramento.",Santísima Trinidad,0 days 00:35:00,2100
+PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano. Pedido de Estado de Precaución 116/2020. Colocación de poste MT intermedio, en contacto con Línea MT. Primer Presidente c/ Sacramento.",Salvador del Mundo,0 days 00:35:00,2100
+PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano. Pedido de Estado de Precaución 116/2020. Colocación de poste MT intermedio, en contacto con Línea MT. Primer Presidente c/ Sacramento.",Mbocayaty,0 days 00:35:00,2100
+PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano. Pedido de Estado de Precaución 116/2020. Colocación de poste MT intermedio, en contacto con Línea MT. Primer Presidente c/ Sacramento.",Santa Rosa,0 days 00:35:00,2100
+PBO17,25/04/2020 09:41,25/04/2020 10:16,Accidental,Normal,"Ocasionado por terceros. Consorcio Metropolitano. Pedido de Estado de Precaución 116/2020. Colocación de poste MT intermedio, en contacto con Línea MT. Primer Presidente c/ Sacramento.",Santísima Trinidad,0 days 00:35:00,2100
 PBO17,25/04/2020 15:02,25/04/2020 15:50,Accidental,Normal,Puente MT suelto. San Juan c/ Tte. Monges.,Salvador del Mundo,0 days 00:48:00,2880
 PBO17,25/04/2020 15:02,25/04/2020 15:50,Accidental,Normal,Puente MT suelto. San Juan c/ Tte. Monges.,Mbocayaty,0 days 00:48:00,2880
 PBO17,25/04/2020 15:02,25/04/2020 15:50,Accidental,Normal,Puente MT suelto. San Juan c/ Tte. Monges.,Santa Rosa,0 days 00:48:00,2880
@@ -140,13 +89,9 @@ PBO17,25/04/2020 16:25,25/04/2020 16:28,Accidental,Normal,Al efectuar maniobras.
 PBO17,25/04/2020 16:25,25/04/2020 16:28,Accidental,Normal,Al efectuar maniobras.,Mbocayaty,0 days 00:03:00,180
 PBO17,25/04/2020 16:25,25/04/2020 16:28,Accidental,Normal,Al efectuar maniobras.,Santa Rosa,0 days 00:03:00,180
 PBO17,25/04/2020 16:25,25/04/2020 16:28,Accidental,Normal,Al efectuar maniobras.,Santísima Trinidad,0 days 00:03:00,180
-PBO20,7/04/2020 16:20,7/04/2020 17:16,Accidental,Normal,"Línea MT suelta, cruceta MT rota y sostén averiado,
-ocasionado por terceros. Zeballos Cue, entrada a
-Puerto Unión.",Botánico,0 days 00:56:00,3360
-PBO20,7/04/2020 18:52,7/04/2020 19:47,Programado,Normal,Abierto interruptor para efectuar reparación de
-seccionador de línea averiado y corte de ramas.,Botánico,0 days 00:55:00,3300
-PBO21,1/04/2020 20:34,1/04/2020 21:22,Accidental,Normal,Transformador averiado. Epopeya Nacional y Mcal.
-Estigarribia.,Zeballos Cué,0 days 00:48:00,2880
+PBO20,7/04/2020 16:20,7/04/2020 17:16,Accidental,Normal,"Línea MT suelta, cruceta MT rota y sostén averiado, ocasionado por terceros. Zeballos Cue, entrada a Puerto Unión.",Botánico,0 days 00:56:00,3360
+PBO20,7/04/2020 18:52,7/04/2020 19:47,Programado,Normal,Abierto interruptor para efectuar reparación de seccionador de línea averiado y corte de ramas.,Botánico,0 days 00:55:00,3300
+PBO21,1/04/2020 20:34,1/04/2020 21:22,Accidental,Normal,Transformador averiado. Epopeya Nacional y Mcal. Estigarribia.,Zeballos Cué,0 days 00:48:00,2880
 PBO21,3/04/2020 09:38,3/04/2020 10:08,Accidental,Normal,Transformador averiado. Barrio Caacupemi.,Zeballos Cué,0 days 00:30:00,1800
 PBO8,30/04/2020 16:58,30/04/2020 17:16,Accidental,Normal,No establecido.,Virgen de Fátima,0 days 00:18:00,1080
 PBO8,30/04/2020 16:58,30/04/2020 17:16,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:18:00,1080
@@ -154,35 +99,18 @@ PCA5,18/04/2020 01:00,18/04/2020 01:48,Accidental,Normal,No establecido.,La Cate
 PCA5,23/04/2020 00:38,23/04/2020 01:20,Accidental,Normal,No establecido.,La Catedral,0 days 00:42:00,2520
 PCA5,24/04/2020 14:56,24/04/2020 15:27,Accidental,Normal,Ave en contacto con Línea MT. 14 de Mayo y Playa.,La Catedral,0 days 00:31:00,1860
 PCA6,2/04/2020 19:19,2/04/2020 20:02,Accidental,Normal,No establecido.,La Catedral,0 days 00:43:00,2580
-PCA6,15/04/2020 12:46,15/04/2020 13:29,Accidental,Normal,"Pérdida de aislación en el Seccionador 51833 - PD
-SM128. Edificio Imperial, Herrera c/ EE.UU.",La Catedral,0 days 00:43:00,2580
+PCA6,15/04/2020 12:46,15/04/2020 13:29,Accidental,Normal,"Pérdida de aislación en el Seccionador 51833 - PD SM128. Edificio Imperial, Herrera c/ EE.UU.",La Catedral,0 days 00:43:00,2580
 PCA6,16/04/2020 17:56,16/04/2020 18:25,Accidental,Normal,No establecido.,La Catedral,0 days 00:29:00,1740
-PCA6,19/04/2020 16:15,19/04/2020 16:45,Accidental,Normal,Seccionador bajo carga averiado. Seccionador 51558
-- SM 235.,La Catedral,0 days 00:30:00,1800
-PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto,
-Cruceta MT rota. Indias y 8 de Diciembre. Barrio
-Tablada Nueva.",Banco San Miguel,0 days 01:12:00,4320
-PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto,
-Cruceta MT rota. Indias y 8 de Diciembre. Barrio
-Tablada Nueva.",Tablada Nueva,0 days 01:12:00,4320
-PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto,
-Cruceta MT rota. Indias y 8 de Diciembre. Barrio
-Tablada Nueva.",Jara,0 days 01:12:00,4320
-PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado,
-Puente MT Suelto, Cruceta MT rota. Indias y 8 de
-Diciembre. Barrio Tablada Nueva.",Banco San Miguel,0 days 00:02:00,120
-PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado,
-Puente MT Suelto, Cruceta MT rota. Indias y 8 de
-Diciembre. Barrio Tablada Nueva.",Tablada Nueva,0 days 00:02:00,120
-PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado,
-Puente MT Suelto, Cruceta MT rota. Indias y 8 de
-Diciembre. Barrio Tablada Nueva.",Jara,0 days 00:02:00,120
-PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF
-Averiado F2. Indias y Dublin.",Banco San Miguel,0 days 00:03:00,180
-PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF
-Averiado F2. Indias y Dublin.",Tablada Nueva,0 days 00:03:00,180
-PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF
-Averiado F2. Indias y Dublin.",Jara,0 days 00:03:00,180
+PCA6,19/04/2020 16:15,19/04/2020 16:45,Accidental,Normal,Seccionador bajo carga averiado. Seccionador 51558 - SM 235.,La Catedral,0 days 00:30:00,1800
+PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Banco San Miguel,0 days 01:12:00,4320
+PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Tablada Nueva,0 days 01:12:00,4320
+PCA8,13/04/2020 16:02,13/04/2020 17:14,Accidental,Normal,"Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Jara,0 days 01:12:00,4320
+PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Banco San Miguel,0 days 00:02:00,120
+PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Tablada Nueva,0 days 00:02:00,120
+PCA8,13/04/2020 18:00,13/04/2020 18:02,Accidental,Normal,"Abierto Interruptor por Seccionador Fusible averiado, Puente MT Suelto, Cruceta MT rota. Indias y 8 de Diciembre. Barrio Tablada Nueva.",Jara,0 days 00:02:00,120
+PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF Averiado F2. Indias y Dublin.",Banco San Miguel,0 days 00:03:00,180
+PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF Averiado F2. Indias y Dublin.",Tablada Nueva,0 days 00:03:00,180
+PCA8,24/04/2020 23:16,24/04/2020 23:19,Accidental,Normal,"Abierto Interruptor, para efectuar reparación. SF Averiado F2. Indias y Dublin.",Jara,0 days 00:03:00,180
 PSA11,29/04/2020 09:45,29/04/2020 09:56,Accidental,Normal,Transformador averiado. U. Velazco y Rancho 8.,Bañado Tacumbu,0 days 00:11:00,660
 PSA11,29/04/2020 09:45,29/04/2020 09:56,Accidental,Normal,Transformador averiado. U. Velazco y Rancho 8.,Sajonia,0 days 00:11:00,660
 PSA4,13/04/2020 17:18,13/04/2020 17:37,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:19:00,1140
@@ -190,18 +118,10 @@ PSA5,2/04/2020 02:13,2/04/2020 03:32,Accidental,Normal,No establecido.,La Encarn
 PSA5,2/04/2020 02:13,2/04/2020 03:32,Accidental,Normal,No establecido.,San Antonio,0 days 01:19:00,4740
 PSA5,2/04/2020 02:13,2/04/2020 03:32,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 01:19:00,4740
 PSA5,2/04/2020 02:13,2/04/2020 03:32,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 01:19:00,4740
-PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte.
-Rodi y Tte. Prieto. 2- Fusible operado. Comandante
-Gamarra y Dr. Insfrán.,La Encarnación,0 days 00:29:00,1740
-PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte.
-Rodi y Tte. Prieto. 2- Fusible operado. Comandante
-Gamarra y Dr. Insfrán.,San Antonio,0 days 00:29:00,1740
-PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte.
-Rodi y Tte. Prieto. 2- Fusible operado. Comandante
-Gamarra y Dr. Insfrán.,Ita Pyta Punta,0 days 00:29:00,1740
-PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte.
-Rodi y Tte. Prieto. 2- Fusible operado. Comandante
-Gamarra y Dr. Insfrán.,Dr. Gaspar Rodríguez de Francia,0 days 00:29:00,1740
+PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte. Rodi y Tte. Prieto. 2- Fusible operado. Comandante Gamarra y Dr. Insfrán.,La Encarnación,0 days 00:29:00,1740
+PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte. Rodi y Tte. Prieto. 2- Fusible operado. Comandante Gamarra y Dr. Insfrán.,San Antonio,0 days 00:29:00,1740
+PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte. Rodi y Tte. Prieto. 2- Fusible operado. Comandante Gamarra y Dr. Insfrán.,Ita Pyta Punta,0 days 00:29:00,1740
+PSA5,2/04/2020 09:40,2/04/2020 10:09,Accidental,Normal,1- Rama sobre línea MT y fusible operado F1. Tte. Rodi y Tte. Prieto. 2- Fusible operado. Comandante Gamarra y Dr. Insfrán.,Dr. Gaspar Rodríguez de Francia,0 days 00:29:00,1740
 PSA5,13/04/2020 17:18,13/04/2020 17:38,Accidental,Normal,No establecido.,La Encarnación,0 days 00:20:00,1200
 PSA5,13/04/2020 17:18,13/04/2020 17:38,Accidental,Normal,No establecido.,San Antonio,0 days 00:20:00,1200
 PSA5,13/04/2020 17:18,13/04/2020 17:38,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:20:00,1200
@@ -209,12 +129,9 @@ PSA5,13/04/2020 17:18,13/04/2020 17:38,Accidental,Normal,No establecido.,Dr. Gas
 PSA6,2/04/2020 02:13,2/04/2020 03:33,Accidental,Normal,No establecido.,San Antonio,0 days 01:20:00,4800
 PSA6,2/04/2020 02:13,2/04/2020 03:33,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 01:20:00,4800
 PSA6,2/04/2020 02:13,2/04/2020 03:33,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 01:20:00,4800
-PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/
-Tte. Guillermo Arias.,San Antonio,0 days 01:02:00,3720
-PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/
-Tte. Guillermo Arias.,Ita Pyta Punta,0 days 01:02:00,3720
-PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/
-Tte. Guillermo Arias.,Dr. Gaspar Rodríguez de Francia,0 days 01:02:00,3720
+PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/ Tte. Guillermo Arias.,San Antonio,0 days 01:02:00,3720
+PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/ Tte. Guillermo Arias.,Ita Pyta Punta,0 days 01:02:00,3720
+PSA6,2/04/2020 04:23,2/04/2020 05:25,Accidental,Normal,Fusible operado en derivación. Isabel La Católica c/ Tte. Guillermo Arias.,Dr. Gaspar Rodríguez de Francia,0 days 01:02:00,3720
 PSA6,26/04/2020 06:17,26/04/2020 07:14,Accidental,Normal,No establecido.,San Antonio,0 days 00:57:00,3420
 PSA6,26/04/2020 06:17,26/04/2020 07:14,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:57:00,3420
 PSA6,26/04/2020 06:17,26/04/2020 07:14,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:57:00,3420
@@ -240,16 +157,11 @@ REP7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. 
 REP7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,San Vicente,0 days 00:01:00,60
 REP7,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Pinoza,0 days 00:01:00,60
 REP9,9/04/2020 03:03,9/04/2020 03:04,Producción,Normal,Cambio de configuración. CH-IPU/CH-YAC.,Tte. Silvio Pettirossi,0 days 00:01:00,60
-SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club
-Centenario.,Virgen de la Asunción,0 days 00:52:00,3120
-SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club
-Centenario.,Virgen del Huerto,0 days 00:52:00,3120
-SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club
-Centenario.,Bella Vista,0 days 00:52:00,3120
-SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club
-Centenario.,Mcal. Francisco S. López,0 days 00:52:00,3120
-SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club
-Centenario.,Jara,0 days 00:52:00,3120
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club Centenario.,Virgen de la Asunción,0 days 00:52:00,3120
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club Centenario.,Virgen del Huerto,0 days 00:52:00,3120
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club Centenario.,Bella Vista,0 days 00:52:00,3120
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club Centenario.,Mcal. Francisco S. López,0 days 00:52:00,3120
+SMI11,26/04/2020 10:57,26/04/2020 11:49,Accidental,Normal,Ramas de palmera sobre Línea MT. Acometida Club Centenario.,Jara,0 days 00:52:00,3120
 SMI2,16/04/2020 08:55,16/04/2020 09:46,Accidental,Normal,Fusible operado. Río de Janeiro y Brasilia.,Mburicao,0 days 00:51:00,3060
 SMI2,16/04/2020 08:55,16/04/2020 09:46,Accidental,Normal,Fusible operado. Río de Janeiro y Brasilia.,Recoleta,0 days 00:51:00,3060
 SMI2,16/04/2020 08:55,16/04/2020 09:46,Accidental,Normal,Fusible operado. Río de Janeiro y Brasilia.,Mcal. Francisco S. López,0 days 00:51:00,3060
@@ -277,14 +189,10 @@ VAU4,13/04/2020 17:29,13/04/2020 19:29,Accidental,Normal,No establecido.,Los Lau
 VAU4,13/04/2020 17:29,13/04/2020 19:29,Accidental,Normal,No establecido.,Nazareth,0 days 02:00:00,7200
 VAU4,13/04/2020 17:29,13/04/2020 19:29,Accidental,Normal,No establecido.,Recoleta,0 days 02:00:00,7200
 VAU4,13/04/2020 17:29,13/04/2020 19:29,Accidental,Normal,No establecido.,Tembetary,0 days 02:00:00,7200
-VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda.,Los Laureles,0 days 00:39:00,2340
-VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda.,Nazareth,0 days 00:39:00,2340
-VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda.,Recoleta,0 days 00:39:00,2340
-VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda.,Tembetary,0 days 00:39:00,2340
+VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda.,Los Laureles,0 days 00:39:00,2340
+VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda.,Nazareth,0 days 00:39:00,2340
+VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda.,Recoleta,0 days 00:39:00,2340
+VAU4,24/04/2020 12:18,24/04/2020 12:57,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda.,Tembetary,0 days 00:39:00,2340
 VAU4,24/04/2020 13:21,24/04/2020 15:47,Producción,Normal,"Abierto Interruptor, para efectuar limpieza.",Los Laureles,0 days 02:26:00,8760
 VAU4,24/04/2020 13:21,24/04/2020 15:47,Producción,Normal,"Abierto Interruptor, para efectuar limpieza.",Nazareth,0 days 02:26:00,8760
 VAU4,24/04/2020 13:21,24/04/2020 15:47,Producción,Normal,"Abierto Interruptor, para efectuar limpieza.",Recoleta,0 days 02:26:00,8760
@@ -293,13 +201,8 @@ VAU4,28/04/2020 08:55,28/04/2020 10:55,Accidental,Normal,No establecido.,Los Lau
 VAU4,28/04/2020 08:55,28/04/2020 10:55,Accidental,Normal,No establecido.,Nazareth,0 days 02:00:00,7200
 VAU4,28/04/2020 08:55,28/04/2020 10:55,Accidental,Normal,No establecido.,Recoleta,0 days 02:00:00,7200
 VAU4,28/04/2020 08:55,28/04/2020 10:55,Accidental,Normal,No establecido.,Tembetary,0 days 02:00:00,7200
-VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda. Transferencia sobre VAU3.,Hipódromo,0 days 01:12:00,4320
-VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda. Transferencia sobre VAU3.,Mcal. Estigarribia,0 days 01:12:00,4320
-VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda. Transferencia sobre VAU3.,Villa Aurelia,0 days 01:12:00,4320
-VAU6,24/04/2020 12:18,24/04/2020 13:50,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda. Transferencia sobre VAU10.,Mcal. Estigarribia,0 days 01:32:00,5520
-VAU8,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón
-dentro de la Celda. Transferencia sobre VAU11.,Villa Aurelia,0 days 01:12:00,4320
+VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda. Transferencia sobre VAU3.,Hipódromo,0 days 01:12:00,4320
+VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda. Transferencia sobre VAU3.,Mcal. Estigarribia,0 days 01:12:00,4320
+VAU5,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda. Transferencia sobre VAU3.,Villa Aurelia,0 days 01:12:00,4320
+VAU6,24/04/2020 12:18,24/04/2020 13:50,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda. Transferencia sobre VAU10.,Mcal. Estigarribia,0 days 01:32:00,5520
+VAU8,24/04/2020 12:18,24/04/2020 13:30,Producción,Normal,Fuera de servicio TR-05 y TR-06 ES-VAU. Ratón dentro de la Celda. Transferencia sobre VAU11.,Villa Aurelia,0 days 01:12:00,4320
