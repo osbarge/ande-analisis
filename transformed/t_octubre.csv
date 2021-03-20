@@ -22,12 +22,9 @@ BPA10,26/10/2020 01:37,26/10/2020 03:37,Accidental,Adverso,Condiciones Climática
 BPA10,26/10/2020 02:26,26/10/2020 04:26,Accidental,Adverso,Condiciones Climáticas Adversas.,Luis Alberto de Herrera,0 days 02:00:00,7200
 BPA10,26/10/2020 02:26,26/10/2020 04:26,Accidental,Adverso,Condiciones Climáticas Adversas.,San Cristóbal,0 days 02:00:00,7200
 BPA10,26/10/2020 02:26,26/10/2020 04:26,Accidental,Adverso,Condiciones Climáticas Adversas.,Santa María,0 days 02:00:00,7200
-BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT.
-Guido Spano y Denis Roa.,Luis Alberto de Herrera,0 days 00:11:00,660
-BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT.
-Guido Spano y Denis Roa.,San Cristóbal,0 days 00:11:00,660
-BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT.
-Guido Spano y Denis Roa.,Santa María,0 days 00:11:00,660
+BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT. Guido Spano y Denis Roa.,Luis Alberto de Herrera,0 days 00:11:00,660
+BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT. Guido Spano y Denis Roa.,San Cristóbal,0 days 00:11:00,660
+BPA10,26/10/2020 06:54,26/10/2020 07:05,Accidental,Adverso,Abierto Interruptor. Para efectuar reparación de SFT. Guido Spano y Denis Roa.,Santa María,0 days 00:11:00,660
 BPA12,24/10/2020 04:03,24/10/2020 06:03,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 02:00:00,7200
 BPA12,24/10/2020 04:03,24/10/2020 06:03,Accidental,Normal,No establecido.,San Cristóbal,0 days 02:00:00,7200
 BPA12,24/10/2020 04:03,24/10/2020 06:03,Accidental,Normal,No establecido.,San Jorge,0 days 02:00:00,7200
@@ -41,10 +38,8 @@ BPA6,26/10/2020 01:38,26/10/2020 10:20,Accidental,Adverso,Condiciones Climáticas
 BPA6,26/10/2020 01:38,26/10/2020 10:20,Accidental,Adverso,Condiciones Climáticas Adversas.,San Jorge,0 days 08:42:00,31320
 BPA8,24/10/2020 01:57,24/10/2020 03:12,Accidental,Normal,Fusible Operado. Del Maestro y Rivarola.,Villa Morra,0 days 01:15:00,4500
 BPA8,26/10/2020 01:56,26/10/2020 03:56,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Morra,0 days 02:00:00,7200
-CEN6,17/10/2020 09:03,17/10/2020 09:56,Accidental,Normal,Línea subterránea averiada. 14 de Mayo e/ Palma y
-Estrella.,La Encarnación,0 days 00:53:00,3180
-CEN6,17/10/2020 09:03,17/10/2020 09:56,Accidental,Normal,Línea subterránea averiada. 14 de Mayo e/ Palma y
-Estrella.,La Catedral,0 days 00:53:00,3180
+CEN6,17/10/2020 09:03,17/10/2020 09:56,Accidental,Normal,Línea subterránea averiada. 14 de Mayo e/ Palma y Estrella.,La Encarnación,0 days 00:53:00,3180
+CEN6,17/10/2020 09:03,17/10/2020 09:56,Accidental,Normal,Línea subterránea averiada. 14 de Mayo e/ Palma y Estrella.,La Catedral,0 days 00:53:00,3180
 FDM2,14/10/2020 15:02,14/10/2020 17:02,Accidental,Adverso,Vientos fuertes.,San Pablo,0 days 02:00:00,7200
 FDM2,14/10/2020 19:22,14/10/2020 20:06,Accidental,Adverso,Vientos fuertes.,San Pablo,0 days 00:44:00,2640
 FDM2,14/10/2020 20:29,14/10/2020 20:31,Accidental,Adverso,Cruceta MT rota. Maskoi y Chamacoco.,San Pablo,0 days 00:02:00,120
@@ -57,42 +52,30 @@ GDI2,26/10/2020 01:46,26/10/2020 05:08,Accidental,Adverso,Condiciones Climáticas
 GDI2,26/10/2020 01:46,26/10/2020 05:08,Accidental,Adverso,Condiciones Climáticas Adversas.,Obrero,0 days 03:22:00,12120
 GDI2,26/10/2020 07:15,26/10/2020 07:33,Accidental,Adverso,Condiciones Climáticas Adversas.,Gral. J. E Diaz,0 days 00:18:00,1080
 GDI2,26/10/2020 07:15,26/10/2020 07:33,Accidental,Adverso,Condiciones Climáticas Adversas.,Obrero,0 days 00:18:00,1080
-GDI2,26/10/2020 12:15,26/10/2020 12:50,Accidental,Adverso,Tramo subterráneo averiado. PD PS160 (50730 al
-50732).,Gral. J. E Diaz,0 days 00:35:00,2100
-GDI2,26/10/2020 12:15,26/10/2020 12:50,Accidental,Adverso,Tramo subterráneo averiado. PD PS160 (50730 al
-50732).,Obrero,0 days 00:35:00,2100
+GDI2,26/10/2020 12:15,26/10/2020 12:50,Accidental,Adverso,Tramo subterráneo averiado. PD PS160 (50730 al 50732).,Gral. J. E Diaz,0 days 00:35:00,2100
+GDI2,26/10/2020 12:15,26/10/2020 12:50,Accidental,Adverso,Tramo subterráneo averiado. PD PS160 (50730 al 50732).,Obrero,0 days 00:35:00,2100
 GDI3,26/10/2020 01:46,26/10/2020 03:17,Accidental,Adverso,Condiciones Climáticas Adversas.,Gral. J. E Diaz,0 days 01:31:00,5460
-GDI3,26/10/2020 21:07,26/10/2020 21:25,Accidental,Normal,Abierto interruptor para normalizar derivación.Colón y
-Berlín.,Gral. J. E Diaz,0 days 00:18:00,1080
+GDI3,26/10/2020 21:07,26/10/2020 21:25,Accidental,Normal,Abierto interruptor para normalizar derivación.Colón y Berlín.,Gral. J. E Diaz,0 days 00:18:00,1080
 GDI4,14/10/2020 19:36,14/10/2020 20:58,Accidental,Adverso,Vientos fuertes.,Obrero,0 days 01:22:00,4920
 GDI4,14/10/2020 19:36,14/10/2020 20:58,Accidental,Adverso,Vientos fuertes.,Dr. Roberto L. Petit,0 days 01:22:00,4920
 GDI4,14/10/2020 19:36,14/10/2020 20:58,Accidental,Adverso,Vientos fuertes.,Bañado Tacumbu,0 days 01:22:00,4920
-GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32
-Proyectadas.,Obrero,0 days 00:06:00,360
-GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32
-Proyectadas.,Dr. Roberto L. Petit,0 days 00:06:00,360
-GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32
-Proyectadas.,Bañado Tacumbu,0 days 00:06:00,360
-LAM15,10/10/2020 10:46,10/10/2020 11:35,Accidental,Normal,Brazo de AP en contacto con línea MT. Corpus Cristi
-y Natividad.,Itá Enramada,0 days 00:49:00,2940
+GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32 Proyectadas.,Obrero,0 days 00:06:00,360
+GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32 Proyectadas.,Dr. Roberto L. Petit,0 days 00:06:00,360
+GDI4,27/10/2020 20:51,27/10/2020 20:57,Accidental,Normal,Abierto Interruptor. SF averiado. Tacuary y 32 Proyectadas.,Bañado Tacumbu,0 days 00:06:00,360
+LAM15,10/10/2020 10:46,10/10/2020 11:35,Accidental,Normal,Brazo de AP en contacto con línea MT. Corpus Cristi y Natividad.,Itá Enramada,0 days 00:49:00,2940
 LAM22,1/10/2020 10:58,1/10/2020 12:32,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 01:34:00,5640
 LAM22,1/10/2020 10:58,1/10/2020 12:32,Accidental,Adverso,Condiciones Climáticas Adversas.,Terminal,0 days 01:34:00,5640
-LAM22,11/10/2020 16:12,11/10/2020 16:41,Accidental,Normal,Choque por sostén MT. Avda. Fernando de la Mora y
-Paraíso.,Hipódromo,0 days 00:29:00,1740
-LAM22,11/10/2020 16:12,11/10/2020 16:41,Accidental,Normal,Choque por sostén MT. Avda. Fernando de la Mora y
-Paraíso.,Terminal,0 days 00:29:00,1740
-LAM22,14/10/2020 09:04,14/10/2020 09:43,Accidental,Normal,"Transformador averiado, SF averiado. Cristobal
-Colón c/ Rca. Argentina.",Hipódromo,0 days 00:39:00,2340
-LAM22,14/10/2020 09:04,14/10/2020 09:43,Accidental,Normal,"Transformador averiado, SF averiado. Cristobal
-Colón c/ Rca. Argentina.",Terminal,0 days 00:39:00,2340
+LAM22,11/10/2020 16:12,11/10/2020 16:41,Accidental,Normal,Choque por sostén MT. Avda. Fernando de la Mora y Paraíso.,Hipódromo,0 days 00:29:00,1740
+LAM22,11/10/2020 16:12,11/10/2020 16:41,Accidental,Normal,Choque por sostén MT. Avda. Fernando de la Mora y Paraíso.,Terminal,0 days 00:29:00,1740
+LAM22,14/10/2020 09:04,14/10/2020 09:43,Accidental,Normal,"Transformador averiado, SF averiado. Cristobal Colón c/ Rca. Argentina.",Hipódromo,0 days 00:39:00,2340
+LAM22,14/10/2020 09:04,14/10/2020 09:43,Accidental,Normal,"Transformador averiado, SF averiado. Cristobal Colón c/ Rca. Argentina.",Terminal,0 days 00:39:00,2340
 LAM22,20/10/2020 12:34,20/10/2020 13:04,Accidental,Normal,No establecido.,Hipódromo,0 days 00:30:00,1800
 LAM22,20/10/2020 12:34,20/10/2020 13:04,Accidental,Normal,No establecido.,Terminal,0 days 00:30:00,1800
 LAM22,20/10/2020 13:08,20/10/2020 13:49,Accidental,Normal,No establecido.,Hipódromo,0 days 00:41:00,2460
 LAM22,20/10/2020 13:08,20/10/2020 13:49,Accidental,Normal,No establecido.,Terminal,0 days 00:41:00,2460
 LAM23,15/10/2020 00:15,15/10/2020 00:42,Accidental,Adverso,Vientos fuertes.,Mburicao,0 days 00:27:00,1620
 LAM23,23/10/2020 06:08,23/10/2020 06:58,Accidental,Normal,No establecido.,Mburicao,0 days 00:50:00,3000
-LAM23,23/10/2020 23:07,23/10/2020 23:50,Accidental,Normal,"Cruceta MT rota, SF averiado. PD EXCLUSIVO.
-Pariri y Avda. Fernando de la Mora.",Mburicao,0 days 00:43:00,2580
+LAM23,23/10/2020 23:07,23/10/2020 23:50,Accidental,Normal,"Cruceta MT rota, SF averiado. PD EXCLUSIVO. Pariri y Avda. Fernando de la Mora.",Mburicao,0 days 00:43:00,2580
 LAM23,26/10/2020 01:41,26/10/2020 03:41,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburicao,0 days 02:00:00,7200
 LAM28,1/10/2020 11:36,1/10/2020 12:45,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre,0 days 01:09:00,4140
 LAM28,1/10/2020 11:36,1/10/2020 12:45,Accidental,Adverso,Condiciones Climáticas Adversas.,Nazareth,0 days 01:09:00,4140
@@ -106,24 +89,12 @@ LAM5,4/10/2020 09:45,4/10/2020 10:13,Accidental,Normal,Fusible operado. Lado Cer
 LAM5,4/10/2020 09:45,4/10/2020 10:13,Accidental,Normal,Fusible operado. Lado Cerro Guy.,Santa Librada,0 days 00:28:00,1680
 LAM5,4/10/2020 09:45,4/10/2020 10:13,Accidental,Normal,Fusible operado. Lado Cerro Guy.,San Cayetano,0 days 00:28:00,1680
 LAM5,4/10/2020 09:45,4/10/2020 10:13,Accidental,Normal,Fusible operado. Lado Cerro Guy.,Pirizal,0 days 00:28:00,1680
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",Santa Ana,0 days 00:36:00,2160
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",Itá Enramada,0 days 00:36:00,2160
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",Jukyty,0 days 00:36:00,2160
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",Santa Librada,0 days 00:36:00,2160
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",San Cayetano,0 days 00:36:00,2160
-LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de
-Puente MT Suelto en la RTU 51641. Felicidad e
-Itaipu.",Pirizal,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",Santa Ana,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",Itá Enramada,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",Jukyty,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",Santa Librada,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",San Cayetano,0 days 00:36:00,2160
+LAM5,13/10/2020 16:09,13/10/2020 16:45,Accidental,Normal,"Abierto Interruptor, para efectuar reparación de Puente MT Suelto en la RTU 51641. Felicidad e Itaipu.",Pirizal,0 days 00:36:00,2160
 LAM5,26/10/2020 01:41,26/10/2020 03:42,Accidental,Adverso,Condiciones Climáticas Adversas.,Santa Ana,0 days 02:01:00,7260
 LAM5,26/10/2020 01:41,26/10/2020 03:42,Accidental,Adverso,Condiciones Climáticas Adversas.,Itá Enramada,0 days 02:01:00,7260
 LAM5,26/10/2020 01:41,26/10/2020 03:42,Accidental,Adverso,Condiciones Climáticas Adversas.,Jukyty,0 days 02:01:00,7260
@@ -147,15 +118,9 @@ MBU3,13/10/2020 10:49,13/10/2020 12:49,Accidental,Normal,Desperfecto Interno. Tr
 MBU4,1/10/2020 11:45,1/10/2020 13:15,Accidental,Adverso,Condiciones Climáticas Adversas.,Las Carmelitas,0 days 01:30:00,5400
 MBU4,1/10/2020 11:45,1/10/2020 13:15,Accidental,Adverso,Condiciones Climáticas Adversas.,Madame Lynch,0 days 01:30:00,5400
 MBU4,1/10/2020 11:45,1/10/2020 13:15,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburucuyá,0 days 01:30:00,5400
-MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En
-Juez Pino entre Escobar y Avda. Ñi Guazu.
-Condiciones climáticas adversas.,Las Carmelitas,-1 days +05:55:00,21300
-MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En
-Juez Pino entre Escobar y Avda. Ñi Guazu.
-Condiciones climáticas adversas.,Madame Lynch,-1 days +05:55:00,21300
-MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En
-Juez Pino entre Escobar y Avda. Ñi Guazu.
-Condiciones climáticas adversas.,Mburucuyá,-1 days +05:55:00,21300
+MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En Juez Pino entre Escobar y Avda. Ñi Guazu. Condiciones climáticas adversas.,Las Carmelitas,-1 days +05:55:00,21300
+MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En Juez Pino entre Escobar y Avda. Ñi Guazu. Condiciones climáticas adversas.,Madame Lynch,-1 days +05:55:00,21300
+MBU4,2/10/2020 06:48,1/10/2020 12:43,Accidental,Normal,Línea MT en contacto con sostén intermedio. En Juez Pino entre Escobar y Avda. Ñi Guazu. Condiciones climáticas adversas.,Mburucuyá,-1 days +05:55:00,21300
 MBU4,14/10/2020 13:24,14/10/2020 13:55,Accidental,Adverso,Vientos fuertes.,Las Carmelitas,0 days 00:31:00,1860
 MBU4,14/10/2020 13:24,14/10/2020 13:55,Accidental,Adverso,Vientos fuertes.,Madame Lynch,0 days 00:31:00,1860
 MBU4,14/10/2020 13:24,14/10/2020 13:55,Accidental,Adverso,Vientos fuertes.,Mburucuyá,0 days 00:31:00,1860
@@ -208,30 +173,20 @@ PBO10,25/10/2020 12:16,25/10/2020 12:36,Accidental,Normal,No establecido.,Santa 
 PBO10,25/10/2020 14:12,25/10/2020 15:10,Accidental,Normal,No establecido.,Bañado Cará Cará,0 days 00:58:00,3480
 PBO10,25/10/2020 14:12,25/10/2020 15:10,Accidental,Normal,No establecido.,Botánico,0 days 00:58:00,3480
 PBO10,25/10/2020 14:12,25/10/2020 15:10,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:58:00,3480
-PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer
-Presidente e/ Viuda de las llanas y 8 de Junio.,Bañado Cará Cará,0 days 00:23:00,1380
-PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer
-Presidente e/ Viuda de las llanas y 8 de Junio.,Botánico,0 days 00:23:00,1380
-PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer
-Presidente e/ Viuda de las llanas y 8 de Junio.,Santa Rosa,0 days 00:23:00,1380
+PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer Presidente e/ Viuda de las llanas y 8 de Junio.,Bañado Cará Cará,0 days 00:23:00,1380
+PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer Presidente e/ Viuda de las llanas y 8 de Junio.,Botánico,0 days 00:23:00,1380
+PBO10,25/10/2020 15:30,25/10/2020 15:53,Accidental,Normal,Línea MT Suelta y Cruceta MT rota. Primer Presidente e/ Viuda de las llanas y 8 de Junio.,Santa Rosa,0 days 00:23:00,1380
 PBO10,26/10/2020 01:50,26/10/2020 03:47,Accidental,Adverso,Condiciones Climáticas Adversas.,Bañado Cará Cará,0 days 01:57:00,7020
 PBO10,26/10/2020 01:50,26/10/2020 03:47,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 01:57:00,7020
 PBO10,26/10/2020 01:50,26/10/2020 03:47,Accidental,Adverso,Condiciones Climáticas Adversas.,Santa Rosa,0 days 01:57:00,7020
-PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras.
-Seccionador N° 1 (54551) averiado.,Bañado Cará Cará,0 days 00:24:00,1440
-PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras.
-Seccionador N° 1 (54551) averiado.,Botánico,0 days 00:24:00,1440
-PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras.
-Seccionador N° 1 (54551) averiado.,Santa Rosa,0 days 00:24:00,1440
+PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras. Seccionador N° 1 (54551) averiado.,Bañado Cará Cará,0 days 00:24:00,1440
+PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras. Seccionador N° 1 (54551) averiado.,Botánico,0 days 00:24:00,1440
+PBO10,26/10/2020 18:09,26/10/2020 18:33,Accidental,Normal,Abierto interruptor para efectuar maniobras. Seccionador N° 1 (54551) averiado.,Santa Rosa,0 days 00:24:00,1440
 PBO14,29/10/2020 05:44,29/10/2020 06:50,Accidental,Normal,No establecido.,Zeballos Cué,0 days 01:06:00,3960
-PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones
-climáticas adversas.,Salvador del Mundo,0 days 00:28:00,1680
-PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones
-climáticas adversas.,Mbocayaty,0 days 00:28:00,1680
-PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones
-climáticas adversas.,Santa Rosa,0 days 00:28:00,1680
-PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones
-climáticas adversas.,Santísima Trinidad,0 days 00:28:00,1680
+PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones climáticas adversas.,Salvador del Mundo,0 days 00:28:00,1680
+PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones climáticas adversas.,Mbocayaty,0 days 00:28:00,1680
+PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones climáticas adversas.,Santa Rosa,0 days 00:28:00,1680
+PBO17,1/10/2020 12:15,1/10/2020 12:43,Accidental,Adverso,Condiciones Climáticas Adversas. Condiciones climáticas adversas.,Santísima Trinidad,0 days 00:28:00,1680
 PBO17,2/10/2020 08:04,2/10/2020 08:11,Accidental,Adverso,Al efectuar maniobra en el Seccionador N° 52432.,Salvador del Mundo,0 days 00:07:00,420
 PBO17,2/10/2020 08:04,2/10/2020 08:11,Accidental,Adverso,Al efectuar maniobra en el Seccionador N° 52432.,Mbocayaty,0 days 00:07:00,420
 PBO17,2/10/2020 08:04,2/10/2020 08:11,Accidental,Adverso,Al efectuar maniobra en el Seccionador N° 52432.,Santa Rosa,0 days 00:07:00,420
@@ -242,11 +197,8 @@ PBO17,26/10/2020 01:50,26/10/2020 03:45,Accidental,Adverso,Condiciones Climática
 PBO17,26/10/2020 01:50,26/10/2020 03:45,Accidental,Adverso,Condiciones Climáticas Adversas.,Santísima Trinidad,0 days 01:55:00,6900
 PBO20,1/10/2020 11:20,1/10/2020 13:49,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 02:29:00,8940
 PBO20,26/10/2020 02:17,26/10/2020 11:56,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 09:39:00,34740
-PBO20,26/10/2020 12:31,26/10/2020 12:33,Accidental,Adverso,Puente MT Suelto en la RTU N° 50262. Línea MT
-desprendida frente a Viñas Cue.,Botánico,0 days 00:02:00,120
-PBO20,26/10/2020 17:25,26/10/2020 17:38,Accidental,Normal,Abierto interruptor para efectuar reparación de línea
-MT desprendida del aislador y cambio de cruceta MT
-rota.,Botánico,0 days 00:13:00,780
+PBO20,26/10/2020 12:31,26/10/2020 12:33,Accidental,Adverso,Puente MT Suelto en la RTU N° 50262. Línea MT desprendida frente a Viñas Cue.,Botánico,0 days 00:02:00,120
+PBO20,26/10/2020 17:25,26/10/2020 17:38,Accidental,Normal,Abierto interruptor para efectuar reparación de línea MT desprendida del aislador y cambio de cruceta MT rota.,Botánico,0 days 00:13:00,780
 PBO21,23/10/2020 23:02,24/10/2020 01:24,Accidental,Normal,Línea MT Suelta y aislador averiado.,Zeballos Cué,0 days 02:22:00,8520
 PBO6,25/10/2020 07:12,25/10/2020 07:37,Programado,Normal,CORTE DO/ACO/1547/2020.,Santísima Trinidad,0 days 00:25:00,1500
 PBO6,25/10/2020 07:12,25/10/2020 07:37,Programado,Normal,CORTE DO/ACO/1547/2020.,Virgen de la Asunción,0 days 00:25:00,1500
@@ -268,12 +220,8 @@ PCA1,9/10/2020 15:17,9/10/2020 15:50,Accidental,Normal,Línea MT suelta. Azara y 
 PCA1,9/10/2020 15:17,9/10/2020 15:50,Accidental,Normal,Línea MT suelta. Azara y Curupaity.,Virgen de la Asunción,0 days 00:33:00,1980
 PCA1,9/10/2020 15:17,9/10/2020 15:50,Accidental,Normal,Línea MT suelta. Azara y Curupaity.,Cañada Ybyray,0 days 00:33:00,1980
 PCA1,9/10/2020 15:17,9/10/2020 15:50,Accidental,Normal,Línea MT suelta. Azara y Curupaity.,Bañado Cará Cará,0 days 00:33:00,1980
-PCA1,13/10/2020 12:57,13/10/2020 13:13,Accidental,Normal,Línea Subterránea averiada tramo SM191-SM247.
-Antequera y Rca. Colombia por terceros. Sin estado
-de precaución.,San Roque,0 days 00:16:00,960
-PCA1,13/10/2020 12:57,13/10/2020 13:13,Accidental,Normal,Línea Subterránea averiada tramo SM191-SM247.
-Antequera y Rca. Colombia por terceros. Sin estado
-de precaución.,La Catedral,0 days 00:16:00,960
+PCA1,13/10/2020 12:57,13/10/2020 13:13,Accidental,Normal,Línea Subterránea averiada tramo SM191-SM247. Antequera y Rca. Colombia por terceros. Sin estado de precaución.,San Roque,0 days 00:16:00,960
+PCA1,13/10/2020 12:57,13/10/2020 13:13,Accidental,Normal,Línea Subterránea averiada tramo SM191-SM247. Antequera y Rca. Colombia por terceros. Sin estado de precaución.,La Catedral,0 days 00:16:00,960
 PCA1,26/10/2020 02:07,26/10/2020 03:29,Accidental,Adverso,Condiciones Climáticas Adversas.,San Roque,0 days 01:22:00,4920
 PCA1,26/10/2020 02:07,26/10/2020 03:29,Accidental,Adverso,Condiciones Climáticas Adversas.,La Catedral,0 days 01:22:00,4920
 PCA11,19/10/2020 23:18,19/10/2020 23:48,Accidental,Normal,No establecido.,Ricardo Brugada,0 days 00:30:00,1800
@@ -305,10 +253,8 @@ PCA8,26/10/2020 15:52,26/10/2020 17:37,Accidental,Adverso,Condiciones Climáticas
 PCA8,26/10/2020 15:52,26/10/2020 17:37,Accidental,Adverso,Condiciones Climáticas Adversas.,Jara,0 days 01:45:00,6300
 PSA11,1/10/2020 11:40,1/10/2020 14:43,Accidental,Adverso,Condiciones Climáticas Adversas.,Bañado Tacumbu,0 days 03:03:00,10980
 PSA11,1/10/2020 11:40,1/10/2020 14:43,Accidental,Adverso,Condiciones Climáticas Adversas.,Sajonia,0 days 03:03:00,10980
-PSA11,11/10/2020 19:43,11/10/2020 19:52,Accidental,Normal,"Abierto interruptor para aislar avería. Línea MT suelta
-F1, Urcisino Velazco y Martín Fierro.",Bañado Tacumbu,0 days 00:09:00,540
-PSA11,11/10/2020 19:43,11/10/2020 19:52,Accidental,Normal,"Abierto interruptor para aislar avería. Línea MT suelta
-F1, Urcisino Velazco y Martín Fierro.",Sajonia,0 days 00:09:00,540
+PSA11,11/10/2020 19:43,11/10/2020 19:52,Accidental,Normal,"Abierto interruptor para aislar avería. Línea MT suelta F1, Urcisino Velazco y Martín Fierro.",Bañado Tacumbu,0 days 00:09:00,540
+PSA11,11/10/2020 19:43,11/10/2020 19:52,Accidental,Normal,"Abierto interruptor para aislar avería. Línea MT suelta F1, Urcisino Velazco y Martín Fierro.",Sajonia,0 days 00:09:00,540
 PSA11,11/10/2020 21:35,11/10/2020 21:38,Accidental,Normal,Al efectuar maniobras en el Seccionador 50698.,Bañado Tacumbu,0 days 00:03:00,180
 PSA11,11/10/2020 21:35,11/10/2020 21:38,Accidental,Normal,Al efectuar maniobras en el Seccionador 50698.,Sajonia,0 days 00:03:00,180
 PSA11,13/10/2020 08:20,13/10/2020 08:37,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:17:00,1020
@@ -323,87 +269,59 @@ PSA11,25/10/2020 07:11,25/10/2020 07:34,Accidental,Normal,No establecido.,Bañado
 PSA11,25/10/2020 07:11,25/10/2020 07:34,Accidental,Normal,No establecido.,Sajonia,0 days 00:23:00,1380
 PSA11,26/10/2020 01:29,26/10/2020 04:21,Accidental,Adverso,Condiciones Climáticas Adversas.,Bañado Tacumbu,0 days 02:52:00,10320
 PSA11,26/10/2020 01:29,26/10/2020 04:21,Accidental,Adverso,Condiciones Climáticas Adversas.,Sajonia,0 days 02:52:00,10320
-PSA11,26/10/2020 22:17,26/10/2020 22:20,Accidental,Adverso,Línea MT en contacto con brazo de AP.
-Transformador averiado Velazco y Martín Fierro.,Bañado Tacumbu,0 days 00:03:00,180
-PSA11,26/10/2020 22:17,26/10/2020 22:20,Accidental,Adverso,Línea MT en contacto con brazo de AP.
-Transformador averiado Velazco y Martín Fierro.,Sajonia,0 days 00:03:00,180
+PSA11,26/10/2020 22:17,26/10/2020 22:20,Accidental,Adverso,Línea MT en contacto con brazo de AP. Transformador averiado Velazco y Martín Fierro.,Bañado Tacumbu,0 days 00:03:00,180
+PSA11,26/10/2020 22:17,26/10/2020 22:20,Accidental,Adverso,Línea MT en contacto con brazo de AP. Transformador averiado Velazco y Martín Fierro.,Sajonia,0 days 00:03:00,180
 PSA11,26/10/2020 22:50,26/10/2020 22:52,Accidental,Adverso,Al efectuar maniobras.,Bañado Tacumbu,0 days 00:02:00,120
 PSA11,26/10/2020 22:50,26/10/2020 22:52,Accidental,Adverso,Al efectuar maniobras.,Sajonia,0 days 00:02:00,120
 PSA12,26/10/2020 01:31,26/10/2020 02:58,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López,0 days 01:27:00,5220
-PSA12,26/10/2020 23:41,26/10/2020 23:55,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Cap.
-Gwynn y Melo de Portugal.,Carlos A. López,0 days 00:14:00,840
-PSA12,27/10/2020 19:22,27/10/2020 19:48,Accidental,Normal,Abierto Interruptor. Puente MT Suelto. Cap. Gwynn y
-Melo de Portugal.,Carlos A. López,0 days 00:26:00,1560
-PSA3,23/10/2020 12:05,23/10/2020 12:13,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de SF
-averiado. Cnel. Martínez y Alejo Garcia.",San Antonio,0 days 00:08:00,480
-PSA3,23/10/2020 12:05,23/10/2020 12:13,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de SF
-averiado. Cnel. Martínez y Alejo Garcia.",Dr. Gaspar Rodríguez de Francia,0 days 00:08:00,480
+PSA12,26/10/2020 23:41,26/10/2020 23:55,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Cap. Gwynn y Melo de Portugal.,Carlos A. López,0 days 00:14:00,840
+PSA12,27/10/2020 19:22,27/10/2020 19:48,Accidental,Normal,Abierto Interruptor. Puente MT Suelto. Cap. Gwynn y Melo de Portugal.,Carlos A. López,0 days 00:26:00,1560
+PSA3,23/10/2020 12:05,23/10/2020 12:13,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de SF averiado. Cnel. Martínez y Alejo Garcia.",San Antonio,0 days 00:08:00,480
+PSA3,23/10/2020 12:05,23/10/2020 12:13,Accidental,Normal,"Abierto Interruptor, para efectuar puenteo de SF averiado. Cnel. Martínez y Alejo Garcia.",Dr. Gaspar Rodríguez de Francia,0 days 00:08:00,480
 PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 00:53:00,3180
 PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 00:53:00,3180
 PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 00:53:00,3180
 PSA3,26/10/2020 02:07,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 00:53:00,3180
-PSA4,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del
-Quemado (Ex Clínicas).,San Antonio,0 days 00:05:00,300
-PSA4,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del
-Quemado (Ex Clínicas).,Dr. Gaspar Rodríguez de Francia,0 days 00:05:00,300
+PSA4,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del Quemado (Ex Clínicas).,San Antonio,0 days 00:05:00,300
+PSA4,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del Quemado (Ex Clínicas).,Dr. Gaspar Rodríguez de Francia,0 days 00:05:00,300
 PSA4,14/10/2020 19:39,14/10/2020 20:21,Accidental,Adverso,Vientos fuertes.,San Antonio,0 days 00:42:00,2520
 PSA4,14/10/2020 19:39,14/10/2020 20:21,Accidental,Adverso,Vientos fuertes.,Dr. Gaspar Rodríguez de Francia,0 days 00:42:00,2520
 PSA4,14/10/2020 19:39,14/10/2020 20:37,Accidental,Adverso,Vientos fuertes.,Ita Pyta Punta,0 days 00:58:00,3480
 PSA4,26/10/2020 01:31,26/10/2020 02:57,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 01:26:00,5160
 PSA4,26/10/2020 03:08,26/10/2020 10:32,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 07:24:00,26640
-PSA4,26/10/2020 11:54,26/10/2020 11:56,Accidental,Adverso,Tramo averiado CE-54 a PE CAJA MUNICIPAL.
-Desperfecto interno PE VENDOME. GALERIA
-GUARANI.,Ita Pyta Punta,0 days 00:02:00,120
+PSA4,26/10/2020 11:54,26/10/2020 11:56,Accidental,Adverso,Tramo averiado CE-54 a PE CAJA MUNICIPAL. Desperfecto interno PE VENDOME. GALERIA GUARANI.,Ita Pyta Punta,0 days 00:02:00,120
 PSA5,26/10/2020 01:36,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,La Encarnación,0 days 01:23:00,4980
 PSA5,26/10/2020 01:36,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 01:23:00,4980
 PSA5,26/10/2020 01:36,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 01:23:00,4980
 PSA5,26/10/2020 01:36,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 01:23:00,4980
-PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida
-Subterránea. Trasferencia sobre PSA8.,La Encarnación,0 days 00:21:00,1260
-PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida
-Subterránea. Trasferencia sobre PSA8.,San Antonio,0 days 00:21:00,1260
-PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida
-Subterránea. Trasferencia sobre PSA8.,Ita Pyta Punta,0 days 00:21:00,1260
-PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida
-Subterránea. Trasferencia sobre PSA8.,Dr. Gaspar Rodríguez de Francia,0 days 00:21:00,1260
-PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del
-Quemado (Ex Clínicas).,San Antonio,0 days 00:05:00,300
-PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del
-Quemado (Ex Clínicas).,Ita Pyta Punta,0 days 00:05:00,300
-PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del
-Quemado (Ex Clínicas).,Dr. Gaspar Rodríguez de Francia,0 days 00:05:00,300
-PSA7,12/10/2020 18:05,12/10/2020 18:42,Accidental,Normal,"Ramas sobre línea MT, en Carlos Gomez y Tte.
-Colmán.",Bañado Tacumbu,0 days 00:37:00,2220
-PSA7,12/10/2020 18:05,12/10/2020 18:42,Accidental,Normal,"Ramas sobre línea MT, en Carlos Gomez y Tte.
-Colmán.",Carlos A. López,0 days 00:37:00,2220
+PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida Subterránea. Trasferencia sobre PSA8.,La Encarnación,0 days 00:21:00,1260
+PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida Subterránea. Trasferencia sobre PSA8.,San Antonio,0 days 00:21:00,1260
+PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida Subterránea. Trasferencia sobre PSA8.,Ita Pyta Punta,0 days 00:21:00,1260
+PSA5,26/10/2020 10:54,26/10/2020 11:15,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1. Salida Subterránea. Trasferencia sobre PSA8.,Dr. Gaspar Rodríguez de Francia,0 days 00:21:00,1260
+PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del Quemado (Ex Clínicas).,San Antonio,0 days 00:05:00,300
+PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del Quemado (Ex Clínicas).,Ita Pyta Punta,0 days 00:05:00,300
+PSA6,11/10/2020 23:09,11/10/2020 23:14,Accidental,Normal,Al reponer seccionador fusible. PE Hospital del Quemado (Ex Clínicas).,Dr. Gaspar Rodríguez de Francia,0 days 00:05:00,300
+PSA7,12/10/2020 18:05,12/10/2020 18:42,Accidental,Normal,"Ramas sobre línea MT, en Carlos Gomez y Tte. Colmán.",Bañado Tacumbu,0 days 00:37:00,2220
+PSA7,12/10/2020 18:05,12/10/2020 18:42,Accidental,Normal,"Ramas sobre línea MT, en Carlos Gomez y Tte. Colmán.",Carlos A. López,0 days 00:37:00,2220
 PSA7,17/10/2020 15:22,17/10/2020 16:27,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 01:05:00,3900
 PSA7,17/10/2020 15:22,17/10/2020 16:27,Accidental,Normal,No establecido.,Carlos A. López,0 days 01:05:00,3900
 PSA7,17/10/2020 20:08,17/10/2020 20:12,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",Bañado Tacumbu,0 days 00:04:00,240
 PSA7,17/10/2020 20:08,17/10/2020 20:12,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",Carlos A. López,0 days 00:04:00,240
-PSA7,28/10/2020 23:37,28/10/2020 23:40,Accidental,Normal,Al efectuar maniobras. Puente MT Suelto. Vda. de
-las Llanas. Desperfecto interno Estadio Defensores
-del Chaco.,Bañado Tacumbu,0 days 00:03:00,180
-PSA7,28/10/2020 23:37,28/10/2020 23:40,Accidental,Normal,Al efectuar maniobras. Puente MT Suelto. Vda. de
-las Llanas. Desperfecto interno Estadio Defensores
-del Chaco.,Carlos A. López,0 days 00:03:00,180
+PSA7,28/10/2020 23:37,28/10/2020 23:40,Accidental,Normal,Al efectuar maniobras. Puente MT Suelto. Vda. de las Llanas. Desperfecto interno Estadio Defensores del Chaco.,Bañado Tacumbu,0 days 00:03:00,180
+PSA7,28/10/2020 23:37,28/10/2020 23:40,Accidental,Normal,Al efectuar maniobras. Puente MT Suelto. Vda. de las Llanas. Desperfecto interno Estadio Defensores del Chaco.,Carlos A. López,0 days 00:03:00,180
 PSA7,30/10/2020 09:17,30/10/2020 09:21,Accidental,Normal,Cruceta MT rota. Decoud y Lerida.,Bañado Tacumbu,0 days 00:04:00,240
 PSA7,30/10/2020 09:17,30/10/2020 09:21,Accidental,Normal,Cruceta MT rota. Decoud y Lerida.,Carlos A. López,0 days 00:04:00,240
-PSA7,30/10/2020 09:54,30/10/2020 10:07,Accidental,Normal,Abierto Interruptor. Para efectuar reparación. SF
-averiado.,Bañado Tacumbu,0 days 00:13:00,780
-PSA7,30/10/2020 09:54,30/10/2020 10:07,Accidental,Normal,Abierto Interruptor. Para efectuar reparación. SF
-averiado.,Carlos A. López,0 days 00:13:00,780
+PSA7,30/10/2020 09:54,30/10/2020 10:07,Accidental,Normal,Abierto Interruptor. Para efectuar reparación. SF averiado.,Bañado Tacumbu,0 days 00:13:00,780
+PSA7,30/10/2020 09:54,30/10/2020 10:07,Accidental,Normal,Abierto Interruptor. Para efectuar reparación. SF averiado.,Carlos A. López,0 days 00:13:00,780
 PSA8,26/10/2020 01:47,26/10/2020 03:00,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 01:13:00,4380
 PSA9,26/10/2020 01:43,26/10/2020 02:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Carlos A. López,0 days 01:16:00,4560
 PSA9,28/10/2020 14:10,28/10/2020 14:48,Accidental,Normal,Puente MT Suelto en el Seccionador N° 52689.,Carlos A. López,0 days 00:38:00,2280
 PSA9,28/10/2020 15:46,28/10/2020 15:51,Accidental,Normal,Abierto Interruptor. Puente MT Suelto.,Carlos A. López,0 days 00:05:00,300
-REP1,14/10/2020 21:33,14/10/2020 21:35,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. SF
-averiado. Japón y 37 Proyectadas.",Dr. Roberto L. Petit,0 days 00:02:00,120
+REP1,14/10/2020 21:33,14/10/2020 21:35,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. SF averiado. Japón y 37 Proyectadas.",Dr. Roberto L. Petit,0 days 00:02:00,120
 REP2,14/10/2020 14:30,14/10/2020 16:06,Accidental,Adverso,Vientos fuertes.,Republicano,0 days 01:36:00,5760
 REP2,14/10/2020 14:30,14/10/2020 16:06,Accidental,Adverso,Vientos fuertes.,Santa Librada,0 days 01:36:00,5760
-REP2,26/10/2020 01:31,26/10/2020 08:52,Accidental,Adverso,Cruceta MT rota. Ciudad de Chivas y Pizarro. Fusible
-Operado. Fariña Sánchez y Villalón.,Republicano,0 days 07:21:00,26460
-REP2,26/10/2020 01:31,26/10/2020 08:52,Accidental,Adverso,Cruceta MT rota. Ciudad de Chivas y Pizarro. Fusible
-Operado. Fariña Sánchez y Villalón.,Santa Librada,0 days 07:21:00,26460
+REP2,26/10/2020 01:31,26/10/2020 08:52,Accidental,Adverso,Cruceta MT rota. Ciudad de Chivas y Pizarro. Fusible Operado. Fariña Sánchez y Villalón.,Republicano,0 days 07:21:00,26460
+REP2,26/10/2020 01:31,26/10/2020 08:52,Accidental,Adverso,Cruceta MT rota. Ciudad de Chivas y Pizarro. Fusible Operado. Fariña Sánchez y Villalón.,Santa Librada,0 days 07:21:00,26460
 REP3,1/10/2020 11:08,1/10/2020 17:33,Accidental,Adverso,Condiciones climáticas adversas.,San Pablo,0 days 06:25:00,23100
 REP3,1/10/2020 11:08,1/10/2020 17:33,Accidental,Adverso,Condiciones climáticas adversas.,Obrero,0 days 06:25:00,23100
 REP3,1/10/2020 11:08,1/10/2020 17:33,Accidental,Adverso,Condiciones climáticas adversas.,San Vicente,0 days 06:25:00,23100
@@ -436,22 +354,14 @@ REP3,14/10/2020 15:23,14/10/2020 17:23,Accidental,Adverso,Vientos fuertes.,Santa
 REP3,14/10/2020 15:23,14/10/2020 17:23,Accidental,Adverso,Vientos fuertes.,Jukyty,0 days 02:00:00,7200
 REP3,14/10/2020 15:23,14/10/2020 17:23,Accidental,Adverso,Vientos fuertes.,Santa Librada,0 days 02:00:00,7200
 REP3,14/10/2020 15:23,14/10/2020 17:23,Accidental,Adverso,Vientos fuertes.,Pirizal,0 days 02:00:00,7200
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",San Pablo,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Obrero,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",San Vicente,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Republicano,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Santa Ana,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Jukyty,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Santa Librada,0 days 02:30:00,9000
-REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea
-MT Suelta, cruceta rota, Puente MT Suelto.",Pirizal,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",San Pablo,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Obrero,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",San Vicente,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Republicano,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Santa Ana,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Jukyty,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Santa Librada,0 days 02:30:00,9000
+REP3,14/10/2020 17:46,14/10/2020 20:16,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Línea MT Suelta, cruceta rota, Puente MT Suelto.",Pirizal,0 days 02:30:00,9000
 REP3,17/10/2020 12:22,17/10/2020 13:11,Accidental,Normal,SF operado. Complejo Aranjuez.,San Pablo,0 days 00:49:00,2940
 REP3,17/10/2020 12:22,17/10/2020 13:11,Accidental,Normal,SF operado. Complejo Aranjuez.,Obrero,0 days 00:49:00,2940
 REP3,17/10/2020 12:22,17/10/2020 13:11,Accidental,Normal,SF operado. Complejo Aranjuez.,San Vicente,0 days 00:49:00,2940
@@ -486,8 +396,7 @@ REP3,29/10/2020 16:18,29/10/2020 17:05,Accidental,Normal,SF averiado. 18 de Juli
 REP3,29/10/2020 16:18,29/10/2020 17:05,Accidental,Normal,SF averiado. 18 de Julio y Felix Bogado.,Pirizal,0 days 00:47:00,2820
 REP4,26/10/2020 02:18,26/10/2020 03:07,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 00:49:00,2940
 REP4,26/10/2020 03:10,26/10/2020 03:53,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 00:43:00,2580
-REP4,26/10/2020 05:38,26/10/2020 06:30,Accidental,Adverso,Condiciones Climáticas Adversas. Transferencia
-parcial sobre VAU5.,Hipódromo,0 days 00:52:00,3120
+REP4,26/10/2020 05:38,26/10/2020 06:30,Accidental,Adverso,Condiciones Climáticas Adversas. Transferencia parcial sobre VAU5.,Hipódromo,0 days 00:52:00,3120
 REP4,26/10/2020 09:17,26/10/2020 09:30,Accidental,Adverso,Tramo subterráneo averiado. Primer tramo.,Hipódromo,0 days 00:13:00,780
 REP5,1/10/2020 11:33,1/10/2020 15:18,Accidental,Adverso,Condiciones Climáticas Adversas.,Tte. Silvio Pettirossi,0 days 03:45:00,13500
 REP5,1/10/2020 11:33,1/10/2020 15:18,Accidental,Adverso,Condiciones Climáticas Adversas.,San Vicente,0 days 03:45:00,13500
@@ -495,12 +404,9 @@ REP5,1/10/2020 11:33,1/10/2020 15:18,Accidental,Adverso,Condiciones Climáticas A
 REP6,14/10/2020 15:35,14/10/2020 17:35,Accidental,Adverso,Vientos fuertes.,San Vicente,0 days 02:00:00,7200
 REP6,14/10/2020 15:35,14/10/2020 17:35,Accidental,Adverso,Vientos fuertes.,Pinoza,0 days 02:00:00,7200
 REP6,14/10/2020 15:35,14/10/2020 17:35,Accidental,Adverso,Vientos fuertes.,Pirizal,0 days 02:00:00,7200
-REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente
-MT Suelto. Magallanes y Zorrilla de San Martín.",San Vicente,0 days 00:40:00,2400
-REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente
-MT Suelto. Magallanes y Zorrilla de San Martín.",Pinoza,0 days 00:40:00,2400
-REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente
-MT Suelto. Magallanes y Zorrilla de San Martín.",Pirizal,0 days 00:40:00,2400
+REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente MT Suelto. Magallanes y Zorrilla de San Martín.",San Vicente,0 days 00:40:00,2400
+REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente MT Suelto. Magallanes y Zorrilla de San Martín.",Pinoza,0 days 00:40:00,2400
+REP6,14/10/2020 20:14,14/10/2020 20:54,Accidental,Adverso,"Abierto Interruptor, para efectuar reparación. Puente MT Suelto. Magallanes y Zorrilla de San Martín.",Pirizal,0 days 00:40:00,2400
 REP6,26/10/2020 01:33,26/10/2020 03:06,Accidental,Adverso,Condiciones Climáticas Adversas.,San Vicente,0 days 01:33:00,5580
 REP6,26/10/2020 01:33,26/10/2020 03:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 01:33:00,5580
 REP6,26/10/2020 01:33,26/10/2020 03:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Pirizal,0 days 01:33:00,5580
@@ -517,22 +423,12 @@ SMI11,10/10/2020 07:19,10/10/2020 07:55,Accidental,Normal,No establecido.,Mcal. 
 SMI11,10/10/2020 07:19,10/10/2020 07:55,Accidental,Normal,No establecido.,Jara,0 days 00:36:00,2160
 SMI5,14/10/2020 13:29,14/10/2020 14:50,Accidental,Adverso,Vientos fuertes.,Las Mercedes,0 days 01:21:00,4860
 SMI5,14/10/2020 13:29,14/10/2020 14:50,Accidental,Adverso,Vientos fuertes.,Ciudad Nueva,0 days 01:21:00,4860
-VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del
-Seccionador N° 52981 desprendido. S.R. Gónzalez y
-José Marti.,Los Laureles,0 days 00:06:00,360
-VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del
-Seccionador N° 52981 desprendido. S.R. Gónzalez y
-José Marti.,Mcal. Estigarribia,0 days 00:06:00,360
-VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del
-Seccionador N° 52981 desprendido. S.R. Gónzalez y
-José Marti.,Hipódromo,0 days 00:06:00,360
-VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del
-Seccionador N° 52981 desprendido. S.R. Gónzalez y
-José Marti.,Tembetary,0 days 00:06:00,360
-VAU10,2/10/2020 12:00,2/10/2020 12:04,Accidental,Normal,Abierto interruptor para efectuar reparación de
-puente MT suelto. Salida del VAU 10.,Mcal. Estigarribia,0 days 00:04:00,240
-VAU10,2/10/2020 12:00,2/10/2020 12:04,Accidental,Normal,Abierto interruptor para efectuar reparación de
-puente MT suelto. Salida del VAU 10.,Recoleta,0 days 00:04:00,240
+VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del Seccionador N° 52981 desprendido. S.R. Gónzalez y José Marti.,Los Laureles,0 days 00:06:00,360
+VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del Seccionador N° 52981 desprendido. S.R. Gónzalez y José Marti.,Mcal. Estigarribia,0 days 00:06:00,360
+VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del Seccionador N° 52981 desprendido. S.R. Gónzalez y José Marti.,Hipódromo,0 days 00:06:00,360
+VAU1,26/10/2020 05:22,26/10/2020 05:28,Accidental,Adverso,Abierto Interruptor. Puente MT Suelto F1.Aislador del Seccionador N° 52981 desprendido. S.R. Gónzalez y José Marti.,Tembetary,0 days 00:06:00,360
+VAU10,2/10/2020 12:00,2/10/2020 12:04,Accidental,Normal,Abierto interruptor para efectuar reparación de puente MT suelto. Salida del VAU 10.,Mcal. Estigarribia,0 days 00:04:00,240
+VAU10,2/10/2020 12:00,2/10/2020 12:04,Accidental,Normal,Abierto interruptor para efectuar reparación de puente MT suelto. Salida del VAU 10.,Recoleta,0 days 00:04:00,240
 VAU14,21/10/2020 00:23,21/10/2020 02:23,Accidental,Normal,No establecido.,Villa Aurelia,0 days 02:00:00,7200
 VAU14,21/10/2020 00:23,21/10/2020 02:23,Accidental,Normal,No establecido.,Los Laureles,0 days 02:00:00,7200
 VAU14,21/10/2020 00:23,21/10/2020 02:23,Accidental,Normal,No establecido.,Hipódromo,0 days 02:00:00,7200

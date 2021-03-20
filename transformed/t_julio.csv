@@ -10,35 +10,23 @@ BPA2,3/07/2020 14:54,3/07/2020 15:01,Accidental,Normal,Maniobras en la SE-BPA.,Y
 BPA2,3/07/2020 14:54,3/07/2020 15:01,Accidental,Normal,Maniobras en la SE-BPA.,Las Carmelitas,0 days 00:07:00,420
 BPA3,3/07/2020 14:54,3/07/2020 15:01,Accidental,Normal,Maniobras en la SE-BPA.,San Cristóbal,0 days 00:07:00,420
 BPA3,3/07/2020 14:54,3/07/2020 15:01,Accidental,Normal,Maniobras en la SE-BPA.,Mcal. Estigarribia,0 days 00:07:00,420
-BPA3,14/07/2020 09:34,14/07/2020 09:59,Accidental,Normal,Línea fibra optica en contacto con Línea MT.
-Ocasionado por terceros. Boggiani y Alas
-Paraguayas.,San Cristóbal,0 days 00:25:00,1500
-BPA3,14/07/2020 09:34,14/07/2020 09:59,Accidental,Normal,Línea fibra optica en contacto con Línea MT.
-Ocasionado por terceros. Boggiani y Alas
-Paraguayas.,Mcal. Estigarribia,0 days 00:25:00,1500
+BPA3,14/07/2020 09:34,14/07/2020 09:59,Accidental,Normal,Línea fibra optica en contacto con Línea MT. Ocasionado por terceros. Boggiani y Alas Paraguayas.,San Cristóbal,0 days 00:25:00,1500
+BPA3,14/07/2020 09:34,14/07/2020 09:59,Accidental,Normal,Línea fibra optica en contacto con Línea MT. Ocasionado por terceros. Boggiani y Alas Paraguayas.,Mcal. Estigarribia,0 days 00:25:00,1500
 BPA4,9/07/2020 08:07,9/07/2020 08:23,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 00:16:00,960
 BPA4,9/07/2020 08:07,9/07/2020 08:23,Accidental,Normal,No establecido.,San Cristóbal,0 days 00:16:00,960
 BPA4,9/07/2020 08:07,9/07/2020 08:23,Accidental,Normal,No establecido.,Santa María,0 days 00:16:00,960
 BPA8,7/07/2020 00:15,07/07/2020 02:15,Accidental,Normal,SF averiado.,Villa Morra,0 days 02:00:00,7200
 BPA8,7/07/2020 02:35,07/07/2020 04:35,Accidental,Normal,Línea MT Suelta.,Villa Morra,0 days 02:00:00,7200
-CEN3,27/07/2020 08:16,27/07/2020 09:43,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN.
-Transferencia sobre PCA5.,La Catedral,0 days 01:27:00,5220
-CEN3,27/07/2020 08:16,27/07/2020 09:43,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN.
-Transferencia sobre PCA5.,La Encarnación,0 days 01:27:00,5220
+CEN3,27/07/2020 08:16,27/07/2020 09:43,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN. Transferencia sobre PCA5.,La Catedral,0 days 01:27:00,5220
+CEN3,27/07/2020 08:16,27/07/2020 09:43,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN. Transferencia sobre PCA5.,La Encarnación,0 days 01:27:00,5220
 CEN4,27/07/2020 08:16,27/07/2020 08:33,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN.,La Encarnación,0 days 00:17:00,1020
-CEN6,27/07/2020 08:16,27/07/2020 09:45,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN.
-Transferencia sobre PCA5.,La Encarnación,0 days 01:29:00,5340
-CEN6,27/07/2020 08:16,27/07/2020 09:45,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN.
-Transferencia sobre PCA5.,La Catedral,0 days 01:29:00,5340
+CEN6,27/07/2020 08:16,27/07/2020 09:45,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN. Transferencia sobre PCA5.,La Encarnación,0 days 01:29:00,5340
+CEN6,27/07/2020 08:16,27/07/2020 09:45,Producción,Normal,Fuera de servicio TR-01 y TR-02. SE-CEN. Transferencia sobre PCA5.,La Catedral,0 days 01:29:00,5340
 FDM2,8/07/2020 05:55,8/07/2020 06:29,Producción,Normal,Fuera de Servicio LT 66kV SLO-FDM.,San Pablo,0 days 00:34:00,2040
 FDM2,19/07/2020 23:37,19/07/2020 23:57,Accidental,Normal,No establecido.,San Pablo,0 days 00:20:00,1200
 FDM3,8/07/2020 05:55,8/07/2020 06:29,Producción,Normal,Fuera de Servicio LT 66kV SLO-FDM.,San Pablo,0 days 00:34:00,2040
-GDI2,17/07/2020 16:26,17/07/2020 17:15,Accidental,Normal,"Puente MT Suelto F2, conductor de copaco sobre
-Línea MT F2. Avda. Rodriguez de Francia e/ 14 de
-Mayo y Alberdi.  Transferencia sobre PSA8.",Gral. J. E Diaz,0 days 00:49:00,2940
-GDI2,17/07/2020 16:26,17/07/2020 17:15,Accidental,Normal,"Puente MT Suelto F2, conductor de copaco sobre
-Línea MT F2. Avda. Rodriguez de Francia e/ 14 de
-Mayo y Alberdi.  Transferencia sobre PSA8.",Obrero,0 days 00:49:00,2940
+GDI2,17/07/2020 16:26,17/07/2020 17:15,Accidental,Normal,"Puente MT Suelto F2, conductor de copaco sobre Línea MT F2. Avda. Rodriguez de Francia e/ 14 de Mayo y Alberdi.  Transferencia sobre PSA8.",Gral. J. E Diaz,0 days 00:49:00,2940
+GDI2,17/07/2020 16:26,17/07/2020 17:15,Accidental,Normal,"Puente MT Suelto F2, conductor de copaco sobre Línea MT F2. Avda. Rodriguez de Francia e/ 14 de Mayo y Alberdi.  Transferencia sobre PSA8.",Obrero,0 days 00:49:00,2940
 GDI3,2/07/2020 06:57,2/07/2020 06:58,Programado,Normal,MEMO DD/DCC1/148/2020.,Gral. J. E Diaz,0 days 00:01:00,60
 GDI4,13/07/2020 22:36,14/07/2020 00:36,Accidental,Normal,No establecido.,Obrero,0 days 02:00:00,7200
 GDI4,13/07/2020 22:36,14/07/2020 00:36,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 02:00:00,7200
@@ -49,27 +37,15 @@ GDI4,28/07/2020 09:53,28/07/2020 10:41,Accidental,Normal,No establecido.,Bañado 
 GDI4,28/07/2020 09:53,28/07/2020 10:41,Accidental,Normal,No establecido.,Obrero,0 days 00:48:00,2880
 GDI4,28/07/2020 09:53,28/07/2020 10:41,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:48:00,2880
 GDI4,28/07/2020 09:53,28/07/2020 10:41,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:48:00,2880
-LAM28,26/07/2020 12:14,26/07/2020 15:34,Accidental,Normal,"Puente MT Suelto F2, Línea MT Suelta.  Condor S.A.
-Guaranies c/ Dr. Gorostiaga. Línea MT Suelta en
-varios puntos en el Barrio Nazareth. Línea
-preensamblada averiada 2do. tramo. Yasy y Tavapy.",Vista Alegre,0 days 03:20:00,12000
-LAM28,26/07/2020 12:14,26/07/2020 15:34,Accidental,Normal,"Puente MT Suelto F2, Línea MT Suelta.  Condor S.A.
-Guaranies c/ Dr. Gorostiaga. Línea MT Suelta en
-varios puntos en el Barrio Nazareth. Línea
-preensamblada averiada 2do. tramo. Yasy y Tavapy.",Nazareth,0 days 03:20:00,12000
+LAM28,26/07/2020 12:14,26/07/2020 15:34,Accidental,Normal,"Puente MT Suelto F2, Línea MT Suelta.  Condor S.A. Guaranies c/ Dr. Gorostiaga. Línea MT Suelta en varios puntos en el Barrio Nazareth. Línea preensamblada averiada 2do. tramo. Yasy y Tavapy.",Vista Alegre,0 days 03:20:00,12000
+LAM28,26/07/2020 12:14,26/07/2020 15:34,Accidental,Normal,"Puente MT Suelto F2, Línea MT Suelta.  Condor S.A. Guaranies c/ Dr. Gorostiaga. Línea MT Suelta en varios puntos en el Barrio Nazareth. Línea preensamblada averiada 2do. tramo. Yasy y Tavapy.",Nazareth,0 days 03:20:00,12000
 LAM3,23/07/2020 09:05,23/07/2020 09:42,Accidental,Normal,Desperfecto interno. Cooperativa Chortizer.,Vista Alegre,0 days 00:37:00,2220
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",Santa Ana,0 days 00:44:00,2640
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",Itá Enramada,0 days 00:44:00,2640
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",Jukyty,0 days 00:44:00,2640
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",Santa Librada,0 days 00:44:00,2640
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",San Cayetano,0 days 00:44:00,2640
-LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga
-sobre Línea MT.",Pirizal,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",Santa Ana,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",Itá Enramada,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",Jukyty,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",Santa Librada,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",San Cayetano,0 days 00:44:00,2640
+LAM5,23/07/2020 10:25,23/07/2020 11:09,Accidental,Normal,"Fusible operado, lado cervezeria. Cola de pandorga sobre Línea MT.",Pirizal,0 days 00:44:00,2640
 LAM7,5/07/2020 09:40,5/07/2020 10:31,Accidental,Normal,No establecido.,Vista Alegre,0 days 00:51:00,3060
 LAM7,5/07/2020 09:40,5/07/2020 10:31,Accidental,Normal,No establecido.,Pinoza,0 days 00:51:00,3060
 MBU2,26/07/2020 12:51,26/07/2020 13:42,Accidental,Normal,Cruceta MT rota. PE BURGER KING.,Madame Lynch,0 days 00:51:00,3060
@@ -80,23 +56,15 @@ MBU4,22/07/2020 00:59,22/07/2020 01:01,Programado,Normal,"Abierto Interruptor, p
 MBU4,22/07/2020 00:59,22/07/2020 01:01,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",Mburucuyá,0 days 00:02:00,120
 MBU6,4/07/2020 05:24,4/07/2020 16:39,Accidental,Normal,No establecido.,PE JADE (Exclusivo). Mburucuyá,0 days 11:15:00,40500
 PBO20,7/07/2020 18:11,7/07/2020 18:48,Accidental,Adverso,No establecido.,Botánico,0 days 00:37:00,2220
-PBO20,7/07/2020 20:51,7/07/2020 20:53,Accidental,Adverso,Ramas sobre Línea MT en Trujillo y Arellano.
-Aislador averiado en Trujillo y Cuartel de la Victoria.,Botánico,0 days 00:02:00,120
+PBO20,7/07/2020 20:51,7/07/2020 20:53,Accidental,Adverso,Ramas sobre Línea MT en Trujillo y Arellano. Aislador averiado en Trujillo y Cuartel de la Victoria.,Botánico,0 days 00:02:00,120
 PBO21,20/07/2020 16:46,20/07/2020 17:46,Accidental,Normal,Choque por sostén MT. Paso de Fátima y San Juan.,Zeballos Cué,0 days 01:00:00,3600
-PCA6,12/07/2020 01:53,12/07/2020 02:15,Accidental,Normal,Al efectuar maniobras. Aislador Porta Barra averiado.
-PE VISIÓN BANCO.,La Catedral,0 days 00:22:00,1320
-PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por
-sostén MT en Artigas y Gral. Santos.,Banco San Miguel,0 days 00:06:00,360
-PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por
-sostén MT en Artigas y Gral. Santos.,Tablada Nueva,0 days 00:06:00,360
-PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por
-sostén MT en Artigas y Gral. Santos.,Jara,0 days 00:06:00,360
-PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF
-operado. Indias y Blanco Cue.",Banco San Miguel,0 days 00:04:00,240
-PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF
-operado. Indias y Blanco Cue.",Tablada Nueva,0 days 00:04:00,240
-PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF
-operado. Indias y Blanco Cue.",Jara,0 days 00:04:00,240
+PCA6,12/07/2020 01:53,12/07/2020 02:15,Accidental,Normal,Al efectuar maniobras. Aislador Porta Barra averiado. PE VISIÓN BANCO.,La Catedral,0 days 00:22:00,1320
+PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por sostén MT en Artigas y Gral. Santos.,Banco San Miguel,0 days 00:06:00,360
+PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por sostén MT en Artigas y Gral. Santos.,Tablada Nueva,0 days 00:06:00,360
+PCA8,11/07/2020 07:10,11/07/2020 07:16,Accidental,Normal,Cruceta MT rota en Artigas y Kusmanich. Choque por sostén MT en Artigas y Gral. Santos.,Jara,0 days 00:06:00,360
+PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF operado. Indias y Blanco Cue.",Banco San Miguel,0 days 00:04:00,240
+PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF operado. Indias y Blanco Cue.",Tablada Nueva,0 days 00:04:00,240
+PCA8,18/07/2020 16:55,18/07/2020 16:59,Accidental,Normal,"Abierto Interruptor, para efectuar reposición de SF operado. Indias y Blanco Cue.",Jara,0 days 00:04:00,240
 PSA4,7/07/2020 00:42,7/07/2020 00:57,Accidental,Normal,Al intentar cerra Interruptor PSA6.,Ita Pyta Punta,0 days 00:15:00,900
 PSA4,7/07/2020 01:09,7/07/2020 01:11,Programado,Normal,Abierto Interruptor para efectuar maniobras.,Ita Pyta Punta,0 days 00:02:00,120
 PSA5,3/07/2020 18:16,3/07/2020 19:18,Accidental,Normal,SFT averiado. Cmte. Gamarra y Dr. Insfrán.,La Encarnación,0 days 01:02:00,3720
@@ -107,26 +75,17 @@ PSA5,24/07/2020 05:05,24/07/2020 05:21,Accidental,Normal,No establecido.,La Enca
 PSA5,24/07/2020 05:05,24/07/2020 05:21,Accidental,Normal,No establecido.,San Antonio,0 days 00:16:00,960
 PSA5,24/07/2020 05:05,24/07/2020 05:21,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:16:00,960
 PSA5,24/07/2020 05:05,24/07/2020 05:21,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:16:00,960
-PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella
-Marys c/ Tte. Diaz. Puente MT Suelto en el
-Seccionador N° 52519.,San Antonio,0 days 00:59:00,3540
-PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella
-Marys c/ Tte. Diaz. Puente MT Suelto en el
-Seccionador N° 52519.,Ita Pyta Punta,0 days 00:59:00,3540
-PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella
-Marys c/ Tte. Diaz. Puente MT Suelto en el
-Seccionador N° 52519.,Dr. Gaspar Rodríguez de Francia,0 days 00:59:00,3540
+PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella Marys c/ Tte. Diaz. Puente MT Suelto en el Seccionador N° 52519.,San Antonio,0 days 00:59:00,3540
+PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella Marys c/ Tte. Diaz. Puente MT Suelto en el Seccionador N° 52519.,Ita Pyta Punta,0 days 00:59:00,3540
+PSA6,6/07/2020 23:55,7/07/2020 00:54,Accidental,Normal,Línea MT en C.C por cola de pandorga. Avda. Stella Marys c/ Tte. Diaz. Puente MT Suelto en el Seccionador N° 52519.,Dr. Gaspar Rodríguez de Francia,0 days 00:59:00,3540
 PSA6,26/07/2020 10:38,26/07/2020 11:14,Accidental,Normal,Fusible operado. Catolica y G. Arías.,San Antonio,0 days 00:36:00,2160
 PSA6,26/07/2020 10:38,26/07/2020 11:14,Accidental,Normal,Fusible operado. Catolica y G. Arías.,Ita Pyta Punta,0 days 00:36:00,2160
 PSA6,26/07/2020 10:38,26/07/2020 11:14,Accidental,Normal,Fusible operado. Catolica y G. Arías.,Dr. Gaspar Rodríguez de Francia,0 days 00:36:00,2160
-PSA7,11/07/2020 13:49,11/07/2020 14:39,Accidental,Normal,Transformador averiado. Carlos Gómez y Tte.
-Cabello.,Bañado Tacumbu,0 days 00:50:00,3000
-PSA7,11/07/2020 13:49,11/07/2020 14:39,Accidental,Normal,Transformador averiado. Carlos Gómez y Tte.
-Cabello.,Carlos A. López,0 days 00:50:00,3000
+PSA7,11/07/2020 13:49,11/07/2020 14:39,Accidental,Normal,Transformador averiado. Carlos Gómez y Tte. Cabello.,Bañado Tacumbu,0 days 00:50:00,3000
+PSA7,11/07/2020 13:49,11/07/2020 14:39,Accidental,Normal,Transformador averiado. Carlos Gómez y Tte. Cabello.,Carlos A. López,0 days 00:50:00,3000
 PSA8,17/07/2020 17:15,17/07/2020 17:19,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:04:00,240
 REP1,7/07/2020 08:44,07/07/2020 10:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit,0 days 02:00:00,7200
-REP1,8/07/2020 22:55,8/07/2020 22:59,Accidental,Normal,"Al abrir el seccionador 54114, inconvenientes con el
-loadbuster.",Dr. Roberto L. Petit,0 days 00:04:00,240
+REP1,8/07/2020 22:55,8/07/2020 22:59,Accidental,Normal,"Al abrir el seccionador 54114, inconvenientes con el loadbuster.",Dr. Roberto L. Petit,0 days 00:04:00,240
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,Obrero,0 days 02:00:00,7200
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,San Vicente,0 days 02:00:00,7200
@@ -135,53 +94,33 @@ REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,Santa An
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,Jukyty,0 days 02:00:00,7200
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,Santa Librada,0 days 02:00:00,7200
 REP3,6/07/2020 10:40,06/07/2020 12:40,Accidental,Normal,No establecido.,Pirizal,0 days 02:00:00,7200
-REP4,24/07/2020 11:39,24/07/2020 11:48,Accidental,Normal,Corte de energía que afecto a 54 proyectadas.
-Autorizado por el Ingeniero Gabriel Cuevas.,Hipódromo,0 days 00:09:00,540
+REP4,24/07/2020 11:39,24/07/2020 11:48,Accidental,Normal,Corte de energía que afecto a 54 proyectadas. Autorizado por el Ingeniero Gabriel Cuevas.,Hipódromo,0 days 00:09:00,540
 REP6,24/07/2020 10:47,24/07/2020 10:54,Accidental,Normal,Al efectuar maniobras.,San Vicente,0 days 00:07:00,420
 REP6,24/07/2020 10:47,24/07/2020 10:54,Accidental,Normal,Al efectuar maniobras.,Pinoza,0 days 00:07:00,420
 REP6,24/07/2020 10:47,24/07/2020 10:54,Accidental,Normal,Al efectuar maniobras.,Pirizal,0 days 00:07:00,420
-SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y
-Teodoro S. Mongelos.,Pinoza,0 days 00:56:00,3360
-SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y
-Teodoro S. Mongelos.,Gral. Bernardino Caballero,0 days 00:56:00,3360
-SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y
-Teodoro S. Mongelos.,Ciudad Nueva,0 days 00:56:00,3360
-SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de
-Mendoza.,Mburicao,0 days 00:26:00,1560
-SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de
-Mendoza.,Recoleta,0 days 00:26:00,1560
-SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de
-Mendoza.,Mcal. Francisco S. López,0 days 00:26:00,1560
-SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de
-Mendoza.,Gral. Bernardino Caballero,0 days 00:26:00,1560
-SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma
-Aquino y Gonzalo de Mendoza.,Mburicao,0 days 00:02:00,120
-SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma
-Aquino y Gonzalo de Mendoza.,Recoleta,0 days 00:02:00,120
-SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma
-Aquino y Gonzalo de Mendoza.,Mcal. Francisco S. López,0 days 00:02:00,120
-SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma
-Aquino y Gonzalo de Mendoza.,Gral. Bernardino Caballero,0 days 00:02:00,120
-VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C.
-Tte. Solis c/ Cruz de la Sierra.,Los Laureles,0 days 01:09:00,4140
-VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C.
-Tte. Solis c/ Cruz de la Sierra.,Mcal. Estigarribia,0 days 01:09:00,4140
-VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C.
-Tte. Solis c/ Cruz de la Sierra.,Hipódromo,0 days 01:09:00,4140
-VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C.
-Tte. Solis c/ Cruz de la Sierra.,Tembetary,0 days 01:09:00,4140
+SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y Teodoro S. Mongelos.,Pinoza,0 days 00:56:00,3360
+SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y Teodoro S. Mongelos.,Gral. Bernardino Caballero,0 days 00:56:00,3360
+SMI1,6/07/2020 06:55,6/07/2020 07:51,Accidental,Normal,Pájaro en contacto con Línea MT. Gral. Santos y Teodoro S. Mongelos.,Ciudad Nueva,0 days 00:56:00,3360
+SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Mburicao,0 days 00:26:00,1560
+SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Recoleta,0 days 00:26:00,1560
+SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Mcal. Francisco S. López,0 days 00:26:00,1560
+SMI2,5/07/2020 04:02,5/07/2020 04:28,Accidental,Normal,Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Gral. Bernardino Caballero,0 days 00:26:00,1560
+SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Mburicao,0 days 00:02:00,120
+SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Recoleta,0 days 00:02:00,120
+SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Mcal. Francisco S. López,0 days 00:02:00,120
+SMI2,5/07/2020 05:09,5/07/2020 05:11,Accidental,Normal,Abierto Interruptor.- Sostén MT averiado. Telma Aquino y Gonzalo de Mendoza.,Gral. Bernardino Caballero,0 days 00:02:00,120
+VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C. Tte. Solis c/ Cruz de la Sierra.,Los Laureles,0 days 01:09:00,4140
+VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C. Tte. Solis c/ Cruz de la Sierra.,Mcal. Estigarribia,0 days 01:09:00,4140
+VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C. Tte. Solis c/ Cruz de la Sierra.,Hipódromo,0 days 01:09:00,4140
+VAU1,8/07/2020 06:43,8/07/2020 07:52,Accidental,Normal,Transformador N° 72111 averiado. Línea MT en C.C. Tte. Solis c/ Cruz de la Sierra.,Tembetary,0 days 01:09:00,4140
 VAU1,8/07/2020 08:21,8/07/2020 08:24,Accidental,Normal,Al efectuar maniobras.,Los Laureles,0 days 00:03:00,180
 VAU1,8/07/2020 08:21,8/07/2020 08:24,Accidental,Normal,Al efectuar maniobras.,Mcal. Estigarribia,0 days 00:03:00,180
 VAU1,8/07/2020 08:21,8/07/2020 08:24,Accidental,Normal,Al efectuar maniobras.,Hipódromo,0 days 00:03:00,180
 VAU1,8/07/2020 08:21,8/07/2020 08:24,Accidental,Normal,Al efectuar maniobras.,Tembetary,0 days 00:03:00,180
-VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT. Tte. Solís y Santacruz de la Sierra.,Los Laureles,0 days 00:10:00,600
-VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT. Tte. Solís y Santacruz de la Sierra.,Mcal. Estigarribia,0 days 00:10:00,600
-VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT. Tte. Solís y Santacruz de la Sierra.,Hipódromo,0 days 00:10:00,600
-VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de
-puente MT. Tte. Solís y Santacruz de la Sierra.,Tembetary,0 days 00:10:00,600
+VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT. Tte. Solís y Santacruz de la Sierra.,Los Laureles,0 days 00:10:00,600
+VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT. Tte. Solís y Santacruz de la Sierra.,Mcal. Estigarribia,0 days 00:10:00,600
+VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT. Tte. Solís y Santacruz de la Sierra.,Hipódromo,0 days 00:10:00,600
+VAU1,8/07/2020 11:45,8/07/2020 11:55,Programado,Normal,Abierto interruptor para efectuar reparación de puente MT. Tte. Solís y Santacruz de la Sierra.,Tembetary,0 days 00:10:00,600
 VAU14,18/07/2020 17:43,18/07/2020 19:43,Accidental,Normal,Gotera en PD. BP544. Rca. Argentina y Lapacho.,Villa Aurelia,0 days 02:00:00,7200
 VAU14,18/07/2020 17:43,18/07/2020 19:43,Accidental,Normal,Gotera en PD. BP544. Rca. Argentina y Lapacho.,Los Laureles,0 days 02:00:00,7200
 VAU14,18/07/2020 17:43,18/07/2020 19:43,Accidental,Normal,Gotera en PD. BP544. Rca. Argentina y Lapacho.,Hipódromo,0 days 02:00:00,7200
