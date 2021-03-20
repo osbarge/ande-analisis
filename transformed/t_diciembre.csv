@@ -1,473 +1,473 @@
-,PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
-0,BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Bella Vista,0 days 02:00:00,7200
-1,BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Santo Domingo,0 days 02:00:00,7200
-2,BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
-0,BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Bella Vista,0 days 02:00:00,7200
-1,BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Santo Domingo,0 days 02:00:00,7200
-2,BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
-0,BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
+BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Bella Vista,0 days 02:00:00,7200
+BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Santo Domingo,0 days 02:00:00,7200
+BCP2,16/12/2020 08:02,16/12/2020 10:02,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
+BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Bella Vista,0 days 02:00:00,7200
+BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Santo Domingo,0 days 02:00:00,7200
+BCP2,16/12/2020 08:05,16/12/2020 10:05,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
+BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. RTU N° 25065.,Bella Vista,0 days 00:56:00,3360
-1,BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
+BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. RTU N° 25065.,Santo Domingo,0 days 00:56:00,3360
-2,BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
+BCP2,16/12/2020 09:04,16/12/2020 10:00,Programado,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. RTU N° 25065.,Manorá,0 days 00:56:00,3360
-0,BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Las Carmelitas,0 days 02:00:00,7200
-1,BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Villa Morra,0 days 02:00:00,7200
-2,BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
-0,BMO1,4/12/2020 22:33,4/12/2020 22:43,Accidental,Normal,Puente MT Suelto. Florida y Virgen de Caacupe.
+BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Las Carmelitas,0 days 02:00:00,7200
+BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Villa Morra,0 days 02:00:00,7200
+BCP3,14/12/2020 14:48,14/12/2020 16:48,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
+BMO1,4/12/2020 22:33,4/12/2020 22:43,Accidental,Normal,Puente MT Suelto. Florida y Virgen de Caacupe.
 Línea desprendida del aislador.,Itay,0 days 00:10:00,600
-1,BMO1,4/12/2020 22:33,4/12/2020 22:43,Accidental,Normal,Puente MT Suelto. Florida y Virgen de Caacupe.
+BMO1,4/12/2020 22:33,4/12/2020 22:43,Accidental,Normal,Puente MT Suelto. Florida y Virgen de Caacupe.
 Línea desprendida del aislador.,San Jorge,0 days 00:10:00,600
-0,BMO1,10/12/2020 01:22,10/12/2020 01:58,Accidental,Normal,Transformador Averiado. Insauralde y Cerro Corá.,Itay,0 days 00:36:00,2160
-1,BMO1,10/12/2020 01:22,10/12/2020 01:58,Accidental,Normal,Transformador Averiado. Insauralde y Cerro Corá.,San Jorge,0 days 00:36:00,2160
-0,BMO2,7/12/2020 07:19,7/12/2020 07:30,Accidental,Normal,Al efectuar maniobras.,Itay,0 days 00:11:00,660
-0,BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 02:00:00,7200
-1,BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,San Cristóbal,0 days 02:00:00,7200
-2,BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,San Jorge,0 days 02:00:00,7200
-0,BPA3,8/12/2020 23:17,8/12/2020 23:19,Programado,Normal,Alivio de Carga 10 MW. MEMO DD/DCC1/328/2020.,San Cristóbal,0 days 00:02:00,120
-0,BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,Itay,0 days 00:23:00,1380
-1,BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,Ykua Sati,0 days 00:23:00,1380
-2,BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,San Jorge,0 days 00:23:00,1380
-0,BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay,0 days 01:45:00,6300
-1,BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Ykua Sati,0 days 01:45:00,6300
-2,BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,San Jorge,0 days 01:45:00,6300
-0,BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
+BMO1,10/12/2020 01:22,10/12/2020 01:58,Accidental,Normal,Transformador Averiado. Insauralde y Cerro Corá.,Itay,0 days 00:36:00,2160
+BMO1,10/12/2020 01:22,10/12/2020 01:58,Accidental,Normal,Transformador Averiado. Insauralde y Cerro Corá.,San Jorge,0 days 00:36:00,2160
+BMO2,7/12/2020 07:19,7/12/2020 07:30,Accidental,Normal,Al efectuar maniobras.,Itay,0 days 00:11:00,660
+BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 02:00:00,7200
+BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,San Cristóbal,0 days 02:00:00,7200
+BPA12,13/12/2020 18:46,13/12/2020 20:46,Accidental,Adverso,Condiciones Climáticas Adversas.,San Jorge,0 days 02:00:00,7200
+BPA3,8/12/2020 23:17,8/12/2020 23:19,Programado,Normal,Alivio de Carga 10 MW. MEMO DD/DCC1/328/2020.,San Cristóbal,0 days 00:02:00,120
+BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,Itay,0 days 00:23:00,1380
+BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,Ykua Sati,0 days 00:23:00,1380
+BPA6,2/12/2020 21:16,2/12/2020 21:39,Accidental,Normal,No establecido.,San Jorge,0 days 00:23:00,1380
+BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Itay,0 days 01:45:00,6300
+BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,Ykua Sati,0 days 01:45:00,6300
+BPA6,13/12/2020 18:14,13/12/2020 19:59,Accidental,Adverso,Condiciones Climáticas Adversas.,San Jorge,0 days 01:45:00,6300
+BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
 puente MT suelto F3. SLT N° 51261. Reparación en
 forma provisoria.,Itay,0 days 00:37:00,2220
-1,BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
+BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
 puente MT suelto F3. SLT N° 51261. Reparación en
 forma provisoria.,Ykua Sati,0 days 00:37:00,2220
-2,BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
+BPA6,13/12/2020 20:15,13/12/2020 20:52,Accidental,Adverso,Abierto interruptor  para efectuar reparación de
 puente MT suelto F3. SLT N° 51261. Reparación en
 forma provisoria.,San Jorge,0 days 00:37:00,2220
-0,BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
+BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
 BPA2.,San Cristóbal,0 days 00:33:00,1980
-1,BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
+BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
 BPA2.,Villa Morra,0 days 00:33:00,1980
-2,BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
+BPA7,24/12/2020 05:32,24/12/2020 06:05,Accidental,Normal,Incendio en la Celda 23kV. Transferencia sobre
 BPA2.,Ykua Sati,0 days 00:33:00,1980
-0,CEN3,27/12/2020 01:30,27/12/2020 03:13,Accidental,Normal,Tramo subterráneo averiado. Primer tramo.,La Catedral,0 days 01:43:00,6180
-1,CEN3,27/12/2020 01:30,27/12/2020 03:13,Accidental,Normal,Tramo subterráneo averiado. Primer tramo.,La Encarnación,0 days 01:43:00,6180
-0,CEN4,1/12/2020 17:40,1/12/2020 17:42,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:02:00,120
-0,CEN6,19/12/2020 18:58,19/12/2020 19:49,Accidental,Normal,Agua en PD. Edificio Libster.,La Encarnación,0 days 00:51:00,3060
-1,CEN6,19/12/2020 18:58,19/12/2020 19:49,Accidental,Normal,Agua en PD. Edificio Libster.,La Catedral,0 days 00:51:00,3060
-0,FDM2,16/12/2020 15:54,16/12/2020 17:54,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
-0,FDM3,26/12/2020 21:30,26/12/2020 22:44,Accidental,Normal,Columna inclinada.,San Pablo,0 days 01:14:00,4440
-0,FDM3,30/12/2020 04:43,30/12/2020 04:53,Accidental,Normal,Puente MT suelto. Acometida a Pechugón.,San Pablo,0 days 00:10:00,600
-0,FDM3,30/12/2020 08:40,30/12/2020 08:48,Accidental,Normal,Abierto interruptor para efectuar reparación de
+CEN3,27/12/2020 01:30,27/12/2020 03:13,Accidental,Normal,Tramo subterráneo averiado. Primer tramo.,La Catedral,0 days 01:43:00,6180
+CEN3,27/12/2020 01:30,27/12/2020 03:13,Accidental,Normal,Tramo subterráneo averiado. Primer tramo.,La Encarnación,0 days 01:43:00,6180
+CEN4,1/12/2020 17:40,1/12/2020 17:42,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:02:00,120
+CEN6,19/12/2020 18:58,19/12/2020 19:49,Accidental,Normal,Agua en PD. Edificio Libster.,La Encarnación,0 days 00:51:00,3060
+CEN6,19/12/2020 18:58,19/12/2020 19:49,Accidental,Normal,Agua en PD. Edificio Libster.,La Catedral,0 days 00:51:00,3060
+FDM2,16/12/2020 15:54,16/12/2020 17:54,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
+FDM3,26/12/2020 21:30,26/12/2020 22:44,Accidental,Normal,Columna inclinada.,San Pablo,0 days 01:14:00,4440
+FDM3,30/12/2020 04:43,30/12/2020 04:53,Accidental,Normal,Puente MT suelto. Acometida a Pechugón.,San Pablo,0 days 00:10:00,600
+FDM3,30/12/2020 08:40,30/12/2020 08:48,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. Dentro del Mercado de Abasto.,San Pablo,0 days 00:08:00,480
-0,GDI1,13/12/2020 09:54,13/12/2020 09:55,Accidental,Adverso,Al efectuar maniobras.,Gral. J. E Diaz,0 days 00:01:00,60
-1,GDI1,13/12/2020 09:54,13/12/2020 09:55,Accidental,Adverso,Al efectuar maniobras.,Obrero,0 days 00:01:00,60
-0,GDI1,16/12/2020 08:19,16/12/2020 08:47,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:28:00,1680
-1,GDI1,16/12/2020 08:19,16/12/2020 08:47,Accidental,Normal,No establecido.,Obrero,0 days 00:28:00,1680
-0,GDI2,4/12/2020 10:05,4/12/2020 11:25,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 01:20:00,4800
-1,GDI2,4/12/2020 10:05,4/12/2020 11:25,Accidental,Normal,No establecido.,Obrero,0 days 01:20:00,4800
-0,GDI3,4/12/2020 10:05,4/12/2020 11:10,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 01:05:00,3900
-0,GDI3,17/12/2020 07:28,17/12/2020 07:30,Accidental,Normal,Al efectuar maniobras.,Gral. J. E Diaz,0 days 00:02:00,120
-0,GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Obrero,0 days 00:29:00,1740
-1,GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:29:00,1740
-2,GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:29:00,1740
-0,LAM10,31/12/2020 07:21,31/12/2020 07:38,Accidental,Normal,No establecido.,Terminal,0 days 00:17:00,1020
-0,LAM15,2/12/2020 19:46,2/12/2020 19:49,Accidental,Normal,Al efectuar maniobras.,Itá Enramada,0 days 00:03:00,180
-0,LAM22,13/12/2020 08:27,13/12/2020 08:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 00:24:00,1440
-1,LAM22,13/12/2020 08:27,13/12/2020 08:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Terminal,0 days 00:24:00,1440
-0,LAM23,2/12/2020 10:24,2/12/2020 10:43,Accidental,Normal,Línea MT en contacto con AP. G. Mendoza y
+GDI1,13/12/2020 09:54,13/12/2020 09:55,Accidental,Adverso,Al efectuar maniobras.,Gral. J. E Diaz,0 days 00:01:00,60
+GDI1,13/12/2020 09:54,13/12/2020 09:55,Accidental,Adverso,Al efectuar maniobras.,Obrero,0 days 00:01:00,60
+GDI1,16/12/2020 08:19,16/12/2020 08:47,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:28:00,1680
+GDI1,16/12/2020 08:19,16/12/2020 08:47,Accidental,Normal,No establecido.,Obrero,0 days 00:28:00,1680
+GDI2,4/12/2020 10:05,4/12/2020 11:25,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 01:20:00,4800
+GDI2,4/12/2020 10:05,4/12/2020 11:25,Accidental,Normal,No establecido.,Obrero,0 days 01:20:00,4800
+GDI3,4/12/2020 10:05,4/12/2020 11:10,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 01:05:00,3900
+GDI3,17/12/2020 07:28,17/12/2020 07:30,Accidental,Normal,Al efectuar maniobras.,Gral. J. E Diaz,0 days 00:02:00,120
+GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Obrero,0 days 00:29:00,1740
+GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:29:00,1740
+GDI4,24/12/2020 13:31,24/12/2020 14:00,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:29:00,1740
+LAM10,31/12/2020 07:21,31/12/2020 07:38,Accidental,Normal,No establecido.,Terminal,0 days 00:17:00,1020
+LAM15,2/12/2020 19:46,2/12/2020 19:49,Accidental,Normal,Al efectuar maniobras.,Itá Enramada,0 days 00:03:00,180
+LAM22,13/12/2020 08:27,13/12/2020 08:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 00:24:00,1440
+LAM22,13/12/2020 08:27,13/12/2020 08:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Terminal,0 days 00:24:00,1440
+LAM23,2/12/2020 10:24,2/12/2020 10:43,Accidental,Normal,Línea MT en contacto con AP. G. Mendoza y
 Arsenales.,Mburicao,0 days 00:19:00,1140
-0,LAM3,26/12/2020 11:42,26/12/2020 11:44,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",Vista Alegre,0 days 00:02:00,120
-0,LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Santa Librada,0 days 01:18:00,4680
-1,LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Itá Enramada,0 days 01:18:00,4680
-2,LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Pirizal,0 days 01:18:00,4680
-0,LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Santa Librada,0 days 00:59:00,3540
-1,LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:59:00,3540
-2,LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Pirizal,0 days 00:59:00,3540
-0,LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Santa Librada,0 days 00:25:00,1500
-1,LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Itá Enramada,0 days 00:25:00,1500
-2,LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Pirizal,0 days 00:25:00,1500
-0,LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Santa Librada,0 days 00:05:00,300
-1,LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Itá Enramada,0 days 00:05:00,300
-2,LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Pirizal,0 days 00:05:00,300
-0,LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
+LAM3,26/12/2020 11:42,26/12/2020 11:44,Programado,Normal,"Abierto Interruptor, para efectuar maniobras.",Vista Alegre,0 days 00:02:00,120
+LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Santa Librada,0 days 01:18:00,4680
+LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Itá Enramada,0 days 01:18:00,4680
+LAM5,2/12/2020 12:41,2/12/2020 13:59,Accidental,Normal,Verificado Reclamo por explosión.,Pirizal,0 days 01:18:00,4680
+LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Santa Librada,0 days 00:59:00,3540
+LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:59:00,3540
+LAM5,2/12/2020 14:00,2/12/2020 14:59,Accidental,Normal,No establecido.,Pirizal,0 days 00:59:00,3540
+LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Santa Librada,0 days 00:25:00,1500
+LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Itá Enramada,0 days 00:25:00,1500
+LAM5,5/12/2020 14:45,5/12/2020 15:10,Accidental,Normal,Puente MT suelto. L.M. Argaña y Ezequiel Gonzalez.,Pirizal,0 days 00:25:00,1500
+LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Santa Librada,0 days 00:05:00,300
+LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Itá Enramada,0 days 00:05:00,300
+LAM5,5/12/2020 20:55,5/12/2020 21:00,Accidental,Normal,Desperfecto interno. Argaña y E. Gonzalez.,Pirizal,0 days 00:05:00,300
+LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
 Palmas. Acometida Estación de Servicio. Las
 Palmas y 1° de Marzo.",Santa Librada,0 days 00:43:00,2580
-1,LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
+LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
 Palmas. Acometida Estación de Servicio. Las
 Palmas y 1° de Marzo.",Itá Enramada,0 days 00:43:00,2580
-2,LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
+LAM5,6/12/2020 01:08,6/12/2020 01:51,Accidental,Normal,"Desperfecto Interno. L.M. Argaña y E. Gonzalez, Las
 Palmas. Acometida Estación de Servicio. Las
 Palmas y 1° de Marzo.",Pirizal,0 days 00:43:00,2580
-0,LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
+LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
 servicio no establecido.,Santa Librada,0 days 00:33:00,1980
-1,LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
+LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
 servicio no establecido.,Itá Enramada,0 days 00:33:00,1980
-2,LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
+LAM5,22/12/2020 10:30,22/12/2020 11:03,Accidental,Normal,Constatado por reclamos. Horario de fuera de
 servicio no establecido.,Pirizal,0 days 00:33:00,1980
-0,LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Santa Librada,0 days 00:34:00,2040
-1,LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:34:00,2040
-2,LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Pirizal,0 days 00:34:00,2040
-0,LAM7,2/12/2020 20:44,2/12/2020 22:43,Accidental,Normal,No establecido.,Vista Alegre,0 days 01:59:00,7140
-1,LAM7,2/12/2020 20:44,2/12/2020 22:43,Accidental,Normal,No establecido.,Pinoza,0 days 01:59:00,7140
-0,LAM7,2/12/2020 22:45,3/12/2020 00:38,Accidental,Normal,Puente MT suelto en Seccionador S/N°. s/ Incas e/
+LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Santa Librada,0 days 00:34:00,2040
+LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Itá Enramada,0 days 00:34:00,2040
+LAM5,22/12/2020 16:38,22/12/2020 17:12,Accidental,Normal,No establecido.,Pirizal,0 days 00:34:00,2040
+LAM7,2/12/2020 20:44,2/12/2020 22:43,Accidental,Normal,No establecido.,Vista Alegre,0 days 01:59:00,7140
+LAM7,2/12/2020 20:44,2/12/2020 22:43,Accidental,Normal,No establecido.,Pinoza,0 days 01:59:00,7140
+LAM7,2/12/2020 22:45,3/12/2020 00:38,Accidental,Normal,Puente MT suelto en Seccionador S/N°. s/ Incas e/
 Richarson y Panini.,Vista Alegre,0 days 01:53:00,6780
-1,LAM7,2/12/2020 22:45,3/12/2020 00:38,Accidental,Normal,Puente MT suelto en Seccionador S/N°. s/ Incas e/
+LAM7,2/12/2020 22:45,3/12/2020 00:38,Accidental,Normal,Puente MT suelto en Seccionador S/N°. s/ Incas e/
 Richarson y Panini.,Pinoza,0 days 01:53:00,6780
-0,LAM7,8/12/2020 07:05,8/12/2020 07:23,Accidental,Normal,No establecido.,Vista Alegre,0 days 00:18:00,1080
-1,LAM7,8/12/2020 07:05,8/12/2020 07:23,Accidental,Normal,No establecido.,Pinoza,0 days 00:18:00,1080
-0,LAM7,13/12/2020 18:44,13/12/2020 20:08,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre,0 days 01:24:00,5040
-1,LAM7,13/12/2020 18:44,13/12/2020 20:08,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 01:24:00,5040
-0,LAM7,20/12/2020 00:41,20/12/2020 00:46,Accidental,Adverso,No establecido.,Vista Alegre,0 days 00:05:00,300
-1,LAM7,20/12/2020 00:41,20/12/2020 00:46,Accidental,Adverso,No establecido.,Pinoza,0 days 00:05:00,300
-0,LAM7,20/12/2020 10:33,20/12/2020 10:46,Programado,Adverso,Abierto interruptor para efectuar reparación de
+LAM7,8/12/2020 07:05,8/12/2020 07:23,Accidental,Normal,No establecido.,Vista Alegre,0 days 00:18:00,1080
+LAM7,8/12/2020 07:05,8/12/2020 07:23,Accidental,Normal,No establecido.,Pinoza,0 days 00:18:00,1080
+LAM7,13/12/2020 18:44,13/12/2020 20:08,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre,0 days 01:24:00,5040
+LAM7,13/12/2020 18:44,13/12/2020 20:08,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 01:24:00,5040
+LAM7,20/12/2020 00:41,20/12/2020 00:46,Accidental,Adverso,No establecido.,Vista Alegre,0 days 00:05:00,300
+LAM7,20/12/2020 00:41,20/12/2020 00:46,Accidental,Adverso,No establecido.,Pinoza,0 days 00:05:00,300
+LAM7,20/12/2020 10:33,20/12/2020 10:46,Programado,Adverso,Abierto interruptor para efectuar reparación de
 puente MT suelto F2. SLT  N° 51857,Vista Alegre,0 days 00:13:00,780
-1,LAM7,20/12/2020 10:33,20/12/2020 10:46,Programado,Adverso,Abierto interruptor para efectuar reparación de
+LAM7,20/12/2020 10:33,20/12/2020 10:46,Programado,Adverso,Abierto interruptor para efectuar reparación de
 puente MT suelto F2. SLT  N° 51857,Pinoza,0 days 00:13:00,780
-0,MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Las Carmelitas,0 days 02:00:00,7200
-1,MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
-2,MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
-0,MBU2,3/12/2020 03:40,3/12/2020 04:50,Accidental,Normal,No establecido.,Madame Lynch,0 days 01:10:00,4200
-1,MBU2,3/12/2020 03:40,3/12/2020 04:50,Accidental,Normal,No establecido.,Mburucuyá,0 days 01:10:00,4200
-0,MBU2,3/12/2020 05:01,3/12/2020 05:47,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:46:00,2760
-1,MBU2,3/12/2020 05:01,3/12/2020 05:47,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:46:00,2760
-0,MBU2,3/12/2020 05:48,3/12/2020 06:04,Accidental,Normal,Rama de palmera en contacto con línea MT.
+MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Las Carmelitas,0 days 02:00:00,7200
+MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
+MBU1,16/12/2020 08:42,16/12/2020 10:42,Accidental,Normal,No establecido.,Manorá,0 days 02:00:00,7200
+MBU2,3/12/2020 03:40,3/12/2020 04:50,Accidental,Normal,No establecido.,Madame Lynch,0 days 01:10:00,4200
+MBU2,3/12/2020 03:40,3/12/2020 04:50,Accidental,Normal,No establecido.,Mburucuyá,0 days 01:10:00,4200
+MBU2,3/12/2020 05:01,3/12/2020 05:47,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:46:00,2760
+MBU2,3/12/2020 05:01,3/12/2020 05:47,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:46:00,2760
+MBU2,3/12/2020 05:48,3/12/2020 06:04,Accidental,Normal,Rama de palmera en contacto con línea MT.
 Aguararagué y Tte. Velazquez. Puente MT suelto en
 el Seccionador N° 55532.,Madame Lynch,0 days 00:16:00,960
-1,MBU2,3/12/2020 05:48,3/12/2020 06:04,Accidental,Normal,Rama de palmera en contacto con línea MT.
+MBU2,3/12/2020 05:48,3/12/2020 06:04,Accidental,Normal,Rama de palmera en contacto con línea MT.
 Aguararagué y Tte. Velazquez. Puente MT suelto en
 el Seccionador N° 55532.,Mburucuyá,0 days 00:16:00,960
-0,MBU2,3/12/2020 09:20,3/12/2020 09:36,Accidental,Normal,Al efectuar maniobras.,Madame Lynch,0 days 00:16:00,960
-1,MBU2,3/12/2020 09:20,3/12/2020 09:36,Accidental,Normal,Al efectuar maniobras.,Mburucuyá,0 days 00:16:00,960
-0,MBU2,3/12/2020 09:55,03/12/2020 11:55,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
-1,MBU2,3/12/2020 09:55,03/12/2020 11:55,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
-0,MBU2,27/12/2020 17:10,27/12/2020 19:10,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
-1,MBU2,27/12/2020 17:10,27/12/2020 19:10,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
-0,MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Las Carmelitas,0 days 00:50:00,3000
-1,MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:50:00,3000
-2,MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:50:00,3000
-0,MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:14:00,840
-1,MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:14:00,840
-2,MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:14:00,840
-3,MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:14:00,840
-0,MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:19:00,1140
-1,MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:19:00,1140
-2,MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:19:00,1140
-3,MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:19:00,1140
-0,MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:14:00,840
-1,MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:14:00,840
-2,MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:14:00,840
-3,MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:14:00,840
-0,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:42:00,2520
-1,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:42:00,2520
-2,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:42:00,2520
-3,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:42:00,2520
-4,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:42:00,2520
-5,MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:42:00,2520
-0,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Santísima Trinidad,0 days 01:25:00,5100
-1,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Madame Lynch,0 days 01:25:00,5100
-2,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Mbocayaty,0 days 01:25:00,5100
-3,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Ñu Guasu,0 days 01:25:00,5100
-4,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 01:25:00,5100
-5,MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburucuyá,0 days 01:25:00,5100
-0,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 02:00:00,7200
-1,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
-2,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Mbocayaty,0 days 02:00:00,7200
-3,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Ñu Guasu,0 days 02:00:00,7200
-4,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 02:00:00,7200
-5,MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
-0,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:31:00,1860
-1,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:31:00,1860
-2,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:31:00,1860
-3,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:31:00,1860
-4,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:31:00,1860
-5,MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:31:00,1860
-0,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Santísima Trinidad,0 days 00:08:00,480
-1,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Madame Lynch,0 days 00:08:00,480
-2,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Mbocayaty,0 days 00:08:00,480
-3,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Ñu Guasu,0 days 00:08:00,480
-4,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Salvador del Mundo,0 days 00:08:00,480
-5,MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Mburucuyá,0 days 00:08:00,480
-0,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Santísima Trinidad,0 days 02:00:00,7200
-1,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Madame Lynch,0 days 02:00:00,7200
-2,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Mbocayaty,0 days 02:00:00,7200
-3,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Ñu Guasu,0 days 02:00:00,7200
-4,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 02:00:00,7200
-5,MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Mburucuyá,0 days 02:00:00,7200
-0,MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:10:00,600
-1,MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:10:00,600
-2,MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,San Blas,0 days 00:10:00,600
-0,MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,Loma Pyta,0 days 00:46:00,2760
-1,MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 00:46:00,2760
-2,MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,San Blas,0 days 00:46:00,2760
-0,MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:10:00,600
-1,MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:10:00,600
-2,MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,San Blas,0 days 00:10:00,600
-0,MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,Loma Pyta,0 days 00:34:00,2040
-1,MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,Zeballos Cué,0 days 00:34:00,2040
-2,MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,San Blas,0 days 00:34:00,2040
-0,MRA11,3/12/2020 03:37,3/12/2020 03:53,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:16:00,960
-0,MRA11,25/12/2020 14:46,25/12/2020 16:46,Accidental,Normal,No establecido.,Loma Pyta,0 days 02:00:00,7200
-0,PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Santa Rosa,0 days 05:50:00,21000
-1,PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Virgen de la Asunción,0 days 05:50:00,21000
-2,PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Cañada Ybyray,0 days 05:50:00,21000
-3,PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 05:50:00,21000
-4,PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Bañado Cará Cará,0 days 05:50:00,21000
-0,PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
+MBU2,3/12/2020 09:20,3/12/2020 09:36,Accidental,Normal,Al efectuar maniobras.,Madame Lynch,0 days 00:16:00,960
+MBU2,3/12/2020 09:20,3/12/2020 09:36,Accidental,Normal,Al efectuar maniobras.,Mburucuyá,0 days 00:16:00,960
+MBU2,3/12/2020 09:55,03/12/2020 11:55,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
+MBU2,3/12/2020 09:55,03/12/2020 11:55,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
+MBU2,27/12/2020 17:10,27/12/2020 19:10,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
+MBU2,27/12/2020 17:10,27/12/2020 19:10,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
+MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Las Carmelitas,0 days 00:50:00,3000
+MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:50:00,3000
+MBU3,16/12/2020 10:45,16/12/2020 11:35,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:50:00,3000
+MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:14:00,840
+MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:14:00,840
+MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:14:00,840
+MBU4,1/12/2020 08:10,1/12/2020 08:24,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:14:00,840
+MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:19:00,1140
+MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:19:00,1140
+MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:19:00,1140
+MBU4,5/12/2020 16:48,5/12/2020 17:07,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:19:00,1140
+MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:14:00,840
+MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:14:00,840
+MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:14:00,840
+MBU4,15/12/2020 12:47,15/12/2020 13:01,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:14:00,840
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:42:00,2520
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:42:00,2520
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:42:00,2520
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:42:00,2520
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:42:00,2520
+MBU5,2/12/2020 21:19,2/12/2020 22:01,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:42:00,2520
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Santísima Trinidad,0 days 01:25:00,5100
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Madame Lynch,0 days 01:25:00,5100
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Mbocayaty,0 days 01:25:00,5100
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Ñu Guasu,0 days 01:25:00,5100
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 01:25:00,5100
+MBU5,13/12/2020 08:44,13/12/2020 10:09,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburucuyá,0 days 01:25:00,5100
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 02:00:00,7200
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Mbocayaty,0 days 02:00:00,7200
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Ñu Guasu,0 days 02:00:00,7200
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 02:00:00,7200
+MBU5,14/12/2020 19:10,14/12/2020 21:10,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:31:00,1860
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:31:00,1860
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:31:00,1860
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:31:00,1860
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:31:00,1860
+MBU5,16/12/2020 10:25,16/12/2020 10:56,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:31:00,1860
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Santísima Trinidad,0 days 00:08:00,480
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Madame Lynch,0 days 00:08:00,480
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Mbocayaty,0 days 00:08:00,480
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Ñu Guasu,0 days 00:08:00,480
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Salvador del Mundo,0 days 00:08:00,480
+MBU5,16/12/2020 11:00,16/12/2020 11:08,Accidental,Normal,SLT averiado. Itapua y 1° Presidente.,Mburucuyá,0 days 00:08:00,480
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Santísima Trinidad,0 days 02:00:00,7200
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Madame Lynch,0 days 02:00:00,7200
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Mbocayaty,0 days 02:00:00,7200
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Ñu Guasu,0 days 02:00:00,7200
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Salvador del Mundo,0 days 02:00:00,7200
+MBU5,20/12/2020 03:48,20/12/2020 05:48,Accidental,Adverso.,Condiciones Climáticas Adversas.,Mburucuyá,0 days 02:00:00,7200
+MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:10:00,600
+MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:10:00,600
+MRA1,9/12/2020 13:37,9/12/2020 13:47,Accidental,Normal,No establecido.,San Blas,0 days 00:10:00,600
+MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,Loma Pyta,0 days 00:46:00,2760
+MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 00:46:00,2760
+MRA1,13/12/2020 07:39,13/12/2020 08:25,Accidental,Adverso,Condiciones Climáticas Adversas.,San Blas,0 days 00:46:00,2760
+MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:10:00,600
+MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:10:00,600
+MRA1,17/12/2020 03:58,17/12/2020 04:08,Accidental,Normal,No establecido.,San Blas,0 days 00:10:00,600
+MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,Loma Pyta,0 days 00:34:00,2040
+MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,Zeballos Cué,0 days 00:34:00,2040
+MRA1,26/12/2020 08:07,26/12/2020 08:41,Accidental,Normal,Transformador averiado. Mcal. López y Acosta Ñu.,San Blas,0 days 00:34:00,2040
+MRA11,3/12/2020 03:37,3/12/2020 03:53,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:16:00,960
+MRA11,25/12/2020 14:46,25/12/2020 16:46,Accidental,Normal,No establecido.,Loma Pyta,0 days 02:00:00,7200
+PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Santa Rosa,0 days 05:50:00,21000
+PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Virgen de la Asunción,0 days 05:50:00,21000
+PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Cañada Ybyray,0 days 05:50:00,21000
+PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 05:50:00,21000
+PBO1,13/12/2020 18:01,13/12/2020 23:51,Accidental,Adverso,Condiciones Climáticas Adversas.,Bañado Cará Cará,0 days 05:50:00,21000
+PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. Seccionador N° 54147. Carga
 Transferida sobre el PBO-14.,Bañado Cará Cará,0 days 01:15:00,4500
-1,PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
+PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. Seccionador N° 54147. Carga
 Transferida sobre el PBO-14.,Botánico,0 days 01:15:00,4500
-2,PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
+PBO10,1/12/2020 15:26,1/12/2020 16:41,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. Seccionador N° 54147. Carga
 Transferida sobre el PBO-14.,Santa Rosa,0 days 01:15:00,4500
-0,PBO14,2/12/2020 21:11,2/12/2020 21:50,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:39:00,2340
-0,PBO14,24/12/2020 19:55,24/12/2020 20:41,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:46:00,2760
-0,PBO20,4/12/2020 12:22,4/12/2020 13:10,Accidental,Normal,No establecido.,Botánico,0 days 00:48:00,2880
-0,PBO20,13/12/2020 07:39,13/12/2020 08:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 01:05:00,3900
-0,PBO20,13/12/2020 17:55,13/12/2020 21:20,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 03:25:00,12300
-0,PBO21,16/12/2020 05:28,16/12/2020 05:41,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 00:13:00,780
-0,PBO24,24/12/2020 07:33,24/12/2020 08:17,Accidental,Normal,Ramas sobre Línea MT. Acahay y Loma Vistosa.,Mbocayaty,0 days 00:44:00,2640
-1,PBO24,24/12/2020 07:33,24/12/2020 08:17,Accidental,Normal,Ramas sobre Línea MT. Acahay y Loma Vistosa.,Loma Pyta,0 days 00:44:00,2640
-0,PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:17:00,1020
-1,PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Virgen de la Asunción,0 days 00:17:00,1020
-2,PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Cañada Ybyray,0 days 00:17:00,1020
-3,PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Bañado Cará Cará,0 days 00:17:00,1020
-0,PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
+PBO14,2/12/2020 21:11,2/12/2020 21:50,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:39:00,2340
+PBO14,24/12/2020 19:55,24/12/2020 20:41,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:46:00,2760
+PBO20,4/12/2020 12:22,4/12/2020 13:10,Accidental,Normal,No establecido.,Botánico,0 days 00:48:00,2880
+PBO20,13/12/2020 07:39,13/12/2020 08:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 01:05:00,3900
+PBO20,13/12/2020 17:55,13/12/2020 21:20,Accidental,Adverso,Condiciones Climáticas Adversas.,Botánico,0 days 03:25:00,12300
+PBO21,16/12/2020 05:28,16/12/2020 05:41,Accidental,Adverso,Condiciones Climáticas Adversas.,Zeballos Cué,0 days 00:13:00,780
+PBO24,24/12/2020 07:33,24/12/2020 08:17,Accidental,Normal,Ramas sobre Línea MT. Acahay y Loma Vistosa.,Mbocayaty,0 days 00:44:00,2640
+PBO24,24/12/2020 07:33,24/12/2020 08:17,Accidental,Normal,Ramas sobre Línea MT. Acahay y Loma Vistosa.,Loma Pyta,0 days 00:44:00,2640
+PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:17:00,1020
+PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Virgen de la Asunción,0 days 00:17:00,1020
+PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Cañada Ybyray,0 days 00:17:00,1020
+PBO6,9/12/2020 12:06,9/12/2020 12:23,Accidental,Normal,No establecido.,Bañado Cará Cará,0 days 00:17:00,1020
+PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
 Trinidad. 2- Línea MT suelta. sobre RTU N° 51732
 P.Peña. Costado de IPS Central.,Santísima Trinidad,0 days 00:24:00,1440
-1,PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
+PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
 Trinidad. 2- Línea MT suelta. sobre RTU N° 51732
 P.Peña. Costado de IPS Central.,Virgen de la Asunción,0 days 00:24:00,1440
-2,PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
+PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
 Trinidad. 2- Línea MT suelta. sobre RTU N° 51732
 P.Peña. Costado de IPS Central.,Cañada Ybyray,0 days 00:24:00,1440
-3,PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
+PBO6,9/12/2020 12:33,9/12/2020 12:57,Accidental,Normal,1- SLT N° 25772 averiado. T. Rojas y Santísima
 Trinidad. 2- Línea MT suelta. sobre RTU N° 51732
 P.Peña. Costado de IPS Central.,Bañado Cará Cará,0 days 00:24:00,1440
-0,PCA1,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,San Roque,0 days 00:10:00,600
-1,PCA1,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
-0,PCA11,13/12/2020 17:52,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Barrio Ricargo Brugada.,Ricardo Brugada,0 days 02:13:00,7980
-1,PCA11,13/12/2020 17:52,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Barrio Ricargo Brugada.,San Felipe,0 days 02:13:00,7980
-0,PCA11,29/12/2020 23:23,29/12/2020 23:28,Accidental,Normal,Transformador averiado. Barrio Ricardo Brugada.,Ricardo Brugada,0 days 00:05:00,300
-1,PCA11,29/12/2020 23:23,29/12/2020 23:28,Accidental,Normal,Transformador averiado. Barrio Ricardo Brugada.,San Felipe,0 days 00:05:00,300
-0,PCA11,31/12/2020 12:41,31/12/2020 13:07,Accidental,Normal,"Choque por sostén MT. Gondra, entrada a
+PCA1,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,San Roque,0 days 00:10:00,600
+PCA1,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
+PCA11,13/12/2020 17:52,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Barrio Ricargo Brugada.,Ricardo Brugada,0 days 02:13:00,7980
+PCA11,13/12/2020 17:52,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Barrio Ricargo Brugada.,San Felipe,0 days 02:13:00,7980
+PCA11,29/12/2020 23:23,29/12/2020 23:28,Accidental,Normal,Transformador averiado. Barrio Ricardo Brugada.,Ricardo Brugada,0 days 00:05:00,300
+PCA11,29/12/2020 23:23,29/12/2020 23:28,Accidental,Normal,Transformador averiado. Barrio Ricardo Brugada.,San Felipe,0 days 00:05:00,300
+PCA11,31/12/2020 12:41,31/12/2020 13:07,Accidental,Normal,"Choque por sostén MT. Gondra, entrada a
 Pelopincho.",Ricardo Brugada,0 days 00:26:00,1560
-1,PCA11,31/12/2020 12:41,31/12/2020 13:07,Accidental,Normal,"Choque por sostén MT. Gondra, entrada a
+PCA11,31/12/2020 12:41,31/12/2020 13:07,Accidental,Normal,"Choque por sostén MT. Gondra, entrada a
 Pelopincho.",San Felipe,0 days 00:26:00,1560
-0,PCA5,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
-0,PCA5,24/12/2020 22:53,24/12/2020 23:04,Accidental,Normal,Incendio en chacarita.,La Catedral,0 days 00:11:00,660
-0,PCA6,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
-0,PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Banco San Miguel,0 days 01:14:00,4440
-1,PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Tablada Nueva,0 days 01:14:00,4440
-2,PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Jara,0 days 01:14:00,4440
-0,PSA11,17/12/2020 17:18,17/12/2020 18:01,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:43:00,2580
-1,PSA11,17/12/2020 17:18,17/12/2020 18:01,Accidental,Normal,No establecido.,Sajonia,0 days 00:43:00,2580
-0,PSA11,17/12/2020 20:12,17/12/2020 20:32,Accidental,Normal,Al efectuar maniobras.,Bañado Tacumbu,0 days 00:20:00,1200
-1,PSA11,17/12/2020 20:12,17/12/2020 20:32,Accidental,Normal,Al efectuar maniobras.,Sajonia,0 days 00:20:00,1200
-0,PSA12,16/12/2020 08:20,16/12/2020 08:40,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:20:00,1200
-0,PSA12,17/12/2020 01:54,17/12/2020 01:58,Accidental,Normal,Abierto Interruptor para efectuar reparación de SFT
+PCA5,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
+PCA5,24/12/2020 22:53,24/12/2020 23:04,Accidental,Normal,Incendio en chacarita.,La Catedral,0 days 00:11:00,660
+PCA6,4/12/2020 07:40,4/12/2020 07:50,Producción,Normal,Fuera de Servicio TR-01 23kV ES-PCA.,La Catedral,0 days 00:10:00,600
+PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Banco San Miguel,0 days 01:14:00,4440
+PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Tablada Nueva,0 days 01:14:00,4440
+PCA8,23/12/2020 19:54,23/12/2020 21:08,Accidental,Normal,Puente MT Suelto. India y 8 de diciembre.,Jara,0 days 01:14:00,4440
+PSA11,17/12/2020 17:18,17/12/2020 18:01,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:43:00,2580
+PSA11,17/12/2020 17:18,17/12/2020 18:01,Accidental,Normal,No establecido.,Sajonia,0 days 00:43:00,2580
+PSA11,17/12/2020 20:12,17/12/2020 20:32,Accidental,Normal,Al efectuar maniobras.,Bañado Tacumbu,0 days 00:20:00,1200
+PSA11,17/12/2020 20:12,17/12/2020 20:32,Accidental,Normal,Al efectuar maniobras.,Sajonia,0 days 00:20:00,1200
+PSA12,16/12/2020 08:20,16/12/2020 08:40,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:20:00,1200
+PSA12,17/12/2020 01:54,17/12/2020 01:58,Accidental,Normal,Abierto Interruptor para efectuar reparación de SFT
 operado. Posta Leiva.,Carlos A. López,0 days 00:04:00,240
-0,PSA3,13/12/2020 18:02,13/12/2020 20:15,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 02:13:00,7980
-1,PSA3,13/12/2020 18:02,13/12/2020 20:15,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 02:13:00,7980
-0,PSA4,4/12/2020 13:55,4/12/2020 14:15,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:20:00,1200
-0,PSA4,8/12/2020 08:18,8/12/2020 09:06,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:48:00,2880
-0,PSA4,8/12/2020 09:36,8/12/2020 09:42,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:06:00,360
-0,PSA4,8/12/2020 10:23,8/12/2020 10:28,Programado,Normal,Abierto interruptor para efectuar maniobras.,Ita Pyta Punta,0 days 00:05:00,300
-0,PSA4,8/12/2020 10:38,8/12/2020 10:40,Accidental,Normal,Tramo Subterráneo averiado de PS-72 a PS-65.,Ita Pyta Punta,0 days 00:02:00,120
-0,PSA4,13/12/2020 18:02,13/12/2020 20:23,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 02:21:00,8460
-0,PSA4,15/12/2020 03:13,15/12/2020 03:31,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:18:00,1080
-0,PSA4,16/12/2020 08:20,16/12/2020 08:45,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:25:00,1500
-0,PSA4,17/12/2020 01:34,17/12/2020 01:52,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:18:00,1080
-0,PSA4,17/12/2020 02:25,17/12/2020 03:25,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 01:00:00,3600
-0,PSA4,17/12/2020 03:50,17/12/2020 11:41,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 07:51:00,28260
-0,PSA4,19/12/2020 21:24,19/12/2020 21:32,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:08:00,480
-0,PSA4,19/12/2020 21:36,19/12/2020 22:50,Accidental,Adverso,Puente MT suelto y cruceta MT rota. Dr. Mazzei y Río
+PSA3,13/12/2020 18:02,13/12/2020 20:15,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 02:13:00,7980
+PSA3,13/12/2020 18:02,13/12/2020 20:15,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 02:13:00,7980
+PSA4,4/12/2020 13:55,4/12/2020 14:15,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:20:00,1200
+PSA4,8/12/2020 08:18,8/12/2020 09:06,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:48:00,2880
+PSA4,8/12/2020 09:36,8/12/2020 09:42,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:06:00,360
+PSA4,8/12/2020 10:23,8/12/2020 10:28,Programado,Normal,Abierto interruptor para efectuar maniobras.,Ita Pyta Punta,0 days 00:05:00,300
+PSA4,8/12/2020 10:38,8/12/2020 10:40,Accidental,Normal,Tramo Subterráneo averiado de PS-72 a PS-65.,Ita Pyta Punta,0 days 00:02:00,120
+PSA4,13/12/2020 18:02,13/12/2020 20:23,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 02:21:00,8460
+PSA4,15/12/2020 03:13,15/12/2020 03:31,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:18:00,1080
+PSA4,16/12/2020 08:20,16/12/2020 08:45,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:25:00,1500
+PSA4,17/12/2020 01:34,17/12/2020 01:52,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:18:00,1080
+PSA4,17/12/2020 02:25,17/12/2020 03:25,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 01:00:00,3600
+PSA4,17/12/2020 03:50,17/12/2020 11:41,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 07:51:00,28260
+PSA4,19/12/2020 21:24,19/12/2020 21:32,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:08:00,480
+PSA4,19/12/2020 21:36,19/12/2020 22:50,Accidental,Adverso,Puente MT suelto y cruceta MT rota. Dr. Mazzei y Río
 de la Plata.,Ita Pyta Punta,0 days 01:14:00,4440
-0,PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:03:00,180
-1,PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
-2,PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:03:00,180
-3,PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,Dr. Gaspar Rodríguez de Francia,0 days 00:03:00,180
-0,PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,San Antonio,0 days 00:54:00,3240
-1,PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:54:00,3240
-2,PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:54:00,3240
-0,PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,San Antonio,0 days 00:27:00,1620
-1,PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:27:00,1620
-2,PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:27:00,1620
-0,PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 01:08:00,4080
-1,PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 01:08:00,4080
-2,PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 01:08:00,4080
-0,PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,San Antonio,0 days 00:58:00,3480
-1,PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:58:00,3480
-2,PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:58:00,3480
-0,PSA7,17/12/2020 08:40,17/12/2020 09:35,Accidental,Normal,Abierto interruptor para efectuar reparación de
+PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,La Encarnación,0 days 00:03:00,180
+PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,Ita Pyta Punta,0 days 00:03:00,180
+PSA5,17/12/2020 11:58,17/12/2020 12:01,Accidental,Normal,Al efectuar maniobras.,Dr. Gaspar Rodríguez de Francia,0 days 00:03:00,180
+PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,San Antonio,0 days 00:54:00,3240
+PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:54:00,3240
+PSA6,1/12/2020 06:46,1/12/2020 07:40,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:54:00,3240
+PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,San Antonio,0 days 00:27:00,1620
+PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:27:00,1620
+PSA6,2/12/2020 16:14,2/12/2020 16:41,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:27:00,1620
+PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,San Antonio,0 days 01:08:00,4080
+PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,Ita Pyta Punta,0 days 01:08:00,4080
+PSA6,13/12/2020 17:32,13/12/2020 18:40,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Gaspar Rodríguez de Francia,0 days 01:08:00,4080
+PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,San Antonio,0 days 00:58:00,3480
+PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:58:00,3480
+PSA6,31/12/2020 01:40,31/12/2020 02:38,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:58:00,3480
+PSA7,17/12/2020 08:40,17/12/2020 09:35,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. F3. SLT N° 51854.,Bañado Tacumbu,0 days 00:55:00,3300
-1,PSA7,17/12/2020 08:40,17/12/2020 09:35,Accidental,Normal,Abierto interruptor para efectuar reparación de
+PSA7,17/12/2020 08:40,17/12/2020 09:35,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. F3. SLT N° 51854.,Carlos A. López,0 days 00:55:00,3300
-0,PSA8,4/12/2020 13:55,4/12/2020 14:58,Accidental,Normal,No establecido.,San Antonio,0 days 01:03:00,3780
-0,PSA8,6/12/2020 15:13,6/12/2020 15:31,Accidental,Normal,Ave por  línea MT. 15 de Agosto e Ygatimi.,San Antonio,0 days 00:18:00,1080
-0,PSA8,17/12/2020 03:50,17/12/2020 04:40,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:50:00,3000
-0,PSA8,17/12/2020 04:45,17/12/2020 04:48,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
-0,PSA8,17/12/2020 05:10,17/12/2020 05:13,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
-0,PSA9,3/12/2020 04:15,3/12/2020 04:35,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:20:00,1200
-0,PSA9,15/12/2020 03:13,15/12/2020 03:31,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:18:00,1080
-0,PSA9,17/12/2020 03:50,17/12/2020 04:54,Accidental,Normal,Al efectuar maniobras.,Carlos A. López,0 days 01:04:00,3840
-0,PSA9,17/12/2020 11:58,17/12/2020 12:02,Accidental,Normal,Al efectuar maniobras.,Carlos A. López,0 days 00:04:00,240
-0,PSA9,18/12/2020 21:50,18/12/2020 23:08,Accidental,Normal,No establecido.,Carlos A. López,0 days 01:18:00,4680
-0,REP1,13/12/2020 18:02,13/12/2020 20:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit,0 days 02:28:00,8880
-0,REP1,28/12/2020 23:32,29/12/2020 00:07,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:35:00,2100
-0,REP1,29/12/2020 11:44,29/12/2020 12:03,Accidental,Normal,Al efectuar reposición de fusible operado. 38
+PSA8,4/12/2020 13:55,4/12/2020 14:58,Accidental,Normal,No establecido.,San Antonio,0 days 01:03:00,3780
+PSA8,6/12/2020 15:13,6/12/2020 15:31,Accidental,Normal,Ave por  línea MT. 15 de Agosto e Ygatimi.,San Antonio,0 days 00:18:00,1080
+PSA8,17/12/2020 03:50,17/12/2020 04:40,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:50:00,3000
+PSA8,17/12/2020 04:45,17/12/2020 04:48,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+PSA8,17/12/2020 05:10,17/12/2020 05:13,Accidental,Normal,Al efectuar maniobras.,San Antonio,0 days 00:03:00,180
+PSA9,3/12/2020 04:15,3/12/2020 04:35,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:20:00,1200
+PSA9,15/12/2020 03:13,15/12/2020 03:31,Accidental,Normal,No establecido.,Carlos A. López,0 days 00:18:00,1080
+PSA9,17/12/2020 03:50,17/12/2020 04:54,Accidental,Normal,Al efectuar maniobras.,Carlos A. López,0 days 01:04:00,3840
+PSA9,17/12/2020 11:58,17/12/2020 12:02,Accidental,Normal,Al efectuar maniobras.,Carlos A. López,0 days 00:04:00,240
+PSA9,18/12/2020 21:50,18/12/2020 23:08,Accidental,Normal,No establecido.,Carlos A. López,0 days 01:18:00,4680
+REP1,13/12/2020 18:02,13/12/2020 20:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit,0 days 02:28:00,8880
+REP1,28/12/2020 23:32,29/12/2020 00:07,Accidental,Normal,No establecido.,Dr. Roberto L. Petit,0 days 00:35:00,2100
+REP1,29/12/2020 11:44,29/12/2020 12:03,Accidental,Normal,Al efectuar reposición de fusible operado. 38
 Proyectadas y Cap. Figari.,Dr. Roberto L. Petit,0 days 00:19:00,1140
-0,REP2,21/12/2020 10:32,21/12/2020 11:32,Accidental,Normal,No establecido.,Republicano,0 days 01:00:00,3600
-1,REP2,21/12/2020 10:32,21/12/2020 11:32,Accidental,Normal,No establecido.,Santa Librada,0 days 01:00:00,3600
-0,REP2,27/12/2020 11:00,27/12/2020 13:00,Accidental,Normal,No establecido.,Republicano,0 days 02:00:00,7200
-1,REP2,27/12/2020 11:00,27/12/2020 13:00,Accidental,Normal,No establecido.,Santa Librada,0 days 02:00:00,7200
-0,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP2,21/12/2020 10:32,21/12/2020 11:32,Accidental,Normal,No establecido.,Republicano,0 days 01:00:00,3600
+REP2,21/12/2020 10:32,21/12/2020 11:32,Accidental,Normal,No establecido.,Santa Librada,0 days 01:00:00,3600
+REP2,27/12/2020 11:00,27/12/2020 13:00,Accidental,Normal,No establecido.,Republicano,0 days 02:00:00,7200
+REP2,27/12/2020 11:00,27/12/2020 13:00,Accidental,Normal,No establecido.,Santa Librada,0 days 02:00:00,7200
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,San Pablo,0 days 00:49:00,2940
-1,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Obrero,0 days 00:49:00,2940
-2,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,San Vicente,0 days 00:49:00,2940
-3,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Republicano,0 days 00:49:00,2940
-4,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Santa Ana,0 days 00:49:00,2940
-5,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Jukyty,0 days 00:49:00,2940
-6,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Santa Librada,0 days 00:49:00,2940
-7,REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
+REP3,22/12/2020 17:52,22/12/2020 18:41,Accidental,Normal,SF operado y Puente MT Suelto. Gandhi y Gral.
 Santos.,Pirizal,0 days 00:49:00,2940
-0,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,San Pablo,0 days 00:14:00,840
-1,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Obrero,0 days 00:14:00,840
-2,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,San Vicente,0 days 00:14:00,840
-3,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Republicano,0 days 00:14:00,840
-4,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Santa Ana,0 days 00:14:00,840
-5,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Jukyty,0 days 00:14:00,840
-6,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Santa Librada,0 days 00:14:00,840
-7,REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Pirizal,0 days 00:14:00,840
-0,REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,San Pablo,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Obrero,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,San Vicente,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Republicano,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Santa Ana,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Jukyty,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Santa Librada,0 days 00:14:00,840
+REP3,22/12/2020 18:51,22/12/2020 19:05,Accidental,Normal,Puente MT Suelto Gandhi y Gral. Santos.,Pirizal,0 days 00:14:00,840
+REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
 Otazú y Arecutacuá.,Tte. Silvio Pettirossi,0 days 20:33:00,73980
-1,REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
+REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
 Otazú y Arecutacuá.,San Vicente,0 days 20:33:00,73980
-2,REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
+REP5,14/12/2020 03:31,15/12/2020 00:04,Accidental,Normal,Abierto interruptor para efectuar de puente MT suelto.
 Otazú y Arecutacuá.,Pinoza,0 days 20:33:00,73980
-0,REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,Tte. Silvio Pettirossi,0 days 00:13:00,780
-1,REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,San Vicente,0 days 00:13:00,780
-2,REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,Pinoza,0 days 00:13:00,780
-0,REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,Tte. Silvio Pettirossi,0 days 00:05:00,300
-1,REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,San Vicente,0 days 00:05:00,300
-2,REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,Pinoza,0 days 00:05:00,300
-0,REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,San Vicente,0 days 01:56:00,6960
-1,REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 01:56:00,6960
-2,REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,Pirizal,0 days 01:56:00,6960
-0,REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,San Vicente,0 days 00:54:00,3240
-1,REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,Pinoza,0 days 00:54:00,3240
-2,REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,Pirizal,0 days 00:54:00,3240
-0,REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,San Vicente,0 days 00:11:00,660
-1,REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,Pinoza,0 days 00:11:00,660
-2,REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,Pirizal,0 days 00:11:00,660
-0,REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
+REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,Tte. Silvio Pettirossi,0 days 00:13:00,780
+REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,San Vicente,0 days 00:13:00,780
+REP5,15/12/2020 00:04,15/12/2020 00:17,Accidental,Normal,No establecido.,Pinoza,0 days 00:13:00,780
+REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,Tte. Silvio Pettirossi,0 days 00:05:00,300
+REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,San Vicente,0 days 00:05:00,300
+REP5,15/12/2020 00:25,15/12/2020 00:30,Accidental,Normal,No establecido.,Pinoza,0 days 00:05:00,300
+REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,San Vicente,0 days 01:56:00,6960
+REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 01:56:00,6960
+REP6,13/12/2020 18:35,13/12/2020 20:31,Accidental,Adverso,Condiciones Climáticas Adversas.,Pirizal,0 days 01:56:00,6960
+REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,San Vicente,0 days 00:54:00,3240
+REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,Pinoza,0 days 00:54:00,3240
+REP6,20/12/2020 14:26,20/12/2020 15:20,Accidental,Normal,No establecido.,Pirizal,0 days 00:54:00,3240
+REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,San Vicente,0 days 00:11:00,660
+REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,Pinoza,0 days 00:11:00,660
+REP6,20/12/2020 15:21,20/12/2020 15:32,Accidental,Normal,Transformador Averiado. Picada Diarte y Tte. Alegre.,Pirizal,0 days 00:11:00,660
+REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
 Setiembre.,San Vicente,0 days 00:53:00,3180
-1,REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
+REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
 Setiembre.,Pinoza,0 days 00:53:00,3180
-2,REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
+REP6,24/12/2020 15:57,24/12/2020 16:50,Accidental,Normal,Fusible operado. 1° de Noviembre y 29 de
 Setiembre.,Pirizal,0 days 00:53:00,3180
-0,REP9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Línea MT suelta. Felix Bogado y Cassanelo.,Tte. Silvio Pettirossi,0 days 00:37:00,2220
-0,REP9,13/12/2020 11:30,13/12/2020 11:42,Programado,Adverso,Abierto interruptor para efectuar reparación de
+REP9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Línea MT suelta. Felix Bogado y Cassanelo.,Tte. Silvio Pettirossi,0 days 00:37:00,2220
+REP9,13/12/2020 11:30,13/12/2020 11:42,Programado,Adverso,Abierto interruptor para efectuar reparación de
 puente MT suelto en segundo tramo.,Tte. Silvio Pettirossi,0 days 00:12:00,720
-0,SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
+SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
 Guggiari.,Pinoza,0 days 01:27:00,5220
-1,SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
+SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
 Guggiari.,Gral. Bernardino Caballero,0 days 01:27:00,5220
-2,SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
+SMI1,16/12/2020 02:10,16/12/2020 03:37,Accidental,Normal,Sostén MT chocado. Indio Francisco y Bruno
 Guggiari.,Ciudad Nueva,0 days 01:27:00,5220
-0,SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Mburicao,0 days 00:17:00,1020
-1,SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Recoleta,0 days 00:17:00,1020
-2,SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:17:00,1020
-3,SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:17:00,1020
-0,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Mburicao,0 days 00:10:00,600
-1,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Recoleta,0 days 00:10:00,600
-2,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:10:00,600
-3,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:10:00,600
-0,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburicao,0 days 00:10:00,600
-1,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Recoleta,0 days 00:10:00,600
-2,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 00:10:00,600
-3,SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Gral. Bernardino Caballero,0 days 00:10:00,600
-0,SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Mburicao,0 days 00:58:00,3480
-1,SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Recoleta,0 days 00:58:00,3480
-2,SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 00:58:00,3480
-3,SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Gral. Bernardino Caballero,0 days 00:58:00,3480
-0,SMI3,4/12/2020 09:17,4/12/2020 09:22,Accidental,Normal,Al efectuar maniobras.,Gral. Bernardino Caballero,0 days 00:05:00,300
-1,SMI3,4/12/2020 09:17,4/12/2020 09:22,Accidental,Normal,Al efectuar maniobras.,Ciudad Nueva,0 days 00:05:00,300
-0,SMI3,4/12/2020 10:12,4/12/2020 10:28,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:16:00,960
-1,SMI3,4/12/2020 10:12,4/12/2020 10:28,Accidental,Normal,No establecido.,Ciudad Nueva,0 days 00:16:00,960
-0,SMI4,13/12/2020 22:01,14/12/2020 00:01,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 02:00:00,7200
-0,SMI4,20/12/2020 21:07,20/12/2020 21:45,Accidental,Normal,Transformador averiado. Brasilia y Sgto. Gauto.,Mcal. Francisco S. López,0 days 00:38:00,2280
-0,SMI9,4/12/2020 08:11,4/12/2020 08:43,Accidental,Normal,No establecido.,Las Mercedes,0 days 00:32:00,1920
-1,SMI9,4/12/2020 08:11,4/12/2020 08:43,Accidental,Normal,No establecido.,San Felipe,0 days 00:32:00,1920
-0,SMI9,4/12/2020 09:17,04/12/2020 11:17,Accidental,Normal,No establecido.,Las Mercedes,0 days 02:00:00,7200
-1,SMI9,4/12/2020 09:17,04/12/2020 11:17,Accidental,Normal,No establecido.,San Felipe,0 days 02:00:00,7200
-0,SMI9,4/12/2020 18:01,4/12/2020 18:06,Accidental,Normal,Abierto interruptor para reparación de SFT operado.
+SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Mburicao,0 days 00:17:00,1020
+SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Recoleta,0 days 00:17:00,1020
+SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:17:00,1020
+SMI2,16/12/2020 06:03,16/12/2020 06:20,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:17:00,1020
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Mburicao,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Recoleta,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Mburicao,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Recoleta,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 00:10:00,600
+SMI2,19/12/2020 21:50,19/12/2020 22:00,Accidental,Adverso,Condiciones Climáticas Adversas.,Gral. Bernardino Caballero,0 days 00:10:00,600
+SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Mburicao,0 days 00:58:00,3480
+SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Recoleta,0 days 00:58:00,3480
+SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 00:58:00,3480
+SMI2,19/12/2020 22:18,19/12/2020 23:16,Accidental,Adveso,Condiciones Climáticas Adversas.,Gral. Bernardino Caballero,0 days 00:58:00,3480
+SMI3,4/12/2020 09:17,4/12/2020 09:22,Accidental,Normal,Al efectuar maniobras.,Gral. Bernardino Caballero,0 days 00:05:00,300
+SMI3,4/12/2020 09:17,4/12/2020 09:22,Accidental,Normal,Al efectuar maniobras.,Ciudad Nueva,0 days 00:05:00,300
+SMI3,4/12/2020 10:12,4/12/2020 10:28,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:16:00,960
+SMI3,4/12/2020 10:12,4/12/2020 10:28,Accidental,Normal,No establecido.,Ciudad Nueva,0 days 00:16:00,960
+SMI4,13/12/2020 22:01,14/12/2020 00:01,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Francisco S. López,0 days 02:00:00,7200
+SMI4,20/12/2020 21:07,20/12/2020 21:45,Accidental,Normal,Transformador averiado. Brasilia y Sgto. Gauto.,Mcal. Francisco S. López,0 days 00:38:00,2280
+SMI9,4/12/2020 08:11,4/12/2020 08:43,Accidental,Normal,No establecido.,Las Mercedes,0 days 00:32:00,1920
+SMI9,4/12/2020 08:11,4/12/2020 08:43,Accidental,Normal,No establecido.,San Felipe,0 days 00:32:00,1920
+SMI9,4/12/2020 09:17,04/12/2020 11:17,Accidental,Normal,No establecido.,Las Mercedes,0 days 02:00:00,7200
+SMI9,4/12/2020 09:17,04/12/2020 11:17,Accidental,Normal,No establecido.,San Felipe,0 days 02:00:00,7200
+SMI9,4/12/2020 18:01,4/12/2020 18:06,Accidental,Normal,Abierto interruptor para reparación de SFT operado.
 SM6 con Humedad y Gotera.,Las Mercedes,0 days 00:05:00,300
-1,SMI9,4/12/2020 18:01,4/12/2020 18:06,Accidental,Normal,Abierto interruptor para reparación de SFT operado.
+SMI9,4/12/2020 18:01,4/12/2020 18:06,Accidental,Normal,Abierto interruptor para reparación de SFT operado.
 SM6 con Humedad y Gotera.,San Felipe,0 days 00:05:00,300
-0,SMI9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Las Mercedes,0 days 00:37:00,2220
-1,SMI9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Condiciones Climáticas Adversas.,San Felipe,0 days 00:37:00,2220
-0,SMI9,13/12/2020 18:07,13/12/2020 20:07,Accidental,Adverso,Condiciones Climáticas Adversas.,Las Mercedes,0 days 02:00:00,7200
-1,SMI9,13/12/2020 18:07,13/12/2020 20:07,Accidental,Adverso,Condiciones Climáticas Adversas.,San Felipe,0 days 02:00:00,7200
-0,SMI9,13/12/2020 19:30,13/12/2020 19:32,Accidental,Adverso,Abierto interruptor para efectuar reposición de SFT
+SMI9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Las Mercedes,0 days 00:37:00,2220
+SMI9,13/12/2020 08:34,13/12/2020 09:11,Accidental,Adverso,Condiciones Climáticas Adversas.,San Felipe,0 days 00:37:00,2220
+SMI9,13/12/2020 18:07,13/12/2020 20:07,Accidental,Adverso,Condiciones Climáticas Adversas.,Las Mercedes,0 days 02:00:00,7200
+SMI9,13/12/2020 18:07,13/12/2020 20:07,Accidental,Adverso,Condiciones Climáticas Adversas.,San Felipe,0 days 02:00:00,7200
+SMI9,13/12/2020 19:30,13/12/2020 19:32,Accidental,Adverso,Abierto interruptor para efectuar reposición de SFT
 operado. PD SM6.,Las Mercedes,0 days 00:02:00,120
-1,SMI9,13/12/2020 19:30,13/12/2020 19:32,Accidental,Adverso,Abierto interruptor para efectuar reposición de SFT
+SMI9,13/12/2020 19:30,13/12/2020 19:32,Accidental,Adverso,Abierto interruptor para efectuar reposición de SFT
 operado. PD SM6.,San Felipe,0 days 00:02:00,120
-0,VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT autoprotegido suelto. Manuel Blindex y
 Rca. Argentina.,Los Laureles,0 days 00:17:00,1020
-1,VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT autoprotegido suelto. Manuel Blindex y
 Rca. Argentina.,Mcal. Estigarribia,0 days 00:17:00,1020
-2,VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT autoprotegido suelto. Manuel Blindex y
 Rca. Argentina.,Hipódromo,0 days 00:17:00,1020
-3,VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU1,14/12/2020 07:23,14/12/2020 07:40,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT autoprotegido suelto. Manuel Blindex y
 Rca. Argentina.,Tembetary,0 days 00:17:00,1020
-0,VAU10,13/12/2020 18:11,13/12/2020 20:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Estigarribia,0 days 02:00:00,7200
-1,VAU10,13/12/2020 18:11,13/12/2020 20:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Recoleta,0 days 02:00:00,7200
-0,VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU10,13/12/2020 18:11,13/12/2020 20:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Estigarribia,0 days 02:00:00,7200
+VAU10,13/12/2020 18:11,13/12/2020 20:11,Accidental,Adverso,Condiciones Climáticas Adversas.,Recoleta,0 days 02:00:00,7200
+VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
 pueente MT suelto. M. Lynch y Victor Heyn.,Luis Alberto de Herrera,0 days 00:26:00,1560
-1,VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
 pueente MT suelto. M. Lynch y Victor Heyn.,Santa María,0 days 00:26:00,1560
-2,VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU11,3/12/2020 07:39,3/12/2020 08:05,Accidental,Normal,Abierto interruptor para efectuar reparación de
 pueente MT suelto. M. Lynch y Victor Heyn.,Villa Aurelia,0 days 00:26:00,1560
-0,VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
+VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
 operado, puenteo de SFT averiado en derivación.
 Francis Morises y Tte. Victor Meyin.",Luis Alberto de Herrera,0 days 00:04:00,240
-1,VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
+VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
 operado, puenteo de SFT averiado en derivación.
 Francis Morises y Tte. Victor Meyin.",Santa María,0 days 00:04:00,240
-2,VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
+VAU11,15/12/2020 13:02,15/12/2020 13:06,Accidental,Normal,"Abierto interruptor para efectuar reposición de SFT
 operado, puenteo de SFT averiado en derivación.
 Francis Morises y Tte. Victor Meyin.",Villa Aurelia,0 days 00:04:00,240
-0,VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 02:00:00,7200
-1,VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Santa María,0 days 02:00:00,7200
-2,VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Villa Aurelia,0 days 02:00:00,7200
-0,VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
+VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 02:00:00,7200
+VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Santa María,0 days 02:00:00,7200
+VAU11,30/12/2020 16:47,30/12/2020 18:47,Accidental,Normal,No establecido.,Villa Aurelia,0 days 02:00:00,7200
+VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
 en forma directa F1-2. Víctor Heyn y Morice.,Luis Alberto de Herrera,0 days 00:08:00,480
-1,VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
+VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
 en forma directa F1-2. Víctor Heyn y Morice.,Santa María,0 days 00:08:00,480
-2,VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
+VAU11,30/12/2020 19:29,30/12/2020 19:37,Programado,Normal,Abierto interruptor para efectuar reposición de SFT
 en forma directa F1-2. Víctor Heyn y Morice.,Villa Aurelia,0 days 00:08:00,480
-0,VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
-1,VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Los Laureles,0 days 02:00:00,7200
-2,VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 02:00:00,7200
-0,VAU3,13/12/2020 18:29,13/12/2020 20:29,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
-1,VAU3,13/12/2020 18:29,13/12/2020 20:29,Accidental,Adverso,Condiciones Climáticas Adversas.,San Pablo,0 days 02:00:00,7200
-0,VAU3,28/12/2020 10:18,28/12/2020 11:00,Accidental,Normal,Puente MT suelto y rama sobre línea MT. Facundo
+VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
+VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Los Laureles,0 days 02:00:00,7200
+VAU14,13/12/2020 16:30,13/12/2020 18:30,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 02:00:00,7200
+VAU3,13/12/2020 18:29,13/12/2020 20:29,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
+VAU3,13/12/2020 18:29,13/12/2020 20:29,Accidental,Adverso,Condiciones Climáticas Adversas.,San Pablo,0 days 02:00:00,7200
+VAU3,28/12/2020 10:18,28/12/2020 11:00,Accidental,Normal,Puente MT suelto y rama sobre línea MT. Facundo
 MAchaín y Ramón García.,Villa Aurelia,0 days 00:42:00,2520
-1,VAU3,28/12/2020 10:18,28/12/2020 11:00,Accidental,Normal,Puente MT suelto y rama sobre línea MT. Facundo
+VAU3,28/12/2020 10:18,28/12/2020 11:00,Accidental,Normal,Puente MT suelto y rama sobre línea MT. Facundo
 MAchaín y Ramón García.,San Pablo,0 days 00:42:00,2520
-0,VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 02:00:00,7200
-1,VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Estigarribia,0 days 02:00:00,7200
-2,VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
-0,VAU6,3/12/2020 03:01,3/12/2020 03:14,Accidental,Normal,Abierto interruptor para efectuar reparación de
+VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Hipódromo,0 days 02:00:00,7200
+VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Mcal. Estigarribia,0 days 02:00:00,7200
+VAU5,19/12/2020 23:06,20/12/2020 01:06,Accidental,Adverso,Condiciones Climáticas Adversas.,Villa Aurelia,0 days 02:00:00,7200
+VAU6,3/12/2020 03:01,3/12/2020 03:14,Accidental,Normal,Abierto interruptor para efectuar reparación de
 puente MT suelto. Espinoza y Kostianovsky.,Mcal. Estigarribia,0 days 00:13:00,780
-0,VAU8,13/12/2020 18:13,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Pedro Gelto y Río Yhaguy.
+VAU8,13/12/2020 18:13,13/12/2020 20:05,Accidental,Adverso,Ramas sobre línea MT. Pedro Gelto y Río Yhaguy.
 Abierto prensa línea viva en la misma dirección.,Villa Aurelia,0 days 01:52:00,6720

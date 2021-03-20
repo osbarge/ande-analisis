@@ -1,196 +1,290 @@
-,PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
-0,BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Bella Vista,0 days 00:01:00,60
-1,BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Santo Domingo,0 days 00:01:00,60
-2,BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Manorá,0 days 00:01:00,60
-0,BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Las Carmelitas,0 days 00:04:00,240
-1,BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Villa Morra,0 days 00:04:00,240
-2,BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-BCP, a pedido del CORM. TR-SS.AA 01/23kVaveriado.",Manorá,0 days 00:04:00,240
-0,BMO2,25/08/2020 22:08,26/08/2020 00:08,Accidental,Normal,No establecido.,Itay,0 days 02:00:00,7200
-0,BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 02:00:00,7200
-1,BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,San Cristóbal,0 days 02:00:00,7200
-2,BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,Santa María,0 days 02:00:00,7200
-0,BPA8,19/08/2020 21:31,19/08/2020 23:31,Accidental,Normal,No establecido.,Villa Morra,0 days 02:00:00,7200
-0,FDM2,11/08/2020 15:13,11/08/2020 17:13,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
-0,FDM2,14/08/2020 23:10,14/08/2020 23:11,Programado,Normal,MEMO DD/DCC1/206/2020. Transferencias sobreLAM18.,San Pablo,0 days 00:01:00,60
-0,FDM2,19/08/2020 20:10,19/08/2020 22:10,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
-0,FDM2,23/08/2020 11:53,23/08/2020 13:06,Accidental,Normal,Choque por sostén MT y cruceta MT rota.Defensores del Chaco y Progreso.,San Pablo,0 days 01:13:00,4380
-0,FDM3,14/08/2020 23:36,14/08/2020 23:37,Programado,Normal,MEMO DD/DCC1/206/2020. Transferencia sobreVAU5.,San Pablo,0 days 00:01:00,60
-0,GDI2,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Gral. J. E Diaz,0 days 00:39:00,2340
-1,GDI2,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Obrero,0 days 00:39:00,2340
-0,GDI3,7/08/2020 14:53,7/08/2020 15:29,Accidental,Normal,Brazo de AP en contacto con MT. Montevideo y 9na.,Gral. J. E Diaz,0 days 00:36:00,2160
-0,GDI3,11/08/2020 08:17,11/08/2020 09:11,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:54:00,3240
-0,GDI3,20/08/2020 09:51,20/08/2020 10:08,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:17:00,1020
-0,GDI3,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Gral. J. E Diaz,0 days 00:39:00,2340
-0,GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Obrero,0 days 01:03:00,3780
-1,GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Dr. Roberto L. Petit,0 days 01:03:00,3780
-2,GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Bañado Tacumbu,0 days 01:03:00,3780
-0,LAM10,7/08/2020 14:44,7/08/2020 15:20,Accidental,Normal,"Desperfecto interno, Fernando de la Mora e Yvapovo.",Terminal,0 days 00:36:00,2160
-0,LAM22,8/08/2020 00:20,8/08/2020 01:16,Accidental,Normal,Choque por columna y Línea desprendida. Rca.Argentina y Tobati.,Hipódromo,0 days 00:56:00,3360
-1,LAM22,8/08/2020 00:20,8/08/2020 01:16,Accidental,Normal,Choque por columna y Línea desprendida. Rca.Argentina y Tobati.,Terminal,0 days 00:56:00,3360
-0,LAM22,23/08/2020 23:16,23/08/2020 23:48,Accidental,Normal,Rama sobre línea MT. Ecuador y RepúblicaArgentina.,Hipódromo,0 days 00:32:00,1920
-1,LAM22,23/08/2020 23:16,23/08/2020 23:48,Accidental,Normal,Rama sobre línea MT. Ecuador y RepúblicaArgentina.,Terminal,0 days 00:32:00,1920
-0,LAM23,4/08/2020 14:42,4/08/2020 15:22,Accidental,Normal,Paloma en contacto con cruceta y F2. Eliseo Peraltay Guaraníes.,Mburicao,0 days 00:40:00,2400
-0,LAM23,5/08/2020 21:03,5/08/2020 21:30,Programado,Normal,No establecido.,Mburicao,0 days 00:27:00,1620
-0,LAM23,5/08/2020 23:25,5/08/2020 23:56,Accidental,Normal,Abierto interruptor para reparación de Puente MTsuelto y fusible averiado.,Mburicao,0 days 00:31:00,1860
-0,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",Santa Ana,0 days 01:03:00,3780
-1,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",Itá Enramada,0 days 01:03:00,3780
-2,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",Jukyty,0 days 01:03:00,3780
-3,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",Santa Librada,0 days 01:03:00,3780
-4,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",San Cayetano,0 days 01:03:00,3780
-5,LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón ySan Fernando.",Pirizal,0 days 01:03:00,3780
-0,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",Santa Ana,0 days 00:51:00,3060
-1,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",Itá Enramada,0 days 00:51:00,3060
-2,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",Jukyty,0 days 00:51:00,3060
-3,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",Santa Librada,0 days 00:51:00,3060
-4,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",San Cayetano,0 days 00:51:00,3060
-5,LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y SantaRosa.",Pirizal,0 days 00:51:00,3060
-0,LAM7,12/08/2020 03:07,12/08/2020 03:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre,0 days 00:37:00,2220
-1,LAM7,12/08/2020 03:07,12/08/2020 03:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 00:37:00,2220
-0,LAM7,20/08/2020 01:34,20/08/2020 03:14,Accidental,Normal,No establecido.,Vista Alegre,0 days 01:40:00,6000
-1,LAM7,20/08/2020 01:34,20/08/2020 03:14,Accidental,Normal,No establecido.,Pinoza,0 days 01:40:00,6000
-0,MBU2,20/08/2020 01:11,20/08/2020 01:51,Accidental,Normal,Cruceta MT rota. Tte. Esquivel y Sgto. Pisciota.,Madame Lynch,0 days 00:40:00,2400
-1,MBU2,20/08/2020 01:11,20/08/2020 01:51,Accidental,Normal,Cruceta MT rota. Tte. Esquivel y Sgto. Pisciota.,Mburucuyá,0 days 00:40:00,2400
-0,MBU2,25/08/2020 07:25,25/08/2020 08:29,Accidental,Normal,No establecido.,Madame Lynch,0 days 01:04:00,3840
-1,MBU2,25/08/2020 07:25,25/08/2020 08:29,Accidental,Normal,No establecido.,Mburucuyá,0 days 01:04:00,3840
-0,MBU2,25/08/2020 08:40,25/08/2020 08:53,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:13:00,780
-1,MBU2,25/08/2020 08:40,25/08/2020 08:53,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:13:00,780
-0,MBU2,29/08/2020 15:24,29/08/2020 17:09,Accidental,Normal,Línea MT en contacto por sostén intermedio. Calle 8y Rufino Cañete.,Madame Lynch,0 days 01:45:00,6300
-1,MBU2,29/08/2020 15:24,29/08/2020 17:09,Accidental,Normal,Línea MT en contacto por sostén intermedio. Calle 8y Rufino Cañete.,Mburucuyá,0 days 01:45:00,6300
-0,MBU2,30/08/2020 08:27,30/08/2020 10:27,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
-1,MBU2,30/08/2020 08:27,30/08/2020 10:27,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
-0,MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Las Carmelitas,0 days 02:00:00,7200
-1,MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Madame Lynch,0 days 02:00:00,7200
-2,MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Mburucuyá,0 days 02:00:00,7200
-0,MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Las Carmelitas,0 days 00:42:00,2520
-1,MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Madame Lynch,0 days 00:42:00,2520
-2,MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Mburucuyá,0 days 00:42:00,2520
-0,MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:38:00,2280
-1,MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:38:00,2280
-2,MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:38:00,2280
-3,MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:38:00,2280
-0,MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.Poste Intermedio en contacto con Línea MT en J.Pinho y Tte. Insfrán.,Mbocayaty,0 days 01:02:00,3720
-1,MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.Poste Intermedio en contacto con Línea MT en J.Pinho y Tte. Insfrán.,Loma Pyta,0 days 01:02:00,3720
-2,MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.Poste Intermedio en contacto con Línea MT en J.Pinho y Tte. Insfrán.,Ñu Guasu,0 days 01:02:00,3720
-3,MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.Poste Intermedio en contacto con Línea MT en J.Pinho y Tte. Insfrán.,Mburucuyá,0 days 01:02:00,3720
-0,MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y PinhoGonzalez.,Mbocayaty,0 days 00:37:00,2220
-1,MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y PinhoGonzalez.,Loma Pyta,0 days 00:37:00,2220
-2,MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y PinhoGonzalez.,Ñu Guasu,0 days 00:37:00,2220
-3,MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y PinhoGonzalez.,Mburucuyá,0 days 00:37:00,2220
-0,MBU7,13/08/2020 10:26,13/08/2020 12:26,Accidental,Normal,No establecido.,Virgen de la Asunción,0 days 02:00:00,7200
-1,MBU7,13/08/2020 10:26,13/08/2020 12:26,Accidental,Normal,No establecido.,Cañada Ybyray,0 days 02:00:00,7200
-0,MBU7,13/08/2020 11:40,13/08/2020 11:52,Accidental,Normal,"Abierto Interruptor, Línea MT Suelta en Molas Lópezy Veteranos del 70.",Virgen de la Asunción,0 days 00:12:00,720
-1,MBU7,13/08/2020 11:40,13/08/2020 11:52,Accidental,Normal,"Abierto Interruptor, Línea MT Suelta en Molas Lópezy Veteranos del 70.",Cañada Ybyray,0 days 00:12:00,720
-0,MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. SanRoque y Eligio Ayala.,Loma Pyta,0 days 01:29:00,5340
-1,MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. SanRoque y Eligio Ayala.,Zeballos Cué,0 days 01:29:00,5340
-2,MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. SanRoque y Eligio Ayala.,San Blas,0 days 01:29:00,5340
-0,MRA11,19/08/2020 18:30,19/08/2020 20:30,Accidental,Normal,No establecido.,Loma Pyta,0 days 02:00:00,7200
-0,MRA11,19/08/2020 18:49,19/08/2020 20:43,Accidental,Normal,No establecido.,Loma Pyta,0 days 01:54:00,6840
-0,MRA11,19/08/2020 20:44,19/08/2020 21:11,Accidental,Normal,Línea MT en contacto con F2 por poste intermedio.Línea MT Suelta F3 en Tatare y Quintana.,Loma Pyta,0 days 00:27:00,1620
-0,PBO14,8/08/2020 05:12,8/08/2020 05:59,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:47:00,2820
-0,PBO14,29/08/2020 12:50,29/08/2020 15:13,Accidental,Normal,Puente MT Suelto. Entrada subterráneo en Mcal.Estigarribia y Epopeya Nacional. Tramo averiado.,Zeballos Cué,0 days 02:23:00,8580
-0,PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:26:00,1560
-1,PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:26:00,1560
-2,PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:26:00,1560
-3,PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:26:00,1560
-0,PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:35:00,2100
-1,PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:35:00,2100
-2,PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:35:00,2100
-3,PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:35:00,2100
-0,PBO20,20/08/2020 00:09,20/08/2020 00:33,Accidental,Normal,No establecido.,Botánico,0 days 00:24:00,1440
-0,PBO20,20/08/2020 16:54,20/08/2020 17:53,Accidental,Normal,Línea MT en C.C. Epopeya Nacional y Diaz.,Botánico,0 days 00:59:00,3540
-0,PBO20,23/08/2020 15:51,23/08/2020 16:51,Accidental,Normal,No establecido.,Botánico,0 days 01:00:00,3600
-0,PCA5,17/08/2020 00:55,17/08/2020 01:18,Accidental,Normal,No establecido.,La Catedral,0 days 00:23:00,1380
-0,PCA5,21/08/2020 21:13,21/08/2020 21:47,Accidental,Normal,No establecido.,La Catedral,0 days 00:34:00,2040
-0,PCA6,16/08/2020 13:49,16/08/2020 15:05,Accidental,Normal,No establecido.,La Catedral,0 days 01:16:00,4560
-0,PCA6,23/08/2020 08:41,23/08/2020 08:58,Accidental,Normal,Al efectuar apertura del SBC 51562 - PD SM262.,La Catedral,0 days 00:17:00,1020
-0,PCA6,26/08/2020 02:56,26/08/2020 03:13,Accidental,Normal,No establecido.,La Catedral,0 days 00:17:00,1020
-0,PCA6,30/08/2020 08:08,30/08/2020 08:31,Accidental,Normal,No establecido.,La Catedral,0 days 00:23:00,1380
-0,PCA6,30/08/2020 08:43,30/08/2020 09:09,Accidental,Normal,Aislador porta barras averiado. PE FERIAASUNCIÓN. Azara y México.,La Catedral,0 days 00:26:00,1560
-0,PSA11,9/08/2020 16:28,9/08/2020 17:17,Accidental,Normal,Cola de pandorga. Zona Bañado.,Bañado Tacumbu,0 days 00:49:00,2940
-1,PSA11,9/08/2020 16:28,9/08/2020 17:17,Accidental,Normal,Cola de pandorga. Zona Bañado.,Sajonia,0 days 00:49:00,2940
-0,PSA11,12/08/2020 09:57,12/08/2020 11:20,Accidental,Normal,Cruceta MT rota. Bañado Sur.,Bañado Tacumbu,0 days 01:23:00,4980
-1,PSA11,12/08/2020 09:57,12/08/2020 11:20,Accidental,Normal,Cruceta MT rota. Bañado Sur.,Sajonia,0 days 01:23:00,4980
-0,PSA11,14/08/2020 02:52,14/08/2020 03:20,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:28:00,1680
-1,PSA11,14/08/2020 02:52,14/08/2020 03:20,Accidental,Normal,No establecido.,Sajonia,0 days 00:28:00,1680
-0,PSA12,11/08/2020 15:01,11/08/2020 16:04,Accidental,Normal,"Tramo subterráneo averiado, acometida al PD PS81.Cruceta MT rota. SF averiado.",Carlos A. López,0 days 01:03:00,3780
-0,PSA12,11/08/2020 22:35,11/08/2020 22:38,Accidental,Normal,"Abierto Interruptor, para efectuar cierre de SFT alPS81.",Carlos A. López,0 days 00:03:00,180
-0,PSA4,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel LaCatólica.,Ita Pyta Punta,0 days 00:48:00,2880
-0,PSA4,27/08/2020 19:11,27/08/2020 19:33,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:22:00,1320
-0,PSA4,29/08/2020 09:32,29/08/2020 10:07,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:35:00,2100
-0,PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,San Antonio,0 days 00:47:00,2820
-1,PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:47:00,2820
-2,PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:47:00,2820
-0,PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,San Antonio,0 days 00:40:00,2400
-1,PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,Ita Pyta Punta,0 days 00:40:00,2400
-2,PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,Dr. Gaspar Rodríguez de Francia,0 days 00:40:00,2400
-0,PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel LaCatólica.,San Antonio,0 days 00:48:00,2880
-1,PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel LaCatólica.,Ita Pyta Punta,0 days 00:48:00,2880
-2,PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel LaCatólica.,Dr. Gaspar Rodríguez de Francia,0 days 00:48:00,2880
-0,PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,San Antonio,0 days 00:39:00,2340
-1,PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:39:00,2340
-2,PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:39:00,2340
-0,PSA7,24/08/2020 12:27,24/08/2020 13:03,Accidental,Normal,Drone en contacto con línea MT. 23 Proyectadas e/México y Antequera.,Bañado Tacumbu,0 days 00:36:00,2160
-1,PSA7,24/08/2020 12:27,24/08/2020 13:03,Accidental,Normal,Drone en contacto con línea MT. 23 Proyectadas e/México y Antequera.,Carlos A. López,0 days 00:36:00,2160
-0,REP1,12/08/2020 02:48,12/08/2020 04:48,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit,0 days 02:00:00,7200
-0,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
-1,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Obrero,0 days 02:00:00,7200
-2,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,San Vicente,0 days 02:00:00,7200
-3,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Republicano,0 days 02:00:00,7200
-4,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Santa Ana,0 days 02:00:00,7200
-5,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Jukyty,0 days 02:00:00,7200
-6,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Santa Librada,0 days 02:00:00,7200
-7,REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Pirizal,0 days 02:00:00,7200
-0,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,San Pablo,0 days 00:58:00,3480
-1,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Obrero,0 days 00:58:00,3480
-2,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,San Vicente,0 days 00:58:00,3480
-3,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Republicano,0 days 00:58:00,3480
-4,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Santa Ana,0 days 00:58:00,3480
-5,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Jukyty,0 days 00:58:00,3480
-6,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Santa Librada,0 days 00:58:00,3480
-7,REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. SánchezLeitón y Del Carmen.,Pirizal,0 days 00:58:00,3480
-0,REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Tte. Silvio Pettirossi,0 days 00:58:00,3480
-1,REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",San Vicente,0 days 00:58:00,3480
-2,REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Pinoza,0 days 00:58:00,3480
-0,REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,San Vicente,0 days 02:00:00,7200
-1,REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,Pinoza,0 days 02:00:00,7200
-2,REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,Pirizal,0 days 02:00:00,7200
-0,REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,San Vicente,0 days 00:36:00,2160
-1,REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,Pinoza,0 days 00:36:00,2160
-2,REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,Pirizal,0 days 00:36:00,2160
-0,REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,San Vicente,0 days 00:29:00,1740
-1,REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,Pinoza,0 days 00:29:00,1740
-2,REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,Pirizal,0 days 00:29:00,1740
-0,REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. MGardell c/ Zorrilla de San Martín.,San Vicente,0 days 01:42:00,6120
-1,REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. MGardell c/ Zorrilla de San Martín.,Pinoza,0 days 01:42:00,6120
-2,REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. MGardell c/ Zorrilla de San Martín.,Pirizal,0 days 01:42:00,6120
-0,REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,San Vicente,0 days 00:17:00,1020
-1,REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,Pinoza,0 days 00:17:00,1020
-2,REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,Pirizal,0 days 00:17:00,1020
-0,REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,San Vicente,0 days 00:19:00,1140
-1,REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,Pinoza,0 days 00:19:00,1140
-2,REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,Pirizal,0 days 00:19:00,1140
-0,REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo ySuecia.,San Vicente,0 days 00:54:00,3240
-1,REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo ySuecia.,Pinoza,0 days 00:54:00,3240
-2,REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo ySuecia.,Pirizal,0 days 00:54:00,3240
-0,REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,San Vicente,0 days 00:03:00,180
-1,REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,Pinoza,0 days 00:03:00,180
-2,REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,Pirizal,0 days 00:03:00,180
-0,REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Tte. Silvio Pettirossi,0 days 00:34:00,2040
-1,REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",San Vicente,0 days 00:34:00,2040
-2,REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Pinoza,0 days 00:34:00,2040
-0,SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Mburicao,0 days 00:31:00,1860
-1,SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Recoleta,0 days 00:31:00,1860
-2,SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:31:00,1860
-3,SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:31:00,1860
-0,SMI3,21/08/2020 08:01,21/08/2020 08:21,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Gral. Bernardino Caballero,0 days 00:20:00,1200
-1,SMI3,21/08/2020 08:01,21/08/2020 08:21,Accidental,Normal,"Línea MT protegida averiada, ocasionada porincendio de ómnibus. Rodríguez de Francia y Pa'iPérez.",Ciudad Nueva,0 days 00:20:00,1200
-0,SMI5,20/08/2020 00:35,20/08/2020 00:52,Accidental,Normal,No establecido.,Las Mercedes,0 days 00:17:00,1020
-1,SMI5,20/08/2020 00:35,20/08/2020 00:52,Accidental,Normal,No establecido.,Ciudad Nueva,0 days 00:17:00,1020
-0,SMI7,22/08/2020 03:25,22/08/2020 04:12,Accidental,Normal,No establecido.,San Felipe,0 days 00:47:00,2820
-1,SMI7,22/08/2020 03:25,22/08/2020 04:12,Accidental,Normal,No establecido.,Jara,0 days 00:47:00,2820
-0,VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Los Laureles,0 days 02:00:00,7200
-1,VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Mcal. Estigarribia,0 days 02:00:00,7200
-2,VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Hipódromo,0 days 02:00:00,7200
-3,VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Tembetary,0 days 02:00:00,7200
-0,VAU6,22/08/2020 14:50,22/08/2020 14:53,Programado,Normal,Abierto interruptor para efectuar maniobras. Corteprogramado DD/MLD/075/20.,Mcal. Estigarribia,0 days 00:03:00,180
-0,VAU8,19/08/2020 19:55,19/08/2020 21:07,Accidental,Normal,Cruceta MT rota. M. Dominguez y Rio Pilcomayo,Villa Aurelia,0 days 01:12:00,4320
+PRIMARIO,FUERA DE SERVICIO,REPOSICION,TIPO DE EVENTO,ESTADO DEL CLIMA,OBSERVACION,BARRIO,DURACION,DURACION SEGS
+BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Bella Vista,0 days 00:01:00,60
+BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Santo Domingo,0 days 00:01:00,60
+BCP2,22/08/2020 17:29,22/08/2020 17:30,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Manorá,0 days 00:01:00,60
+BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Las Carmelitas,0 days 00:04:00,240
+BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Villa Morra,0 days 00:04:00,240
+BCP3,22/08/2020 17:20,22/08/2020 17:24,Producción,Normal,"Transferencia de los Alimentadores 23kV de la SE-
+BCP, a pedido del CORM. TR-SS.AA 01/23kV
+averiado.",Manorá,0 days 00:04:00,240
+BMO2,25/08/2020 22:08,26/08/2020 00:08,Accidental,Normal,No establecido.,Itay,0 days 02:00:00,7200
+BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,Luis Alberto de Herrera,0 days 02:00:00,7200
+BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,San Cristóbal,0 days 02:00:00,7200
+BPA4,7/08/2020 12:21,07/08/2020 14:21,Accidental,Normal,No establecido.,Santa María,0 days 02:00:00,7200
+BPA8,19/08/2020 21:31,19/08/2020 23:31,Accidental,Normal,No establecido.,Villa Morra,0 days 02:00:00,7200
+FDM2,11/08/2020 15:13,11/08/2020 17:13,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
+FDM2,14/08/2020 23:10,14/08/2020 23:11,Programado,Normal,MEMO DD/DCC1/206/2020. Transferencias sobre
+LAM18.,San Pablo,0 days 00:01:00,60
+FDM2,19/08/2020 20:10,19/08/2020 22:10,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
+FDM2,23/08/2020 11:53,23/08/2020 13:06,Accidental,Normal,Choque por sostén MT y cruceta MT rota.
+Defensores del Chaco y Progreso.,San Pablo,0 days 01:13:00,4380
+FDM3,14/08/2020 23:36,14/08/2020 23:37,Programado,Normal,MEMO DD/DCC1/206/2020. Transferencia sobre
+VAU5.,San Pablo,0 days 00:01:00,60
+GDI2,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Gral. J. E Diaz,0 days 00:39:00,2340
+GDI2,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Obrero,0 days 00:39:00,2340
+GDI3,7/08/2020 14:53,7/08/2020 15:29,Accidental,Normal,Brazo de AP en contacto con MT. Montevideo y 9na.,Gral. J. E Diaz,0 days 00:36:00,2160
+GDI3,11/08/2020 08:17,11/08/2020 09:11,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:54:00,3240
+GDI3,20/08/2020 09:51,20/08/2020 10:08,Accidental,Normal,No establecido.,Gral. J. E Diaz,0 days 00:17:00,1020
+GDI3,28/08/2020 12:19,28/08/2020 12:58,Accidental,Normal,Cruceta MT rota. Acople GDI2/3.,Gral. J. E Diaz,0 days 00:39:00,2340
+GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Obrero,0 days 01:03:00,3780
+GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Dr. Roberto L. Petit,0 days 01:03:00,3780
+GDI4,25/08/2020 13:55,25/08/2020 14:58,Accidental,Normal,Línea MT suelta. México y 24 Proyectadas.,Bañado Tacumbu,0 days 01:03:00,3780
+LAM10,7/08/2020 14:44,7/08/2020 15:20,Accidental,Normal,"Desperfecto interno, Fernando de la Mora e Yvapovo.",Terminal,0 days 00:36:00,2160
+LAM22,8/08/2020 00:20,8/08/2020 01:16,Accidental,Normal,Choque por columna y Línea desprendida. Rca.
+Argentina y Tobati.,Hipódromo,0 days 00:56:00,3360
+LAM22,8/08/2020 00:20,8/08/2020 01:16,Accidental,Normal,Choque por columna y Línea desprendida. Rca.
+Argentina y Tobati.,Terminal,0 days 00:56:00,3360
+LAM22,23/08/2020 23:16,23/08/2020 23:48,Accidental,Normal,Rama sobre línea MT. Ecuador y República
+Argentina.,Hipódromo,0 days 00:32:00,1920
+LAM22,23/08/2020 23:16,23/08/2020 23:48,Accidental,Normal,Rama sobre línea MT. Ecuador y República
+Argentina.,Terminal,0 days 00:32:00,1920
+LAM23,4/08/2020 14:42,4/08/2020 15:22,Accidental,Normal,Paloma en contacto con cruceta y F2. Eliseo Peralta
+y Guaraníes.,Mburicao,0 days 00:40:00,2400
+LAM23,5/08/2020 21:03,5/08/2020 21:30,Programado,Normal,No establecido.,Mburicao,0 days 00:27:00,1620
+LAM23,5/08/2020 23:25,5/08/2020 23:56,Accidental,Normal,Abierto interruptor para reparación de Puente MT
+suelto y fusible averiado.,Mburicao,0 days 00:31:00,1860
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",Santa Ana,0 days 01:03:00,3780
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",Itá Enramada,0 days 01:03:00,3780
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",Jukyty,0 days 01:03:00,3780
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",Santa Librada,0 days 01:03:00,3780
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",San Cayetano,0 days 01:03:00,3780
+LAM5,13/08/2020 11:06,13/08/2020 12:09,Accidental,Normal,"Puente MT Suelto F2. Cruce subterráneo, Perón y
+San Fernando.",Pirizal,0 days 01:03:00,3780
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",Santa Ana,0 days 00:51:00,3060
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",Itá Enramada,0 days 00:51:00,3060
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",Jukyty,0 days 00:51:00,3060
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",Santa Librada,0 days 00:51:00,3060
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",San Cayetano,0 days 00:51:00,3060
+LAM5,27/08/2020 23:25,28/08/2020 00:16,Accidental,Normal,"SF averiado F3, Puente MT Suelto. Perón y Santa
+Rosa.",Pirizal,0 days 00:51:00,3060
+LAM7,12/08/2020 03:07,12/08/2020 03:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Vista Alegre,0 days 00:37:00,2220
+LAM7,12/08/2020 03:07,12/08/2020 03:44,Accidental,Adverso,Condiciones Climáticas Adversas.,Pinoza,0 days 00:37:00,2220
+LAM7,20/08/2020 01:34,20/08/2020 03:14,Accidental,Normal,No establecido.,Vista Alegre,0 days 01:40:00,6000
+LAM7,20/08/2020 01:34,20/08/2020 03:14,Accidental,Normal,No establecido.,Pinoza,0 days 01:40:00,6000
+MBU2,20/08/2020 01:11,20/08/2020 01:51,Accidental,Normal,Cruceta MT rota. Tte. Esquivel y Sgto. Pisciota.,Madame Lynch,0 days 00:40:00,2400
+MBU2,20/08/2020 01:11,20/08/2020 01:51,Accidental,Normal,Cruceta MT rota. Tte. Esquivel y Sgto. Pisciota.,Mburucuyá,0 days 00:40:00,2400
+MBU2,25/08/2020 07:25,25/08/2020 08:29,Accidental,Normal,No establecido.,Madame Lynch,0 days 01:04:00,3840
+MBU2,25/08/2020 07:25,25/08/2020 08:29,Accidental,Normal,No establecido.,Mburucuyá,0 days 01:04:00,3840
+MBU2,25/08/2020 08:40,25/08/2020 08:53,Accidental,Normal,No establecido.,Madame Lynch,0 days 00:13:00,780
+MBU2,25/08/2020 08:40,25/08/2020 08:53,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:13:00,780
+MBU2,29/08/2020 15:24,29/08/2020 17:09,Accidental,Normal,Línea MT en contacto por sostén intermedio. Calle 8
+y Rufino Cañete.,Madame Lynch,0 days 01:45:00,6300
+MBU2,29/08/2020 15:24,29/08/2020 17:09,Accidental,Normal,Línea MT en contacto por sostén intermedio. Calle 8
+y Rufino Cañete.,Mburucuyá,0 days 01:45:00,6300
+MBU2,30/08/2020 08:27,30/08/2020 10:27,Accidental,Normal,No establecido.,Madame Lynch,0 days 02:00:00,7200
+MBU2,30/08/2020 08:27,30/08/2020 10:27,Accidental,Normal,No establecido.,Mburucuyá,0 days 02:00:00,7200
+MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Las Carmelitas,0 days 02:00:00,7200
+MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Madame Lynch,0 days 02:00:00,7200
+MBU3,10/08/2020 16:43,10/08/2020 18:43,Accidental,Normal,SF averiado. Julio Correa y Sgto. Benitez.,Mburucuyá,0 days 02:00:00,7200
+MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Las Carmelitas,0 days 00:42:00,2520
+MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Madame Lynch,0 days 00:42:00,2520
+MBU3,10/08/2020 19:36,10/08/2020 20:18,Accidental,Normal,SF averiado. Julio Correa y Sgto. Manuel Benitez.,Mburucuyá,0 days 00:42:00,2520
+MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:38:00,2280
+MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Loma Pyta,0 days 00:38:00,2280
+MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Ñu Guasu,0 days 00:38:00,2280
+MBU4,19/08/2020 18:10,19/08/2020 18:48,Accidental,Normal,No establecido.,Mburucuyá,0 days 00:38:00,2280
+MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.
+Poste Intermedio en contacto con Línea MT en J.
+Pinho y Tte. Insfrán.,Mbocayaty,0 days 01:02:00,3720
+MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.
+Poste Intermedio en contacto con Línea MT en J.
+Pinho y Tte. Insfrán.,Loma Pyta,0 days 01:02:00,3720
+MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.
+Poste Intermedio en contacto con Línea MT en J.
+Pinho y Tte. Insfrán.,Ñu Guasu,0 days 01:02:00,3720
+MBU4,19/08/2020 19:10,19/08/2020 20:12,Accidental,Normal,Ramas sobre Línea MT en J. Pinho y La Piedad.
+Poste Intermedio en contacto con Línea MT en J.
+Pinho y Tte. Insfrán.,Mburucuyá,0 days 01:02:00,3720
+MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y Pinho
+Gonzalez.,Mbocayaty,0 days 00:37:00,2220
+MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y Pinho
+Gonzalez.,Loma Pyta,0 days 00:37:00,2220
+MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y Pinho
+Gonzalez.,Ñu Guasu,0 days 00:37:00,2220
+MBU4,20/08/2020 02:00,20/08/2020 02:37,Accidental,Normal,Línea MT Suelta. Diagonal La Piedad y Pinho
+Gonzalez.,Mburucuyá,0 days 00:37:00,2220
+MBU7,13/08/2020 10:26,13/08/2020 12:26,Accidental,Normal,No establecido.,Virgen de la Asunción,0 days 02:00:00,7200
+MBU7,13/08/2020 10:26,13/08/2020 12:26,Accidental,Normal,No establecido.,Cañada Ybyray,0 days 02:00:00,7200
+MBU7,13/08/2020 11:40,13/08/2020 11:52,Accidental,Normal,"Abierto Interruptor, Línea MT Suelta en Molas López
+y Veteranos del 70.",Virgen de la Asunción,0 days 00:12:00,720
+MBU7,13/08/2020 11:40,13/08/2020 11:52,Accidental,Normal,"Abierto Interruptor, Línea MT Suelta en Molas López
+y Veteranos del 70.",Cañada Ybyray,0 days 00:12:00,720
+MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. San
+Roque y Eligio Ayala.,Loma Pyta,0 days 01:29:00,5340
+MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. San
+Roque y Eligio Ayala.,Zeballos Cué,0 days 01:29:00,5340
+MRA1,20/08/2020 13:27,20/08/2020 14:56,Accidental,Normal,Desperfecto interno Supermercando KINGO. San
+Roque y Eligio Ayala.,San Blas,0 days 01:29:00,5340
+MRA11,19/08/2020 18:30,19/08/2020 20:30,Accidental,Normal,No establecido.,Loma Pyta,0 days 02:00:00,7200
+MRA11,19/08/2020 18:49,19/08/2020 20:43,Accidental,Normal,No establecido.,Loma Pyta,0 days 01:54:00,6840
+MRA11,19/08/2020 20:44,19/08/2020 21:11,Accidental,Normal,Línea MT en contacto con F2 por poste intermedio.
+Línea MT Suelta F3 en Tatare y Quintana.,Loma Pyta,0 days 00:27:00,1620
+PBO14,8/08/2020 05:12,8/08/2020 05:59,Accidental,Normal,No establecido.,Zeballos Cué,0 days 00:47:00,2820
+PBO14,29/08/2020 12:50,29/08/2020 15:13,Accidental,Normal,Puente MT Suelto. Entrada subterráneo en Mcal.
+Estigarribia y Epopeya Nacional. Tramo averiado.,Zeballos Cué,0 days 02:23:00,8580
+PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:26:00,1560
+PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:26:00,1560
+PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:26:00,1560
+PBO17,19/08/2020 20:55,19/08/2020 21:21,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:26:00,1560
+PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Salvador del Mundo,0 days 00:35:00,2100
+PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Mbocayaty,0 days 00:35:00,2100
+PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Santa Rosa,0 days 00:35:00,2100
+PBO17,19/08/2020 22:40,19/08/2020 23:15,Accidental,Normal,No establecido.,Santísima Trinidad,0 days 00:35:00,2100
+PBO20,20/08/2020 00:09,20/08/2020 00:33,Accidental,Normal,No establecido.,Botánico,0 days 00:24:00,1440
+PBO20,20/08/2020 16:54,20/08/2020 17:53,Accidental,Normal,Línea MT en C.C. Epopeya Nacional y Diaz.,Botánico,0 days 00:59:00,3540
+PBO20,23/08/2020 15:51,23/08/2020 16:51,Accidental,Normal,No establecido.,Botánico,0 days 01:00:00,3600
+PCA5,17/08/2020 00:55,17/08/2020 01:18,Accidental,Normal,No establecido.,La Catedral,0 days 00:23:00,1380
+PCA5,21/08/2020 21:13,21/08/2020 21:47,Accidental,Normal,No establecido.,La Catedral,0 days 00:34:00,2040
+PCA6,16/08/2020 13:49,16/08/2020 15:05,Accidental,Normal,No establecido.,La Catedral,0 days 01:16:00,4560
+PCA6,23/08/2020 08:41,23/08/2020 08:58,Accidental,Normal,Al efectuar apertura del SBC 51562 - PD SM262.,La Catedral,0 days 00:17:00,1020
+PCA6,26/08/2020 02:56,26/08/2020 03:13,Accidental,Normal,No establecido.,La Catedral,0 days 00:17:00,1020
+PCA6,30/08/2020 08:08,30/08/2020 08:31,Accidental,Normal,No establecido.,La Catedral,0 days 00:23:00,1380
+PCA6,30/08/2020 08:43,30/08/2020 09:09,Accidental,Normal,Aislador porta barras averiado. PE FERIA
+ASUNCIÓN. Azara y México.,La Catedral,0 days 00:26:00,1560
+PSA11,9/08/2020 16:28,9/08/2020 17:17,Accidental,Normal,Cola de pandorga. Zona Bañado.,Bañado Tacumbu,0 days 00:49:00,2940
+PSA11,9/08/2020 16:28,9/08/2020 17:17,Accidental,Normal,Cola de pandorga. Zona Bañado.,Sajonia,0 days 00:49:00,2940
+PSA11,12/08/2020 09:57,12/08/2020 11:20,Accidental,Normal,Cruceta MT rota. Bañado Sur.,Bañado Tacumbu,0 days 01:23:00,4980
+PSA11,12/08/2020 09:57,12/08/2020 11:20,Accidental,Normal,Cruceta MT rota. Bañado Sur.,Sajonia,0 days 01:23:00,4980
+PSA11,14/08/2020 02:52,14/08/2020 03:20,Accidental,Normal,No establecido.,Bañado Tacumbu,0 days 00:28:00,1680
+PSA11,14/08/2020 02:52,14/08/2020 03:20,Accidental,Normal,No establecido.,Sajonia,0 days 00:28:00,1680
+PSA12,11/08/2020 15:01,11/08/2020 16:04,Accidental,Normal,"Tramo subterráneo averiado, acometida al PD PS81.
+Cruceta MT rota. SF averiado.",Carlos A. López,0 days 01:03:00,3780
+PSA12,11/08/2020 22:35,11/08/2020 22:38,Accidental,Normal,"Abierto Interruptor, para efectuar cierre de SFT al
+PS81.",Carlos A. López,0 days 00:03:00,180
+PSA4,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel La
+Católica.,Ita Pyta Punta,0 days 00:48:00,2880
+PSA4,27/08/2020 19:11,27/08/2020 19:33,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:22:00,1320
+PSA4,29/08/2020 09:32,29/08/2020 10:07,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:35:00,2100
+PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,San Antonio,0 days 00:47:00,2820
+PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:47:00,2820
+PSA6,11/08/2020 07:59,11/08/2020 08:46,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:47:00,2820
+PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,San Antonio,0 days 00:40:00,2400
+PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,Ita Pyta Punta,0 days 00:40:00,2400
+PSA6,26/08/2020 06:31,26/08/2020 07:11,Accidental,Normal,SF operado. G. Arias c/ Isabel de la Católica.,Dr. Gaspar Rodríguez de Francia,0 days 00:40:00,2400
+PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel La
+Católica.,San Antonio,0 days 00:48:00,2880
+PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel La
+Católica.,Ita Pyta Punta,0 days 00:48:00,2880
+PSA6,26/08/2020 13:57,26/08/2020 14:45,Accidental,Normal,Descargador averiado. Dr. Montero e Isabel La
+Católica.,Dr. Gaspar Rodríguez de Francia,0 days 00:48:00,2880
+PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,San Antonio,0 days 00:39:00,2340
+PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,Ita Pyta Punta,0 days 00:39:00,2340
+PSA6,29/08/2020 09:32,29/08/2020 10:11,Accidental,Normal,No establecido.,Dr. Gaspar Rodríguez de Francia,0 days 00:39:00,2340
+PSA7,24/08/2020 12:27,24/08/2020 13:03,Accidental,Normal,Drone en contacto con línea MT. 23 Proyectadas e/
+México y Antequera.,Bañado Tacumbu,0 days 00:36:00,2160
+PSA7,24/08/2020 12:27,24/08/2020 13:03,Accidental,Normal,Drone en contacto con línea MT. 23 Proyectadas e/
+México y Antequera.,Carlos A. López,0 days 00:36:00,2160
+REP1,12/08/2020 02:48,12/08/2020 04:48,Accidental,Adverso,Condiciones Climáticas Adversas.,Dr. Roberto L. Petit,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,San Pablo,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Obrero,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,San Vicente,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Republicano,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Santa Ana,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Jukyty,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Santa Librada,0 days 02:00:00,7200
+REP3,1/08/2020 08:21,01/08/2020 10:21,Accidental,Normal,No establecido.,Pirizal,0 days 02:00:00,7200
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,San Pablo,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Obrero,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,San Vicente,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Republicano,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Santa Ana,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Jukyty,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Santa Librada,0 days 00:58:00,3480
+REP3,15/08/2020 10:17,15/08/2020 11:15,Accidental,Normal,Línea MT en C.C por carga elevada. Tte. Sánchez
+Leitón y Del Carmen.,Pirizal,0 days 00:58:00,3480
+REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Tte. Silvio Pettirossi,0 days 00:58:00,3480
+REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",San Vicente,0 days 00:58:00,3480
+REP5,21/08/2020 07:24,21/08/2020 08:22,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Pinoza,0 days 00:58:00,3480
+REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,San Vicente,0 days 02:00:00,7200
+REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,Pinoza,0 days 02:00:00,7200
+REP6,19/08/2020 18:58,19/08/2020 20:58,Accidental,Normal,No establecido.,Pirizal,0 days 02:00:00,7200
+REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,San Vicente,0 days 00:36:00,2160
+REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,Pinoza,0 days 00:36:00,2160
+REP6,19/08/2020 19:00,19/08/2020 19:36,Accidental,Normal,No establecido.,Pirizal,0 days 00:36:00,2160
+REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,San Vicente,0 days 00:29:00,1740
+REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,Pinoza,0 days 00:29:00,1740
+REP6,19/08/2020 21:02,19/08/2020 21:31,Accidental,Normal,No establecido.,Pirizal,0 days 00:29:00,1740
+REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. M
+Gardell c/ Zorrilla de San Martín.,San Vicente,0 days 01:42:00,6120
+REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. M
+Gardell c/ Zorrilla de San Martín.,Pinoza,0 days 01:42:00,6120
+REP6,19/08/2020 22:28,20/08/2020 00:10,Accidental,Normal,Sostén intermedio en contacto con Línea MT. M
+Gardell c/ Zorrilla de San Martín.,Pirizal,0 days 01:42:00,6120
+REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,San Vicente,0 days 00:17:00,1020
+REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,Pinoza,0 days 00:17:00,1020
+REP6,20/08/2020 00:19,20/08/2020 00:36,Accidental,Normal,No establecido.,Pirizal,0 days 00:17:00,1020
+REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,San Vicente,0 days 00:19:00,1140
+REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,Pinoza,0 days 00:19:00,1140
+REP6,20/08/2020 01:38,20/08/2020 01:57,Accidental,Normal,No establecido.,Pirizal,0 days 00:19:00,1140
+REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo y
+Suecia.,San Vicente,0 days 00:54:00,3240
+REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo y
+Suecia.,Pinoza,0 days 00:54:00,3240
+REP6,25/08/2020 10:53,25/08/2020 11:47,Accidental,Normal,Terminal intemperie averiado F2. Próceres de Mayo y
+Suecia.,Pirizal,0 days 00:54:00,3240
+REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,San Vicente,0 days 00:03:00,180
+REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,Pinoza,0 days 00:03:00,180
+REP6,25/08/2020 11:51,25/08/2020 11:54,Accidental,Normal,Al efectuar maniobras.,Pirizal,0 days 00:03:00,180
+REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Tte. Silvio Pettirossi,0 days 00:34:00,2040
+REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",San Vicente,0 days 00:34:00,2040
+REP7,21/08/2020 07:58,21/08/2020 08:32,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Pinoza,0 days 00:34:00,2040
+SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Mburicao,0 days 00:31:00,1860
+SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Recoleta,0 days 00:31:00,1860
+SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Mcal. Francisco S. López,0 days 00:31:00,1860
+SMI2,11/08/2020 06:16,11/08/2020 06:47,Accidental,Normal,No establecido.,Gral. Bernardino Caballero,0 days 00:31:00,1860
+SMI3,21/08/2020 08:01,21/08/2020 08:21,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Gral. Bernardino Caballero,0 days 00:20:00,1200
+SMI3,21/08/2020 08:01,21/08/2020 08:21,Accidental,Normal,"Línea MT protegida averiada, ocasionada por
+incendio de ómnibus. Rodríguez de Francia y Pa'i
+Pérez.",Ciudad Nueva,0 days 00:20:00,1200
+SMI5,20/08/2020 00:35,20/08/2020 00:52,Accidental,Normal,No establecido.,Las Mercedes,0 days 00:17:00,1020
+SMI5,20/08/2020 00:35,20/08/2020 00:52,Accidental,Normal,No establecido.,Ciudad Nueva,0 days 00:17:00,1020
+SMI7,22/08/2020 03:25,22/08/2020 04:12,Accidental,Normal,No establecido.,San Felipe,0 days 00:47:00,2820
+SMI7,22/08/2020 03:25,22/08/2020 04:12,Accidental,Normal,No establecido.,Jara,0 days 00:47:00,2820
+VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Los Laureles,0 days 02:00:00,7200
+VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Mcal. Estigarribia,0 days 02:00:00,7200
+VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Hipódromo,0 days 02:00:00,7200
+VAU1,11/08/2020 09:49,11/08/2020 11:49,Accidental,Normal,No establecido.,Tembetary,0 days 02:00:00,7200
+VAU6,22/08/2020 14:50,22/08/2020 14:53,Programado,Normal,Abierto interruptor para efectuar maniobras. Corte
+programado DD/MLD/075/20.,Mcal. Estigarribia,0 days 00:03:00,180
+VAU8,19/08/2020 19:55,19/08/2020 21:07,Accidental,Normal,Cruceta MT rota. M. Dominguez y Rio Pilcomayo,Villa Aurelia,0 days 01:12:00,4320
